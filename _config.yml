@@ -27,9 +27,13 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 livereload: true
+autoprefixer:
+  browsers:
+  - last 2 versions
 gems:
   - jekyll-feed
   - jekyll-livereload
+  - jekyll-autoprefixer
   - github-pages
 exclude:
   - Gemfile
