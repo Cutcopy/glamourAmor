@@ -1,0 +1,80 @@
+<head>
+  <link rel="stylesheet" href="/css/main.css">
+  <head>
+    <!-- Title -->
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <!-- Stylin's -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700,300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <!-- All that meta crap -->
+    <meta name="description" content="{{site.description}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="content-language" content="en_US">
+    <meta name="author" content="Bryce Stradling">
+    <meta name="web_author" content="Bryce Stradling">
+    <meta name="copyright" content="Bryce Stradling">
+
+    <!--Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:description" content="{{site.description}}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="http://brycestradling.com/img/favicon.png">
+    <meta property="fb:admins" content="63206588">
+    <meta property="og:rich_attachment" content="true">
+
+    <!-- Oldschool meta content -->
+    <meta itemprop="description" content="{{site.description}}">
+    <meta name="keywords" content="Graphic Designer, Front End Developer, Photographer, Artist, Web Design, UI Design, Hipster, SEO Hater">
+    <meta name="copyright" content="Copyright © 2016">
+    <meta name="author" content="Bryce Stradling">
+    <meta name="designer" content="Bryce Stradling">
+    <meta name="email" content="brycestradling@gmail.com">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <link type="text/plain" rel="author" href="http://brycestradling.com/humans.txt">
+    <link rel="author" href="https://plus.google.com/+BryceStradling"/>
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@losslessdesign">
+    <meta property="twitter:creator" content="@losslessdesign">
+    <meta property="twitter:url" content="http://brycestradling.com">
+    <meta property="twitter:domain" content="Brycestradling.com">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="twitter:description" content="{{site.description}}">
+    <meta name="twitter:image" content="http://brycestradling.com/img/favicon.png">
+
+    <!-- WHY DO WE NEED SO MANY ICONS!? -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#de2c69">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#de2c69">
+<!-- Sneaky Sneaky'
+ ######      ###     ##     ##   ######    ##     ##  ########     ##    ##   #######   ##     ##     ##         #######    #######   ##    ##  ####  ##    ##   ######
+##    ##    ## ##    ##     ##  ##    ##   ##     ##     ##         ##  ##   ##     ##  ##     ##     ##        ##     ##  ##     ##  ##   ##    ##   ###   ##  ##    ##
+##         ##   ##   ##     ##  ##         ##     ##     ##          ####    ##     ##  ##     ##     ##        ##     ##  ##     ##  ##  ##     ##   ####  ##  ##
+##        ##     ##  ##     ##  ##   ####  #########     ##           ##     ##     ##  ##     ##     ##        ##     ##  ##     ##  #####      ##   ## ## ##  ##   ####
+##        #########  ##     ##  ##    ##   ##     ##     ##           ##     ##     ##  ##     ##     ##        ##     ##  ##     ##  ##  ##     ##   ##  ####  ##    ##
+##    ##  ##     ##  ##     ##  ##    ##   ##     ##     ##           ##     ##     ##  ##     ##     ##        ##     ##  ##     ##  ##   ##    ##   ##   ###  ##    ##
+ ######   ##     ##   #######    ######    ##     ##     ##           ##      #######    #######      ########   #######    #######   ##    ##  ####  ##    ##   ###### -->
+</head>

@@ -1,20 +1,62 @@
 nav
-  height: 100vh
   background: white
   width: 100%
-  max-width: 6em
+  max-width: $nav-width
+  height: 100vh
+  position: fixed
+  top: 0
+  left: 0
   display: flex
+  flex-direction: column-reverse
+  justify-content: flex-end
+  align-items: center
+  padding: 1em
+  overflow: hidden
   ul
-    padding: 1em
     margin: 0
-    width: 100%
+    width: 30em
     height: auto
     list-style-type: none
     transform: rotate(-90deg)
     display: flex
+    align-items: center
     li
       display: inline-block
       padding: 1em
-
+      a
+        color: $black
+        text-decoration: none
+.nav-logo
+  height: 4rem
+  width: 100%
 #nav-logo
   fill: black
+  height: 3rem
+  display: block
+  margin: 0 auto
+
+.flair
+  height: 50vh
+  position: absolute
+  bottom: 0
+.line
+  width: 1px
+  height: 48vh
+  background: $black
+  margin: 0 auto
+.switcher
+  margin-left: 2em
+.pallete
+  +sq(2em)
+  display: inline-block
+  position: relative
+.bg
+  background: $base
+  position: relative
+  z-index: 2
+.fg
+  background: $second
+  position: relative
+  right: 1em
+  z-index: 1
+  bottom: 1em
