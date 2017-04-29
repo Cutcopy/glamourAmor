@@ -1,2 +1,23 @@
+
+*
+  box-sizing: border-box
+body
+  padding: 0
+  margin: 0
+  background: $base
+  font-family: Raleway, Helvetica, Roboto, Arial, sans-serif
 p
   color: white
+
+.wrapper-dk
+  padding-top: $nav-width
+  padding-left: $nav-width + 1em
+  background: url(../img/Thegreatwave.jpg)
+  height: 100vh
+
+//Typography
+
+@each $header, $size in (h1: 8rem, h2: 6rem, h3: 4rem, h4: 3rem, h5: 2rem, h6: 1.5rem)
+  #{$header}
+    font-size: $size
+    color: white
