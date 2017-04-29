@@ -54,12 +54,31 @@ nav
   z-index: 2
 .fg
   z-index: 1
-
+.switcher
+  img
+    transform: rotate(270deg)
+    position: absolute
+    left: 12px
+    top: 0px
+    width: 15px
+    cursor: pointer
 #pallete1
-  background: var(--bgcolor)
+  background: transparent
   position: relative
+  border: none
+  padding: 0
+  height: 35px
+  width: 30px
+  appearance: none
+  &:focus
+    border: 0
+    box-shadow: none
 #pallete2
-  background: var(--fgcolor)
+  background: transparent
   position: relative
   right: 1em
   bottom: 1em
+  border: 0
+  padding: 0
+  height: 35px
+  width: 30px
