@@ -1,0 +1,2165 @@
+<svg width="933" height="933" viewBox="0 0 933 933" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>VectorSpiralThing</title>
+  <g id="Canvas" transform="translate(407 468)">
+    <g id="VectorSpiralThing">
+        <g id="Group" filter="url(#filter0_d)">
+          <g id="path16">
+            <use xlink:href="#path0_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 59.5003 -1.49985)" fill="#FBBD17"/>
+          </g>
+          <g id="path18">
+            <use xlink:href="#path1_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 -23.4378 81.4382)" fill="#F7E219"/>
+          </g>
+          <g id="path20">
+            <use xlink:href="#path2_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 518 -460)" fill="#D9611E"/>
+          </g>
+          <g id="path22">
+            <use xlink:href="#path3_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 460.116 -402.116)" fill="#D9611E"/>
+          </g>
+          <g id="path24">
+            <use xlink:href="#path4_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 518 -1.49981)" fill="#FBBD17"/>
+          </g>
+          <g id="path26">
+            <use xlink:href="#path5_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 460.116 81.4382)" fill="#F7E219"/>
+          </g>
+          <g id="path28">
+            <use xlink:href="#path6_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 59.5003 -460)" fill="#D9611E"/>
+          </g>
+          <g id="path74">
+            <use xlink:href="#path7_fill" transform="matrix(-0.133333 -1.16564e-08 -1.16564e-08 0.133333 -23.4377 -402.116)" fill="#D9611E"/>
+          </g>
+        </g>
+        <g id="1bottom">
+          <g id="path540">
+            <use xlink:href="#path8_fill" transform="matrix(0.133333 0 0 -0.133333 -30.5147 366.74)" fill="#DC611D"/>
+          </g>
+          <g id="path542">
+            <use xlink:href="#path9_fill" transform="matrix(0.133333 0 0 -0.133333 -60.4085 351.713)" fill="#DC621D"/>
+          </g>
+          <g id="path544">
+            <use xlink:href="#path10_fill" transform="matrix(0.133333 0 0 -0.133333 -83 332.789)" fill="#DA611E"/>
+          </g>
+          <g id="path634">
+            <use xlink:href="#path11_fill" transform="matrix(0.133333 0 0 -0.133333 5.88066 392.768)" fill="#E1621D"/>
+          </g>
+          <g id="path692">
+            <use xlink:href="#path12_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 392.384)" fill="#E1621D"/>
+          </g>
+          <g id="path746">
+            <use xlink:href="#path13_fill" transform="matrix(0.133333 0 0 -0.133333 95.7247 370.943)" fill="#DF621D"/>
+          </g>
+          <g id="path772">
+            <use xlink:href="#path14_fill" transform="matrix(0.133333 0 0 -0.133333 137.192 350.945)" fill="#DC611D"/>
+          </g>
+          <g id="path800">
+            <use xlink:href="#path15_fill" transform="matrix(0.133333 0 0 -0.133333 172.711 332.407)" fill="#DA611E"/>
+          </g>
+          <g id="path636">
+            <use xlink:href="#path16_fill" transform="matrix(0.133333 0 0 -0.133333 -12.5848 370.943)" fill="#DF621D"/>
+          </g>
+          <g id="path696">
+            <use xlink:href="#path17_fill" transform="matrix(0.133333 0 0 -0.133333 46.4146 368.235)" fill="#E1621D"/>
+          </g>
+          <g id="path742">
+            <use xlink:href="#path18_fill" transform="matrix(0.133333 0 0 -0.133333 121.264 366.356)" fill="#DC611D"/>
+          </g>
+        </g>
+        <g id="1top">
+          <g id="path80">
+            <use xlink:href="#path19_fill" transform="matrix(0.133333 0 0 -0.133333 59.3791 -269.616)" fill="#FAC517"/>
+          </g>
+          <g id="path82">
+            <use xlink:href="#path20_fill" transform="matrix(0.133333 0 0 -0.133333 90.909 -278.497)" fill="#FABC17"/>
+          </g>
+          <g id="path90">
+            <use xlink:href="#path21_fill" transform="matrix(0.133333 2.71143e-17 2.71143e-17 -0.133333 42 -263)" fill="#FAC717"/>
+          </g>
+          <g id="path104">
+            <use xlink:href="#path22_fill" transform="matrix(0.133333 0 0 -0.133333 -4.00002 -278.497)" fill="#FBBE17"/>
+          </g>
+          <g id="path88">
+            <use xlink:href="#path23_fill" transform="matrix(0.133333 0 0 -0.133333 6.283 -269.373)" fill="#FAC717"/>
+          </g>
+        </g>
+        <g id="Group 2" filter="url(#filter1_d)">
+          <g id="path30">
+            <use xlink:href="#path24_fill" transform="matrix(0.133333 0 0 -0.133333 -133.303 -287.802)" fill="#FAB618"/>
+          </g>
+          <g id="path32">
+            <use xlink:href="#path25_fill" transform="matrix(0.133333 0 0 -0.133333 -264.546 -166.754)" fill="#F8DF19"/>
+          </g>
+          <g id="path34">
+            <use xlink:href="#path26_fill" transform="matrix(0.133333 0 0 -0.133333 -153.442 -273.25)" fill="#FBC417"/>
+          </g>
+          <g id="path36">
+            <use xlink:href="#path27_fill" transform="matrix(0.133333 0 0 -0.133333 -267.183 -185.24)" fill="#F7E019"/>
+          </g>
+          <g id="path38">
+            <use xlink:href="#path28_fill" transform="matrix(0.133333 0 0 -0.133333 -167.39 -255.986)" fill="#FACF17"/>
+          </g>
+          <g id="path40">
+            <use xlink:href="#path29_fill" transform="matrix(0.133333 0 0 -0.133333 -268.578 -201.682)" fill="#F7E219"/>
+          </g>
+          <g id="path42">
+            <use xlink:href="#path30_fill" transform="matrix(0.133333 0 0 -0.133333 -206.617 -228.509)" fill="#F7DB19"/>
+          </g>
+          <g id="path44">
+            <use xlink:href="#path31_fill" transform="matrix(0.133333 0 0 -0.133333 -270.281 -228.149)" fill="#F7E219"/>
+          </g>
+          <g id="path46">
+            <use xlink:href="#path32_fill" transform="matrix(0.133333 0 0 -0.133333 -168.663 -249.313)" fill="#F9D117"/>
+          </g>
+          <g id="path48">
+            <use xlink:href="#path33_fill" transform="matrix(0.133333 0 0 -0.133333 -263.313 -215.439)" fill="#F7E219"/>
+          </g>
+          <g id="path50">
+            <use xlink:href="#path34_fill" transform="matrix(0.133333 0 0 -0.133333 -271.165 -229.42)" fill="#FACA17"/>
+          </g>
+          <g id="path52">
+            <use xlink:href="#path35_fill" transform="matrix(0.133333 0 0 -0.133333 -271.165 -286.794)" fill="#FAB618"/>
+          </g>
+          <g id="path54">
+            <use xlink:href="#path36_fill" transform="matrix(0.133333 0 0 -0.133333 -168.939 -267.373)" fill="#FAC817"/>
+          </g>
+          <g id="path56">
+            <use xlink:href="#path37_fill" transform="matrix(0.133333 0 0 -0.133333 -240.311 -226.901)" fill="#F7E219"/>
+          </g>
+          <g id="path58">
+            <use xlink:href="#path38_fill" transform="matrix(0.133333 0 0 -0.133333 -271.17 -236.445)" fill="#F8D818"/>
+          </g>
+          <g id="path60">
+            <use xlink:href="#path39_fill" transform="matrix(0.133333 0 0 -0.133333 -263.276 -244.407)" fill="#F9D417"/>
+          </g>
+          <g id="path62">
+            <use xlink:href="#path40_fill" transform="matrix(0.133333 0 0 -0.133333 -256.641 -251.043)" fill="#F9D117"/>
+          </g>
+          <g id="path64">
+            <use xlink:href="#path41_fill" transform="matrix(0.133333 0 0 -0.133333 -251.111 -256.572)" fill="#FACD17"/>
+          </g>
+          <g id="path66">
+            <use xlink:href="#path42_fill" transform="matrix(0.133333 0 0 -0.133333 -246.503 -261.181)" fill="#FACB17"/>
+          </g>
+          <g id="path68">
+            <use xlink:href="#path43_fill" transform="matrix(0.133333 0 0 -0.133333 -242.663 -265.021)" fill="#FAC817"/>
+          </g>
+          <g id="path70">
+            <use xlink:href="#path44_fill" transform="matrix(0.133333 0 0 -0.133333 -239.464 -268.221)" fill="#FAC717"/>
+          </g>
+          <g id="path72">
+            <use xlink:href="#path45_fill" transform="matrix(0.133333 0 0 -0.133333 -236.797 -270.888)" fill="#FBC317"/>
+          </g>
+          <g id="path76">
+            <use xlink:href="#path46_fill" transform="matrix(0.133333 0 0 -0.133333 -308.355 88.1069)" fill="#F78F1D"/>
+          </g>
+          <g id="path78">
+            <use xlink:href="#path47_fill" transform="matrix(0.133333 0 0 -0.133333 -292.946 118.007)" fill="#F6871F"/>
+          </g>
+          <g id="path84">
+            <use xlink:href="#path48_fill" transform="matrix(0.133333 0 0 -0.133333 -334 51.7164)" fill="#F9AD19"/>
+          </g>
+          <g id="path86">
+            <use xlink:href="#path49_fill" transform="matrix(0.133333 0 0 -0.133333 -312.942 70.5858)" fill="#F89A1B"/>
+          </g>
+          <g id="path92">
+            <use xlink:href="#path50_fill" transform="matrix(0.133333 0 0 -0.133333 19.0657 -240.062)" fill="#F8D617"/>
+          </g>
+          <g id="path94">
+            <use xlink:href="#path51_fill" transform="matrix(0.133333 0 0 -0.133333 46.7844 -256.766)" fill="#F8D617"/>
+          </g>
+          <g id="path96">
+            <use xlink:href="#path52_fill" transform="matrix(0.133333 0 0 -0.133333 -334 -1.37836)" fill="#FBC617"/>
+          </g>
+          <g id="path98">
+            <use xlink:href="#path53_fill" transform="matrix(0.133333 0 0 -0.133333 -219.656 -13.0717)" fill="#FBC517"/>
+          </g>
+          <g id="path100">
+            <use xlink:href="#path54_fill" transform="matrix(0.133333 0 0 -0.133333 -310.234 11.5854)" fill="#FBBD17"/>
+          </g>
+          <g id="path102">
+            <use xlink:href="#path55_fill" transform="matrix(0.133333 0 0 -0.133333 -208.616 -1.37836)" fill="#FBBF17"/>
+          </g>
+          <g id="path106">
+            <use xlink:href="#path56_fill" transform="matrix(0.133333 0 0 -0.133333 -35.0275 -202.28)" fill="#F8D617"/>
+          </g>
+          <g id="path108">
+            <use xlink:href="#path57_fill" transform="matrix(0.133333 0 0 -0.133333 -12.7384 -222.676)" fill="#F7D918"/>
+          </g>
+          <g id="path110">
+            <use xlink:href="#path58_fill" transform="matrix(0.133333 0 0 -0.133333 -308.355 -63.2625)" fill="#FBCC17"/>
+          </g>
+          <g id="path112">
+            <use xlink:href="#path59_fill" transform="matrix(0.133333 0 0 -0.133333 -236.04 -68.1477)" fill="#FBCC17"/>
+          </g>
+          <g id="path114">
+            <use xlink:href="#path60_fill" transform="matrix(0.133333 0 0 -0.133333 -312.942 -37.7252)" fill="#FCCB17"/>
+          </g>
+          <g id="path116">
+            <use xlink:href="#path61_fill" transform="matrix(0.133333 0 0 -0.133333 -233.942 -37.7531)" fill="#FCC917"/>
+          </g>
+          <g id="path118">
+            <use xlink:href="#path62_fill" transform="matrix(0.133333 0 0 -0.133333 -70.8942 -196.606)" fill="#F7D918"/>
+          </g>
+          <g id="path120">
+            <use xlink:href="#path63_fill" transform="matrix(0.133333 0 0 -0.133333 -137.991 -129.941)" fill="#F8DC19"/>
+          </g>
+          <g id="path122">
+            <use xlink:href="#path64_fill" transform="matrix(0.133333 0 0 -0.133333 -75.1048 -173.529)" fill="#F8DF19"/>
+          </g>
+          <g id="path124">
+            <use xlink:href="#path65_fill" transform="matrix(0.133333 0 0 -0.133333 -292.946 -79.1917)" fill="#FBCE17"/>
+          </g>
+          <g id="path126">
+            <use xlink:href="#path66_fill" transform="matrix(0.133333 0 0 -0.133333 -247.399 -78.8072)" fill="#FBCD17"/>
+          </g>
+          <g id="path128">
+            <use xlink:href="#path67_fill" transform="matrix(0.133333 0 0 -0.133333 -145.748 -102.929)" fill="#FBCE17"/>
+          </g>
+          <g id="path130">
+            <use xlink:href="#path68_fill" transform="matrix(0.133333 0 0 -0.133333 -99.0262 -208.353)" fill="#F6DF19"/>
+          </g>
+          <g id="path132">
+            <use xlink:href="#path69_fill" transform="matrix(0.133333 0 0 -0.133333 -82.9955 -206.508)" fill="#F7DB19"/>
+          </g>
+          <g id="path134">
+            <use xlink:href="#path70_fill" transform="matrix(0.133333 0 0 -0.133333 -198.541 -137.705)" fill="#F9D918"/>
+          </g>
+          <g id="path136">
+            <use xlink:href="#path71_fill" transform="matrix(0.133333 0 0 -0.133333 -153.639 -135.862)" fill="#F8DC19"/>
+          </g>
+          <g id="path138">
+            <use xlink:href="#path72_fill" transform="matrix(0.133333 0 0 -0.133333 -76.9488 -198.748)" fill="#F7E019"/>
+          </g>
+          <g id="path140">
+            <use xlink:href="#path73_fill" transform="matrix(0.133333 0 0 -0.133333 -254.863 -113.04)" fill="#FBD118"/>
+          </g>
+          <g id="path142">
+            <use xlink:href="#path74_fill" transform="matrix(0.133333 0 0 -0.133333 -147.596 -131.652)" fill="#FAD417"/>
+          </g>
+          <g id="path144">
+            <use xlink:href="#path75_fill" transform="matrix(0.133333 0 0 -0.133333 -123.483 -214.397)" fill="#F8D617"/>
+          </g>
+          <g id="path146">
+            <use xlink:href="#path76_fill" transform="matrix(0.133333 0 0 -0.133333 -83.7215 -259.298)" fill="#FACC17"/>
+          </g>
+          <g id="path148">
+            <use xlink:href="#path77_fill" transform="matrix(0.133333 0 0 -0.133333 -255.883 -143.753)" fill="#F8DC19"/>
+          </g>
+          <g id="path150">
+            <use xlink:href="#path78_fill" transform="matrix(0.133333 0 0 -0.133333 -159.119 -159.784)" fill="#F8DF19"/>
+          </g>
+          <g id="path152">
+            <use xlink:href="#path79_fill" transform="matrix(0.133333 0 0 -0.133333 -248.385 -141.573)" fill="#FAD617"/>
+          </g>
+          <g id="path154">
+            <use xlink:href="#path80_fill" transform="matrix(0.133333 0 0 -0.133333 -145.069 -219.877)" fill="#F8D517"/>
+          </g>
+          <g id="path156">
+            <use xlink:href="#path81_fill" transform="matrix(0.133333 0 0 -0.133333 -241.75 -165.348)" fill="#F8DF19"/>
+          </g>
+          <g id="path158">
+            <use xlink:href="#path82_fill" transform="matrix(0.133333 0 0 -0.133333 -162.929 -184.24)" fill="#F7E019"/>
+          </g>
+          <g id="path160">
+            <use xlink:href="#path83_fill" transform="matrix(0.133333 0 0 -0.133333 -164.636 -223.685)" fill="#F8D517"/>
+          </g>
+          <g id="path162">
+            <use xlink:href="#path84_fill" transform="matrix(0.133333 0 0 -0.133333 -227.045 -185.175)" fill="#F7E019"/>
+          </g>
+          <g id="path164">
+            <use xlink:href="#path85_fill" transform="matrix(0.133333 0 0 -0.133333 -165.562 -205.826)" fill="#F7E219"/>
+          </g>
+          <g id="path166">
+            <use xlink:href="#path86_fill" transform="matrix(0.133333 0 0 -0.133333 -183.616 -226.438)" fill="#F6E219"/>
+          </g>
+          <g id="path168">
+            <use xlink:href="#path87_fill" transform="matrix(0.133333 0 0 -0.133333 -167.39 -226.318)" fill="#F6DD19"/>
+          </g>
+          <g id="path170">
+            <use xlink:href="#path88_fill" transform="matrix(0.133333 0 0 -0.133333 -212.492 -202.409)" fill="#F7E219"/>
+          </g>
+          <g id="path172">
+            <use xlink:href="#path89_fill" transform="matrix(0.133333 0 0 -0.133333 -165.681 -225.394)" fill="#F7E219"/>
+          </g>
+          <g id="path174">
+            <use xlink:href="#path90_fill" transform="matrix(0.133333 0 0 -0.133333 -188.556 -228.148)" fill="#F6E119"/>
+          </g>
+          <g id="path176">
+            <use xlink:href="#path91_fill" transform="matrix(0.133333 0 0 -0.133333 -167.752 -244.372)" fill="#F6DE19"/>
+          </g>
+          <g id="path178">
+            <use xlink:href="#path92_fill" transform="matrix(0.133333 0 0 -0.133333 -195.228 -221.481)" fill="#F7E219"/>
+          </g>
+          <g id="path180">
+            <use xlink:href="#path93_fill" transform="matrix(0.133333 0 0 -0.133333 286.511 -228.509)" fill="#F7DA18"/>
+          </g>
+          <g id="path182">
+            <use xlink:href="#path94_fill" transform="matrix(0.133333 0 0 -0.133333 359.07 -228.149)" fill="#F7E219"/>
+          </g>
+          <g id="path184">
+            <use xlink:href="#path95_fill" transform="matrix(0.133333 0 0 -0.133333 344.796 -286.794)" fill="#FAB917"/>
+          </g>
+          <g id="path186">
+            <use xlink:href="#path96_fill" transform="matrix(0.133333 0 0 -0.133333 287.42 -229.421)" fill="#FACA17"/>
+          </g>
+          <g id="path188">
+            <use xlink:href="#path97_fill" transform="matrix(0.133333 0 0 -0.133333 294.447 -236.445)" fill="#F8D818"/>
+          </g>
+          <g id="path190">
+            <use xlink:href="#path98_fill" transform="matrix(0.133333 0 0 -0.133333 302.409 -244.407)" fill="#F9D417"/>
+          </g>
+          <g id="path192">
+            <use xlink:href="#path99_fill" transform="matrix(0.133333 0 0 -0.133333 309.045 -251.043)" fill="#F9D117"/>
+          </g>
+          <g id="path194">
+            <use xlink:href="#path100_fill" transform="matrix(0.133333 0 0 -0.133333 314.574 -256.572)" fill="#FACF17"/>
+          </g>
+          <g id="path196">
+            <use xlink:href="#path101_fill" transform="matrix(0.133333 0 0 -0.133333 319.183 -261.181)" fill="#FACB17"/>
+          </g>
+          <g id="path198">
+            <use xlink:href="#path102_fill" transform="matrix(0.133333 0 0 -0.133333 323.021 -265.021)" fill="#FACA17"/>
+          </g>
+          <g id="path200">
+            <use xlink:href="#path103_fill" transform="matrix(0.133333 0 0 -0.133333 326.221 -268.221)" fill="#FAC817"/>
+          </g>
+          <g id="path202">
+            <use xlink:href="#path104_fill" transform="matrix(0.133333 0 0 -0.133333 328.889 -270.888)" fill="#FBC417"/>
+          </g>
+          <g id="path204">
+            <use xlink:href="#path105_fill" transform="matrix(0.133333 0 0 -0.133333 284.439 -226.438)" fill="#F6E219"/>
+          </g>
+          <g id="path206">
+            <use xlink:href="#path106_fill" transform="matrix(0.133333 0 0 -0.133333 286.15 -228.148)" fill="#F6E119"/>
+          </g>
+          <g id="path208">
+            <use xlink:href="#path107_fill" transform="matrix(0.133333 0 0 -0.133333 -183.616 241.616)" fill="#F3681D"/>
+          </g>
+          <g id="path210">
+            <use xlink:href="#path108_fill" transform="matrix(0.133333 0 0 -0.133333 -190.388 328.281)" fill="#DB611D"/>
+          </g>
+          <g id="path212">
+            <use xlink:href="#path109_fill" transform="matrix(0.133333 0 0 -0.133333 -206.617 264.616)" fill="#EE661D"/>
+          </g>
+          <g id="path214">
+            <use xlink:href="#path110_fill" transform="matrix(0.133333 0 0 -0.133333 -270.281 248.387)" fill="#EF601B"/>
+          </g>
+          <g id="path216">
+            <use xlink:href="#path111_fill" transform="matrix(0.133333 0 0 -0.133333 -188.556 246.556)" fill="#F1691C"/>
+          </g>
+          <g id="path218">
+            <use xlink:href="#path112_fill" transform="matrix(0.133333 0 0 -0.133333 -271.163 329.164)" fill="#E3631C"/>
+          </g>
+          <g id="path220">
+            <use xlink:href="#path113_fill" transform="matrix(0.133333 0 0 -0.133333 -271.165 329.164)" fill="#D9611E"/>
+          </g>
+          <g id="path222">
+            <use xlink:href="#path114_fill" transform="matrix(0.133333 0 0 -0.133333 -271.17 329.17)" fill="#E9651C"/>
+          </g>
+          <g id="path224">
+            <use xlink:href="#path115_fill" transform="matrix(0.133333 0 0 -0.133333 -263.276 321.277)" fill="#E6641C"/>
+          </g>
+          <g id="path226">
+            <use xlink:href="#path116_fill" transform="matrix(0.133333 0 0 -0.133333 -256.641 314.642)" fill="#E5631C"/>
+          </g>
+          <g id="path228">
+            <use xlink:href="#path117_fill" transform="matrix(0.133333 0 0 -0.133333 -251.112 309.111)" fill="#E4631D"/>
+          </g>
+          <g id="path230">
+            <use xlink:href="#path118_fill" transform="matrix(0.133333 0 0 -0.133333 -246.504 304.504)" fill="#E1621D"/>
+          </g>
+          <g id="path232">
+            <use xlink:href="#path119_fill" transform="matrix(0.133333 0 0 -0.133333 -242.664 300.664)" fill="#E3631D"/>
+          </g>
+          <g id="path234">
+            <use xlink:href="#path120_fill" transform="matrix(0.133333 0 0 -0.133333 -239.464 297.464)" fill="#E1621D"/>
+          </g>
+          <g id="path236">
+            <use xlink:href="#path121_fill" transform="matrix(0.133333 0 0 -0.133333 -236.797 294.796)" fill="#E1621D"/>
+          </g>
+          <g id="path238">
+            <use xlink:href="#path122_fill" transform="matrix(0.133333 0 0 -0.133333 224.755 -287.805)" fill="#FAB917"/>
+          </g>
+          <g id="path240">
+            <use xlink:href="#path123_fill" transform="matrix(0.133333 0 0 -0.133333 243.24 -273.248)" fill="#FAC517"/>
+          </g>
+          <g id="path242">
+            <use xlink:href="#path124_fill" transform="matrix(0.133333 0 0 -0.133333 259.682 -255.986)" fill="#FACF17"/>
+          </g>
+          <g id="path244">
+            <use xlink:href="#path125_fill" transform="matrix(0.133333 0 0 -0.133333 273.44 -249.313)" fill="#FAD017"/>
+          </g>
+          <g id="path246">
+            <use xlink:href="#path126_fill" transform="matrix(0.133333 0 0 -0.133333 284.902 -267.374)" fill="#FBC417"/>
+          </g>
+          <g id="path248">
+            <use xlink:href="#path127_fill" transform="matrix(0.133333 0 0 -0.133333 195.707 -208.353)" fill="#F6DF19"/>
+          </g>
+          <g id="path250">
+            <use xlink:href="#path128_fill" transform="matrix(0.133333 0 0 -0.133333 201.755 -214.397)" fill="#F8D617"/>
+          </g>
+          <g id="path252">
+            <use xlink:href="#path129_fill" transform="matrix(0.133333 0 0 -0.133333 223.348 -219.877)" fill="#F8D617"/>
+          </g>
+          <g id="path254">
+            <use xlink:href="#path130_fill" transform="matrix(0.133333 0 0 -0.133333 243.176 -223.685)" fill="#F8D517"/>
+          </g>
+          <g id="path256">
+            <use xlink:href="#path131_fill" transform="matrix(0.133333 0 0 -0.133333 260.41 -226.318)" fill="#F6DD19"/>
+          </g>
+          <g id="path258">
+            <use xlink:href="#path132_fill" transform="matrix(0.133333 0 0 -0.133333 279.482 -244.372)" fill="#F6DE19"/>
+          </g>
+          <g id="path260">
+            <use xlink:href="#path133_fill" transform="matrix(0.133333 0 0 -0.133333 -198.541 157.027)" fill="#F57F1E"/>
+          </g>
+          <g id="path262">
+            <use xlink:href="#path134_fill" transform="matrix(0.133333 0 0 -0.133333 -255.883 181.483)" fill="#F57A1C"/>
+          </g>
+          <g id="path264">
+            <use xlink:href="#path135_fill" transform="matrix(0.133333 0 0 -0.133333 -264.548 191.303)" fill="#F5771D"/>
+          </g>
+          <g id="path266">
+            <use xlink:href="#path136_fill" transform="matrix(0.133333 0 0 -0.133333 -241.75 203.068)" fill="#F5751C"/>
+          </g>
+          <g id="path268">
+            <use xlink:href="#path137_fill" transform="matrix(0.133333 0 0 -0.133333 -267.183 211.443)" fill="#F4711C"/>
+          </g>
+          <g id="path270">
+            <use xlink:href="#path138_fill" transform="matrix(0.133333 0 0 -0.133333 -227.045 222.638)" fill="#F46E1C"/>
+          </g>
+          <g id="path272">
+            <use xlink:href="#path139_fill" transform="matrix(0.133333 0 0 -0.133333 -268.578 225.391)" fill="#F46C1C"/>
+          </g>
+          <g id="path274">
+            <use xlink:href="#path140_fill" transform="matrix(0.133333 0 0 -0.133333 -212.492 225.391)" fill="#F46E1C"/>
+          </g>
+          <g id="path276">
+            <use xlink:href="#path141_fill" transform="matrix(0.133333 0 0 -0.133333 -263.313 226.663)" fill="#F46C1C"/>
+          </g>
+          <g id="path278">
+            <use xlink:href="#path142_fill" transform="matrix(0.133333 0 0 -0.133333 -195.229 225.753)" fill="#F46B1C"/>
+          </g>
+          <g id="path280">
+            <use xlink:href="#path143_fill" transform="matrix(0.133333 0 0 -0.133333 -240.311 226.94)" fill="#F46A1C"/>
+          </g>
+          <g id="path282">
+            <use xlink:href="#path144_fill" transform="matrix(0.133333 0 0 -0.133333 126.148 -202.28)" fill="#F8D818"/>
+          </g>
+          <g id="path284">
+            <use xlink:href="#path145_fill" transform="matrix(0.133333 0 0 -0.133333 136.808 -196.606)" fill="#F7DA18"/>
+          </g>
+          <g id="path286">
+            <use xlink:href="#path146_fill" transform="matrix(0.133333 0 0 -0.133333 171.04 -206.508)" fill="#F7DB19"/>
+          </g>
+          <g id="path288">
+            <use xlink:href="#path147_fill" transform="matrix(0.133333 0 0 -0.133333 199.573 -259.298)" fill="#FACC17"/>
+          </g>
+          <g id="path290">
+            <use xlink:href="#path148_fill" transform="matrix(0.133333 0 0 -0.133333 114.834 -176.493)" fill="#F7E019"/>
+          </g>
+          <g id="path292">
+            <use xlink:href="#path149_fill" transform="matrix(0.133333 0 0 -0.133333 117.06 -178.714)" fill="#F7E219"/>
+          </g>
+          <g id="path294">
+            <use xlink:href="#path150_fill" transform="matrix(0.133333 0 0 -0.133333 153.787 -195.126)" fill="#F7E219"/>
+          </g>
+          <g id="path296">
+            <use xlink:href="#path151_fill" transform="matrix(0.133333 0 0 -0.133333 -122.99 58.6138)" fill="#F89A1B"/>
+          </g>
+          <g id="path298">
+            <use xlink:href="#path152_fill" transform="matrix(0.133333 0 0 -0.133333 -236.04 93.0282)" fill="#F78E1D"/>
+          </g>
+          <g id="path300">
+            <use xlink:href="#path153_fill" transform="matrix(0.133333 0 0 -0.133333 -161.918 96.3176)" fill="#F78F1D"/>
+          </g>
+          <g id="path302">
+            <use xlink:href="#path154_fill" transform="matrix(0.133333 0 0 -0.133333 -247.399 128.894)" fill="#F68A1E"/>
+          </g>
+          <g id="path304">
+            <use xlink:href="#path155_fill" transform="matrix(0.133333 0 0 -0.133333 -141.523 100.171)" fill="#F68B1D"/>
+          </g>
+          <g id="path306">
+            <use xlink:href="#path156_fill" transform="matrix(0.133333 0 0 -0.133333 -254.863 140.996)" fill="#F6851F"/>
+          </g>
+          <g id="path308">
+            <use xlink:href="#path157_fill" transform="matrix(0.133333 0 0 -0.133333 -248.385 141.721)" fill="#F6821F"/>
+          </g>
+          <g id="path310">
+            <use xlink:href="#path158_fill" transform="matrix(0.133333 0 0 -0.133333 71.0736 -240.064)" fill="#F8D617"/>
+          </g>
+          <g id="path312">
+            <use xlink:href="#path159_fill" transform="matrix(0.133333 0 0 -0.133333 95.7537 -222.676)" fill="#F7D918"/>
+          </g>
+          <g id="path314">
+            <use xlink:href="#path160_fill" transform="matrix(0.133333 0 0 -0.133333 42.7297 -144.429)" fill="#F8DE19"/>
+          </g>
+          <g id="path316">
+            <use xlink:href="#path161_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 -155.054)" fill="#F7E019"/>
+          </g>
+          <g id="path318">
+            <use xlink:href="#path162_fill" transform="matrix(0.133333 0 0 -0.133333 99.6924 -183.748)" fill="#F7E019"/>
+          </g>
+          <g id="path320">
+            <use xlink:href="#path163_fill" transform="matrix(0.133333 0 0 -0.133333 18.8217 -114.438)" fill="#FBCE17"/>
+          </g>
+          <g id="path322">
+            <use xlink:href="#path164_fill" transform="matrix(0.133333 0 0 -0.133333 25.323 -120.942)" fill="#FAD417"/>
+          </g>
+          <g id="path324">
+            <use xlink:href="#path165_fill" transform="matrix(0.133333 0 0 -0.133333 -63.3555 -33.8185)" fill="#FBC817"/>
+          </g>
+          <g id="path326">
+            <use xlink:href="#path166_fill" transform="matrix(0.133333 0 0 -0.133333 -136.692 15.2696)" fill="#FABC18"/>
+          </g>
+          <g id="path328">
+            <use xlink:href="#path167_fill" transform="matrix(0.133333 0 0 -0.133333 -94.2968 -1.37836)" fill="#FBC217"/>
+          </g>
+          <g id="path330">
+            <use xlink:href="#path168_fill" transform="matrix(0.133333 0 0 -0.133333 -219.655 38.9351)" fill="#F9AE19"/>
+          </g>
+          <g id="path332">
+            <use xlink:href="#path169_fill" transform="matrix(0.133333 0 0 -0.133333 -196.009 56.3044)" fill="#F9AB1A"/>
+          </g>
+          <g id="path334">
+            <use xlink:href="#path170_fill" transform="matrix(0.133333 0 0 -0.133333 -233.942 70.738)" fill="#F89E1A"/>
+          </g>
+          <g id="path336">
+            <use xlink:href="#path171_fill" transform="matrix(0.133333 0 0 -0.133333 -179.306 65.3898)" fill="#F89A1B"/>
+          </g>
+          <g id="path338">
+            <use xlink:href="#path172_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 -256.766)" fill="#F8D617"/>
+          </g>
+          <g id="path340">
+            <use xlink:href="#path173_fill" transform="matrix(0.133333 0 0 -0.133333 -0.612967 -176.493)" fill="#F8DF19"/>
+          </g>
+          <g id="path342">
+            <use xlink:href="#path174_fill" transform="matrix(0.133333 0 0 -0.133333 1.69641 -155.053)" fill="#F7E019"/>
+          </g>
+          <g id="path344">
+            <use xlink:href="#path175_fill" transform="matrix(0.133333 0 0 -0.133333 47.6844 -197.45)" fill="#F7E019"/>
+          </g>
+          <g id="path346">
+            <use xlink:href="#path176_fill" transform="matrix(0.133333 0 0 -0.133333 -50.9835 -105.177)" fill="#FBCD17"/>
+          </g>
+          <g id="path348">
+            <use xlink:href="#path177_fill" transform="matrix(0.133333 0 0 -0.133333 -47.3688 -87.8997)" fill="#FAD517"/>
+          </g>
+          <g id="path350">
+            <use xlink:href="#path178_fill" transform="matrix(0.133333 0 0 -0.133333 3.9244 -124.113)" fill="#F9D717"/>
+          </g>
+          <g id="path352">
+            <use xlink:href="#path179_fill" transform="matrix(0.133333 0 0 -0.133333 -122.99 -56.833)" fill="#FCCB17"/>
+          </g>
+          <g id="path354">
+            <use xlink:href="#path180_fill" transform="matrix(0.133333 0 0 -0.133333 -117.957 -35.4343)" fill="#FBCC17"/>
+          </g>
+          <g id="path356">
+            <use xlink:href="#path181_fill" transform="matrix(0.133333 0 0 -0.133333 -44.4195 -71.8864)" fill="#FBCC17"/>
+          </g>
+          <g id="path358">
+            <use xlink:href="#path182_fill" transform="matrix(0.133333 0 0 -0.133333 -196.009 -1.37836)" fill="#FBC617"/>
+          </g>
+          <g id="path360">
+            <use xlink:href="#path183_fill" transform="matrix(0.133333 0 0 -0.133333 -115.734 -18.0264)" fill="#FBC617"/>
+          </g>
+          <g id="path362">
+            <use xlink:href="#path184_fill" transform="matrix(0.133333 0 0 -0.133333 -208.616 11.2149)" fill="#FABB18"/>
+          </g>
+          <g id="path364">
+            <use xlink:href="#path185_fill" transform="matrix(0.133333 0 0 -0.133333 -202.25 10.3149)" fill="#FBBD17"/>
+          </g>
+          <g id="path366">
+            <use xlink:href="#path186_fill" transform="matrix(0.133333 0 0 -0.133333 -38.3182 -178.714)" fill="#F7E019"/>
+          </g>
+          <g id="path368">
+            <use xlink:href="#path187_fill" transform="matrix(0.133333 0 0 -0.133333 -7.39025 -183.748)" fill="#F7E019"/>
+          </g>
+          <g id="path370">
+            <use xlink:href="#path188_fill" transform="matrix(0.133333 0 0 -0.133333 -94.2475 -108.126)" fill="#FAD417"/>
+          </g>
+          <g id="path372">
+            <use xlink:href="#path189_fill" transform="matrix(0.133333 0 0 -0.133333 -63.7528 -111.741)" fill="#F9D717"/>
+          </g>
+          <g id="path374">
+            <use xlink:href="#path190_fill" transform="matrix(0.133333 0 0 -0.133333 -161.918 -59.0597)" fill="#FBCC17"/>
+          </g>
+          <g id="path376">
+            <use xlink:href="#path191_fill" transform="matrix(0.133333 0 0 -0.133333 -134.367 -61.3717)" fill="#FBCC17"/>
+          </g>
+          <g id="path378">
+            <use xlink:href="#path192_fill" transform="matrix(0.133333 0 0 -0.133333 -179.305 -41.6917)" fill="#FCCB17"/>
+          </g>
+          <g id="path380">
+            <use xlink:href="#path193_fill" transform="matrix(0.133333 0 0 -0.133333 -42.1715 -195.126)" fill="#F7E019"/>
+          </g>
+          <g id="path382">
+            <use xlink:href="#path194_fill" transform="matrix(0.133333 0 0 -0.133333 -112.77 -124.51)" fill="#F9D918"/>
+          </g>
+          <g id="path384">
+            <use xlink:href="#path195_fill" transform="matrix(0.133333 0 0 -0.133333 -69.1835 -155.005)" fill="#F8DE19"/>
+          </g>
+          <g id="path386">
+            <use xlink:href="#path196_fill" transform="matrix(0.133333 0 0 -0.133333 -141.522 -95.7851)" fill="#FBCD17"/>
+          </g>
+          <g id="path388">
+            <use xlink:href="#path197_fill" transform="matrix(0.133333 0 0 -0.133333 -135.848 -99.0757)" fill="#FBCE17"/>
+          </g>
+          <g id="path390">
+            <use xlink:href="#path198_fill" transform="matrix(0.133333 0 0 -0.133333 345.804 -166.754)" fill="#F8DF19"/>
+          </g>
+          <g id="path392">
+            <use xlink:href="#path199_fill" transform="matrix(0.133333 0 0 -0.133333 331.25 -185.24)" fill="#F7E019"/>
+          </g>
+          <g id="path394">
+            <use xlink:href="#path200_fill" transform="matrix(0.133333 0 0 -0.133333 313.987 -201.682)" fill="#F7E219"/>
+          </g>
+          <g id="path396">
+            <use xlink:href="#path201_fill" transform="matrix(0.133333 0 0 -0.133333 307.314 -215.439)" fill="#F7E319"/>
+          </g>
+          <g id="path398">
+            <use xlink:href="#path202_fill" transform="matrix(0.133333 0 0 -0.133333 325.375 -226.901)" fill="#F7E319"/>
+          </g>
+          <g id="path400">
+            <use xlink:href="#path203_fill" transform="matrix(0.133333 0 0 -0.133333 266.354 -137.706)" fill="#F8DB18"/>
+          </g>
+          <g id="path402">
+            <use xlink:href="#path204_fill" transform="matrix(0.133333 0 0 -0.133333 272.398 -143.754)" fill="#F8DE19"/>
+          </g>
+          <g id="path404">
+            <use xlink:href="#path205_fill" transform="matrix(0.133333 0 0 -0.133333 277.878 -165.348)" fill="#F7E019"/>
+          </g>
+          <g id="path406">
+            <use xlink:href="#path206_fill" transform="matrix(0.133333 0 0 -0.133333 281.686 -185.174)" fill="#F7E319"/>
+          </g>
+          <g id="path408">
+            <use xlink:href="#path207_fill" transform="matrix(0.133333 0 0 -0.133333 284.32 -202.409)" fill="#F7E319"/>
+          </g>
+          <g id="path410">
+            <use xlink:href="#path208_fill" transform="matrix(0.133333 0 0 -0.133333 302.374 -221.481)" fill="#F7E319"/>
+          </g>
+          <g id="path412">
+            <use xlink:href="#path209_fill" transform="matrix(0.133333 0 0 -0.133333 -84.3915 313.291)" fill="#D9611E"/>
+          </g>
+          <g id="path414">
+            <use xlink:href="#path210_fill" transform="matrix(0.133333 0 0 -0.133333 -99.0262 256.541)" fill="#F2671D"/>
+          </g>
+          <g id="path416">
+            <use xlink:href="#path211_fill" transform="matrix(0.133333 0 0 -0.133333 -110.559 318.748)" fill="#DB611D"/>
+          </g>
+          <g id="path418">
+            <use xlink:href="#path212_fill" transform="matrix(0.133333 0 0 -0.133333 -123.483 313.883)" fill="#EB661C"/>
+          </g>
+          <g id="path420">
+            <use xlink:href="#path213_fill" transform="matrix(0.133333 0 0 -0.133333 -133.303 322.547)" fill="#DF621D"/>
+          </g>
+          <g id="path422">
+            <use xlink:href="#path214_fill" transform="matrix(0.133333 0 0 -0.133333 -145.068 299.751)" fill="#E9651C"/>
+          </g>
+          <g id="path424">
+            <use xlink:href="#path215_fill" transform="matrix(0.133333 0 0 -0.133333 -153.442 325.184)" fill="#E1621D"/>
+          </g>
+          <g id="path426">
+            <use xlink:href="#path216_fill" transform="matrix(0.133333 0 0 -0.133333 -164.636 285.046)" fill="#EC651C"/>
+          </g>
+          <g id="path428">
+            <use xlink:href="#path217_fill" transform="matrix(0.133333 0 0 -0.133333 -167.39 326.579)" fill="#E4631D"/>
+          </g>
+          <g id="path430">
+            <use xlink:href="#path218_fill" transform="matrix(0.133333 0 0 -0.133333 -167.39 270.492)" fill="#EF661D"/>
+          </g>
+          <g id="path432">
+            <use xlink:href="#path219_fill" transform="matrix(0.133333 0 0 -0.133333 -168.663 321.314)" fill="#E4631D"/>
+          </g>
+          <g id="path434">
+            <use xlink:href="#path220_fill" transform="matrix(0.133333 0 0 -0.133333 -167.752 253.228)" fill="#EF601B"/>
+          </g>
+          <g id="path436">
+            <use xlink:href="#path221_fill" transform="matrix(0.133333 0 0 -0.133333 -168.939 298.312)" fill="#E1621D"/>
+          </g>
+          <g id="path438">
+            <use xlink:href="#path222_fill" transform="matrix(0.133333 0 0 -0.133333 187.942 -129.941)" fill="#F7E019"/>
+          </g>
+          <g id="path440">
+            <use xlink:href="#path223_fill" transform="matrix(0.133333 0 0 -0.133333 193.863 -135.862)" fill="#F7E019"/>
+          </g>
+          <g id="path442">
+            <use xlink:href="#path224_fill" transform="matrix(0.133333 0 0 -0.133333 217.784 -159.784)" fill="#F7E319"/>
+          </g>
+          <g id="path444">
+            <use xlink:href="#path225_fill" transform="matrix(0.133333 0 0 -0.133333 242.24 -184.24)" fill="#F7E319"/>
+          </g>
+          <g id="path446">
+            <use xlink:href="#path226_fill" transform="matrix(0.133333 0 0 -0.133333 263.827 -205.826)" fill="#F7E319"/>
+          </g>
+          <g id="path448">
+            <use xlink:href="#path227_fill" transform="matrix(0.133333 0 0 -0.133333 283.395 -225.394)" fill="#F7E319"/>
+          </g>
+          <g id="path450">
+            <use xlink:href="#path228_fill" transform="matrix(0.133333 0 0 -0.133333 163.179 -105.177)" fill="#FBCD17"/>
+          </g>
+          <g id="path452">
+            <use xlink:href="#path229_fill" transform="matrix(0.133333 0 0 -0.133333 166.127 -108.126)" fill="#FAD617"/>
+          </g>
+          <g id="path454">
+            <use xlink:href="#path230_fill" transform="matrix(0.133333 0 0 -0.133333 182.512 -124.51)" fill="#F8DC19"/>
+          </g>
+          <g id="path456">
+            <use xlink:href="#path231_fill" transform="matrix(0.133333 0 0 -0.133333 -50.9835 108.984)" fill="#F6881E"/>
+          </g>
+          <g id="path458">
+            <use xlink:href="#path232_fill" transform="matrix(0.133333 0 0 -0.133333 -94.2475 152.248)" fill="#F6841F"/>
+          </g>
+          <g id="path460">
+            <use xlink:href="#path233_fill" transform="matrix(0.133333 0 0 -0.133333 -137.991 195.991)" fill="#F57A1D"/>
+          </g>
+          <g id="path462">
+            <use xlink:href="#path234_fill" transform="matrix(0.133333 0 0 -0.133333 -112.772 170.771)" fill="#F57E1D"/>
+          </g>
+          <g id="path464">
+            <use xlink:href="#path235_fill" transform="matrix(0.133333 0 0 -0.133333 -153.639 211.639)" fill="#F5791D"/>
+          </g>
+          <g id="path466">
+            <use xlink:href="#path236_fill" transform="matrix(0.133333 0 0 -0.133333 -159.119 217.119)" fill="#F5751D"/>
+          </g>
+          <g id="path468">
+            <use xlink:href="#path237_fill" transform="matrix(0.133333 0 0 -0.133333 -162.928 220.928)" fill="#F4721D"/>
+          </g>
+          <g id="path470">
+            <use xlink:href="#path238_fill" transform="matrix(0.133333 0 0 -0.133333 -165.562 223.563)" fill="#F46E1C"/>
+          </g>
+          <g id="path472">
+            <use xlink:href="#path239_fill" transform="matrix(0.133333 0 0 -0.133333 -165.681 223.681)" fill="#F46B1C"/>
+          </g>
+          <g id="path474">
+            <use xlink:href="#path240_fill" transform="matrix(0.133333 0 0 -0.133333 160.931 -173.529)" fill="#F7E319"/>
+          </g>
+          <g id="path476">
+            <use xlink:href="#path241_fill" transform="matrix(0.133333 0 0 -0.133333 189.652 -198.748)" fill="#F7E319"/>
+          </g>
+          <g id="path478">
+            <use xlink:href="#path242_fill" transform="matrix(0.133333 0 0 -0.133333 91.8191 -114.438)" fill="#FBD018"/>
+          </g>
+          <g id="path480">
+            <use xlink:href="#path243_fill" transform="matrix(0.133333 0 0 -0.133333 93.4351 -87.8997)" fill="#F9D717"/>
+          </g>
+          <g id="path482">
+            <use xlink:href="#path244_fill" transform="matrix(0.133333 0 0 -0.133333 119.372 -111.74)" fill="#F8DA18"/>
+          </g>
+          <g id="path484">
+            <use xlink:href="#path245_fill" transform="matrix(0.133333 0 0 -0.133333 157.076 -155.005)" fill="#F7E219"/>
+          </g>
+          <g id="path486">
+            <use xlink:href="#path246_fill" transform="matrix(0.133333 0 0 -0.133333 43.6098 -37.0317)" fill="#FCC917"/>
+          </g>
+          <g id="path488">
+            <use xlink:href="#path247_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 -50.4037)" fill="#FBCC17"/>
+          </g>
+          <g id="path490">
+            <use xlink:href="#path248_fill" transform="matrix(0.133333 0 0 -0.133333 99.9364 -84.4851)" fill="#FBCD17"/>
+          </g>
+          <g id="path492">
+            <use xlink:href="#path249_fill" transform="matrix(0.133333 0 0 -0.133333 -8.93823 14.3909)" fill="#FBBD17"/>
+          </g>
+          <g id="path494">
+            <use xlink:href="#path250_fill" transform="matrix(0.133333 0 0 -0.133333 10.3524 -1.37836)" fill="#FBC317"/>
+          </g>
+          <g id="path496">
+            <use xlink:href="#path251_fill" transform="matrix(0.133333 0 0 -0.133333 -63.3555 39.1792)" fill="#F9A61A"/>
+          </g>
+          <g id="path498">
+            <use xlink:href="#path252_fill" transform="matrix(0.133333 0 0 -0.133333 -60.1848 63.2818)" fill="#F9AA1A"/>
+          </g>
+          <g id="path500">
+            <use xlink:href="#path253_fill" transform="matrix(0.133333 0 0 -0.133333 -117.957 105.368)" fill="#F7911C"/>
+          </g>
+          <g id="path502">
+            <use xlink:href="#path254_fill" transform="matrix(0.133333 0 0 -0.133333 -53.6808 69.1298)" fill="#F89E1A"/>
+          </g>
+          <g id="path504">
+            <use xlink:href="#path255_fill" transform="matrix(0.133333 0 0 -0.133333 -134.368 121.754)" fill="#F78D1D"/>
+          </g>
+          <g id="path506">
+            <use xlink:href="#path256_fill" transform="matrix(0.133333 0 0 -0.133333 -145.748 133.106)" fill="#F6871F"/>
+          </g>
+          <g id="path508">
+            <use xlink:href="#path257_fill" transform="matrix(0.133333 0 0 -0.133333 -135.848 127.184)" fill="#F6881E"/>
+          </g>
+          <g id="path510">
+            <use xlink:href="#path258_fill" transform="matrix(0.133333 0 0 -0.133333 -147.596 134.948)" fill="#F6841F"/>
+          </g>
+          <g id="path512">
+            <use xlink:href="#path259_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 -120.942)" fill="#FAD517"/>
+          </g>
+          <g id="path514">
+            <use xlink:href="#path260_fill" transform="matrix(0.133333 0 0 -0.133333 76.027 -124.112)" fill="#F9D918"/>
+          </g>
+          <g id="path516">
+            <use xlink:href="#path261_fill" transform="matrix(0.133333 0 0 -0.133333 -5.28094 -50.4037)" fill="#FBCC17"/>
+          </g>
+          <g id="path518">
+            <use xlink:href="#path262_fill" transform="matrix(0.133333 0 0 -0.133333 26.939 -69.6958)" fill="#FBCE17"/>
+          </g>
+          <g id="path520">
+            <use xlink:href="#path263_fill" transform="matrix(0.133333 0 0 -0.133333 -60.1848 -1.37979)" fill="#FBC617"/>
+          </g>
+          <g id="path522">
+            <use xlink:href="#path264_fill" transform="matrix(0.133333 0 0 -0.133333 -23.7275 -17.1478)" fill="#FCC917"/>
+          </g>
+          <g id="path524">
+            <use xlink:href="#path265_fill" transform="matrix(0.133333 0 0 -0.133333 -94.2955 32.6776)" fill="#FAB418"/>
+          </g>
+          <g id="path526">
+            <use xlink:href="#path266_fill" transform="matrix(0.133333 0 0 -0.133333 -83.6729 31.0616)" fill="#FABC18"/>
+          </g>
+          <g id="path528">
+            <use xlink:href="#path267_fill" transform="matrix(0.133333 0 0 -0.133333 -115.734 54.0751)" fill="#F9A81A"/>
+          </g>
+          <g id="path530">
+            <use xlink:href="#path268_fill" transform="matrix(0.133333 0 0 -0.133333 -11.1289 -84.4851)" fill="#FBCD17"/>
+          </g>
+          <g id="path532">
+            <use xlink:href="#path269_fill" transform="matrix(0.133333 0 0 -0.133333 -53.6808 -41.9357)" fill="#FCCB17"/>
+          </g>
+          <g id="path534">
+            <use xlink:href="#path270_fill" transform="matrix(0.133333 0 0 -0.133333 -27.1435 -66.0384)" fill="#FBCC17"/>
+          </g>
+          <g id="path536">
+            <use xlink:href="#path271_fill" transform="matrix(0.133333 0 0 -0.133333 352.701 -63.2625)" fill="#FBCC17"/>
+          </g>
+          <g id="path538">
+            <use xlink:href="#path272_fill" transform="matrix(0.133333 0 0 -0.133333 354.798 -79.1917)" fill="#FBCE17"/>
+          </g>
+          <g id="path546">
+            <use xlink:href="#path273_fill" transform="matrix(0.133333 0 0 -0.133333 260.28 -68.149)" fill="#FBCC17"/>
+          </g>
+          <g id="path548">
+            <use xlink:href="#path274_fill" transform="matrix(0.133333 0 0 -0.133333 254.608 -78.8071)" fill="#FBCD17"/>
+          </g>
+          <g id="path550">
+            <use xlink:href="#path275_fill" transform="matrix(0.133333 0 0 -0.133333 264.508 -113.038)" fill="#FBD118"/>
+          </g>
+          <g id="path552">
+            <use xlink:href="#path276_fill" transform="matrix(0.133333 0 0 -0.133333 317.299 -141.573)" fill="#FAD617"/>
+          </g>
+          <g id="path554">
+            <use xlink:href="#path277_fill" transform="matrix(0.133333 0 0 -0.133333 234.494 -56.833)" fill="#FCCB17"/>
+          </g>
+          <g id="path556">
+            <use xlink:href="#path278_fill" transform="matrix(0.133333 0 0 -0.133333 236.715 -59.0597)" fill="#FBCC17"/>
+          </g>
+          <g id="path558">
+            <use xlink:href="#path279_fill" transform="matrix(0.133333 0 0 -0.133333 253.127 -95.7851)" fill="#FBCD17"/>
+          </g>
+          <g id="path560">
+            <use xlink:href="#path280_fill" transform="matrix(0.133333 0 0 -0.133333 -0.612967 180.99)" fill="#F5771D"/>
+          </g>
+          <g id="path562">
+            <use xlink:href="#path281_fill" transform="matrix(0.133333 0 0 -0.133333 -35.0275 294.04)" fill="#EE661D"/>
+          </g>
+          <g id="path564">
+            <use xlink:href="#path282_fill" transform="matrix(0.133333 0 0 -0.133333 -38.3182 219.919)" fill="#F4721D"/>
+          </g>
+          <g id="path566">
+            <use xlink:href="#path283_fill" transform="matrix(0.133333 0 0 -0.133333 -70.8942 305.402)" fill="#EE671C"/>
+          </g>
+          <g id="path568">
+            <use xlink:href="#path284_fill" transform="matrix(0.133333 0 0 -0.133333 -42.1715 199.523)" fill="#F4731C"/>
+          </g>
+          <g id="path570">
+            <use xlink:href="#path285_fill" transform="matrix(0.133333 0 0 -0.133333 -82.9955 312.863)" fill="#F0681C"/>
+          </g>
+          <g id="path572">
+            <use xlink:href="#path286_fill" transform="matrix(0.133333 0 0 -0.133333 -83.7215 306.386)" fill="#E1621D"/>
+          </g>
+          <g id="path574">
+            <use xlink:href="#path287_fill" transform="matrix(0.133333 0 0 -0.133333 231.53 -102.929)" fill="#FBD018"/>
+          </g>
+          <g id="path576">
+            <use xlink:href="#path288_fill" transform="matrix(0.133333 0 0 -0.133333 256.747 -131.652)" fill="#FAD617"/>
+          </g>
+          <g id="path578">
+            <use xlink:href="#path289_fill" transform="matrix(0.133333 0 0 -0.133333 172.44 -33.8185)" fill="#FBC817"/>
+          </g>
+          <g id="path580">
+            <use xlink:href="#path290_fill" transform="matrix(0.133333 0 0 -0.133333 145.902 -35.4343)" fill="#FBCC17"/>
+          </g>
+          <g id="path582">
+            <use xlink:href="#path291_fill" transform="matrix(0.133333 0 0 -0.133333 169.742 -61.3717)" fill="#FBCC17"/>
+          </g>
+          <g id="path584">
+            <use xlink:href="#path292_fill" transform="matrix(0.133333 0 0 -0.133333 213.006 -99.0744)" fill="#FBCE17"/>
+          </g>
+          <g id="path586">
+            <use xlink:href="#path293_fill" transform="matrix(0.133333 0 0 -0.133333 95.0324 14.3909)" fill="#FBBD17"/>
+          </g>
+          <g id="path588">
+            <use xlink:href="#path294_fill" transform="matrix(0.133333 0 0 -0.133333 108.406 -1.37836)" fill="#FBC617"/>
+          </g>
+          <g id="path590">
+            <use xlink:href="#path295_fill" transform="matrix(0.133333 0 0 -0.133333 142.486 -41.9357)" fill="#FCCB17"/>
+          </g>
+          <g id="path592">
+            <use xlink:href="#path296_fill" transform="matrix(0.133333 0 0 -0.133333 43.6098 66.9378)" fill="#F89B1B"/>
+          </g>
+          <g id="path594">
+            <use xlink:href="#path297_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 47.6471)" fill="#F9AF19"/>
+          </g>
+          <g id="path596">
+            <use xlink:href="#path298_fill" transform="matrix(0.133333 0 0 -0.133333 18.8217 121.355)" fill="#F6861F"/>
+          </g>
+          <g id="path598">
+            <use xlink:href="#path299_fill" transform="matrix(0.133333 0 0 -0.133333 -5.28237 118.186)" fill="#F78D1D"/>
+          </g>
+          <g id="path600">
+            <use xlink:href="#path300_fill" transform="matrix(0.133333 0 0 -0.133333 -47.3675 175.958)" fill="#F6821F"/>
+          </g>
+          <g id="path602">
+            <use xlink:href="#path301_fill" transform="matrix(0.133333 0 0 -0.133333 -11.1289 111.681)" fill="#F68B1D"/>
+          </g>
+          <g id="path604">
+            <use xlink:href="#path302_fill" transform="matrix(0.133333 0 0 -0.133333 -63.7528 192.368)" fill="#F57F1E"/>
+          </g>
+          <g id="path606">
+            <use xlink:href="#path303_fill" transform="matrix(0.133333 0 0 -0.133333 -75.1048 203.751)" fill="#F5751C"/>
+          </g>
+          <g id="path608">
+            <use xlink:href="#path304_fill" transform="matrix(0.133333 0 0 -0.133333 -69.1835 193.85)" fill="#F5791C"/>
+          </g>
+          <g id="path610">
+            <use xlink:href="#path305_fill" transform="matrix(0.133333 0 0 -0.133333 -76.9488 205.596)" fill="#F4711C"/>
+          </g>
+          <g id="path612">
+            <use xlink:href="#path306_fill" transform="matrix(0.133333 0 0 -0.133333 129.887 -71.8864)" fill="#FBCC17"/>
+          </g>
+          <g id="path614">
+            <use xlink:href="#path307_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 -1.37836)" fill="#FBC517"/>
+          </g>
+          <g id="path616">
+            <use xlink:href="#path308_fill" transform="matrix(0.133333 0 0 -0.133333 75.1484 -17.1478)" fill="#FCC917"/>
+          </g>
+          <g id="path618">
+            <use xlink:href="#path309_fill" transform="matrix(0.133333 0 0 -0.133333 124.04 -66.0398)" fill="#FBCC17"/>
+          </g>
+          <g id="path620">
+            <use xlink:href="#path310_fill" transform="matrix(0.133333 0 0 -0.133333 10.3524 47.6471)" fill="#F9AF19"/>
+          </g>
+          <g id="path622">
+            <use xlink:href="#path311_fill" transform="matrix(0.133333 0 0 -0.133333 23.7258 34.2736)" fill="#FABC18"/>
+          </g>
+          <g id="path624">
+            <use xlink:href="#path312_fill" transform="matrix(0.133333 0 0 -0.133333 -23.7275 81.7269)" fill="#F8A01A"/>
+          </g>
+          <g id="path626">
+            <use xlink:href="#path313_fill" transform="matrix(0.133333 0 0 -0.133333 -44.4195 102.42)" fill="#F78D1D"/>
+          </g>
+          <g id="path628">
+            <use xlink:href="#path314_fill" transform="matrix(0.133333 0 0 -0.133333 -27.1422 85.1429)" fill="#F7901C"/>
+          </g>
+          <g id="path630">
+            <use xlink:href="#path315_fill" transform="matrix(0.133333 0 0 -0.133333 327.374 -1.37836)" fill="#FBC617"/>
+          </g>
+          <g id="path632">
+            <use xlink:href="#path316_fill" transform="matrix(0.133333 0 0 -0.133333 338.414 -37.7241)" fill="#FCC917"/>
+          </g>
+          <g id="path638">
+            <use xlink:href="#path317_fill" transform="matrix(0.133333 0 0 -0.133333 298.063 -13.0732)" fill="#FBC517"/>
+          </g>
+          <g id="path640">
+            <use xlink:href="#path318_fill" transform="matrix(0.133333 0 0 -0.133333 280.676 -37.7531)" fill="#FCC917"/>
+          </g>
+          <g id="path642">
+            <use xlink:href="#path319_fill" transform="matrix(0.133333 0 0 -0.133333 202.431 15.2696)" fill="#FABC18"/>
+          </g>
+          <g id="path644">
+            <use xlink:href="#path320_fill" transform="matrix(0.133333 0 0 -0.133333 213.054 -1.37836)" fill="#FBC617"/>
+          </g>
+          <g id="path646">
+            <use xlink:href="#path321_fill" transform="matrix(0.133333 0 0 -0.133333 241.747 -41.6917)" fill="#FCCB17"/>
+          </g>
+          <g id="path648">
+            <use xlink:href="#path322_fill" transform="matrix(0.133333 0 0 -0.133333 172.44 39.1792)" fill="#F9A61A"/>
+          </g>
+          <g id="path650">
+            <use xlink:href="#path323_fill" transform="matrix(0.133333 0 0 -0.133333 178.944 32.6776)" fill="#FAB518"/>
+          </g>
+          <g id="path652">
+            <use xlink:href="#path324_fill" transform="matrix(0.133333 0 0 -0.133333 91.8191 121.355)" fill="#F6861F"/>
+          </g>
+          <g id="path654">
+            <use xlink:href="#path325_fill" transform="matrix(0.133333 0 0 -0.133333 42.7297 194.692)" fill="#F5781C"/>
+          </g>
+          <g id="path656">
+            <use xlink:href="#path326_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 152.296)" fill="#F6831F"/>
+          </g>
+          <g id="path658">
+            <use xlink:href="#path327_fill" transform="matrix(0.133333 0 0 -0.133333 19.0657 277.656)" fill="#EB651D"/>
+          </g>
+          <g id="path660">
+            <use xlink:href="#path328_fill" transform="matrix(0.133333 0 0 -0.133333 1.69641 254.01)" fill="#F46F1C"/>
+          </g>
+          <g id="path662">
+            <use xlink:href="#path329_fill" transform="matrix(0.133333 0 0 -0.133333 -12.7384 291.941)" fill="#EE661D"/>
+          </g>
+          <g id="path664">
+            <use xlink:href="#path330_fill" transform="matrix(0.133333 0 0 -0.133333 -7.39025 237.305)" fill="#F46F1C"/>
+          </g>
+          <g id="path666">
+            <use xlink:href="#path331_fill" transform="matrix(0.133333 0 0 -0.133333 178.943 -1.37836)" fill="#FBC217"/>
+          </g>
+          <g id="path668">
+            <use xlink:href="#path332_fill" transform="matrix(0.133333 0 0 -0.133333 182.114 -18.0278)" fill="#FBC817"/>
+          </g>
+          <g id="path670">
+            <use xlink:href="#path333_fill" transform="matrix(0.133333 0 0 -0.133333 108.406 63.2818)" fill="#F9A81A"/>
+          </g>
+          <g id="path672">
+            <use xlink:href="#path334_fill" transform="matrix(0.133333 0 0 -0.133333 127.696 31.0616)" fill="#FABC18"/>
+          </g>
+          <g id="path674">
+            <use xlink:href="#path335_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 118.186)" fill="#F78E1D"/>
+          </g>
+          <g id="path676">
+            <use xlink:href="#path336_fill" transform="matrix(0.133333 0 0 -0.133333 75.1484 81.7282)" fill="#F8A01A"/>
+          </g>
+          <g id="path678">
+            <use xlink:href="#path337_fill" transform="matrix(0.133333 0 0 -0.133333 25.323 152.296)" fill="#F6831F"/>
+          </g>
+          <g id="path680">
+            <use xlink:href="#path338_fill" transform="matrix(0.133333 0 0 -0.133333 26.939 141.672)" fill="#F68B1D"/>
+          </g>
+          <g id="path682">
+            <use xlink:href="#path339_fill" transform="matrix(0.133333 0 0 -0.133333 3.9244 173.735)" fill="#F57F1E"/>
+          </g>
+          <g id="path684">
+            <use xlink:href="#path340_fill" transform="matrix(0.133333 0 0 -0.133333 327.374 51.7164)" fill="#F9AC19"/>
+          </g>
+          <g id="path686">
+            <use xlink:href="#path341_fill" transform="matrix(0.133333 0 0 -0.133333 321.01 11.5857)" fill="#FBBD17"/>
+          </g>
+          <g id="path688">
+            <use xlink:href="#path342_fill" transform="matrix(0.133333 0 0 -0.133333 298.064 38.9338)" fill="#F9AE19"/>
+          </g>
+          <g id="path690">
+            <use xlink:href="#path343_fill" transform="matrix(0.133333 0 0 -0.133333 314.767 11.2149)" fill="#FABB18"/>
+          </g>
+          <g id="path694">
+            <use xlink:href="#path344_fill" transform="matrix(0.133333 0 0 -0.133333 71.0736 277.655)" fill="#EB651D"/>
+          </g>
+          <g id="path698">
+            <use xlink:href="#path345_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 266.616)" fill="#E9641C"/>
+          </g>
+          <g id="path700">
+            <use xlink:href="#path346_fill" transform="matrix(0.133333 0 0 -0.133333 314.767 -1.37836)" fill="#FBBF17"/>
+          </g>
+          <g id="path702">
+            <use xlink:href="#path347_fill" transform="matrix(0.133333 0 0 -0.133333 234.494 58.6151)" fill="#F7991B"/>
+          </g>
+          <g id="path704">
+            <use xlink:href="#path348_fill" transform="matrix(0.133333 0 0 -0.133333 213.056 56.3044)" fill="#F9AB1A"/>
+          </g>
+          <g id="path706">
+            <use xlink:href="#path349_fill" transform="matrix(0.133333 0 0 -0.133333 255.451 10.3149)" fill="#FBBD17"/>
+          </g>
+          <g id="path708">
+            <use xlink:href="#path350_fill" transform="matrix(0.133333 0 0 -0.133333 163.179 108.983)" fill="#F6881E"/>
+          </g>
+          <g id="path710">
+            <use xlink:href="#path351_fill" transform="matrix(0.133333 0 0 -0.133333 145.902 105.368)" fill="#F7911C"/>
+          </g>
+          <g id="path712">
+            <use xlink:href="#path352_fill" transform="matrix(0.133333 0 0 -0.133333 182.114 54.0751)" fill="#F9A71A"/>
+          </g>
+          <g id="path714">
+            <use xlink:href="#path353_fill" transform="matrix(0.133333 0 0 -0.133333 114.834 180.99)" fill="#F5771D"/>
+          </g>
+          <g id="path716">
+            <use xlink:href="#path354_fill" transform="matrix(0.133333 0 0 -0.133333 93.4351 175.958)" fill="#F5811F"/>
+          </g>
+          <g id="path718">
+            <use xlink:href="#path355_fill" transform="matrix(0.133333 0 0 -0.133333 129.887 102.42)" fill="#F78D1D"/>
+          </g>
+          <g id="path720">
+            <use xlink:href="#path356_fill" transform="matrix(0.133333 0 0 -0.133333 59.3792 254.01)" fill="#F46F1C"/>
+          </g>
+          <g id="path722">
+            <use xlink:href="#path357_fill" transform="matrix(0.133333 0 0 -0.133333 76.0283 173.734)" fill="#F5801E"/>
+          </g>
+          <g id="path724">
+            <use xlink:href="#path358_fill" transform="matrix(0.133333 0 0 -0.133333 46.7858 266.616)" fill="#E9641C"/>
+          </g>
+          <g id="path726">
+            <use xlink:href="#path359_fill" transform="matrix(0.133333 0 0 -0.133333 47.6844 260.251)" fill="#F46B1C"/>
+          </g>
+          <g id="path728">
+            <use xlink:href="#path360_fill" transform="matrix(0.133333 0 0 -0.133333 142.486 69.1298)" fill="#F89B1B"/>
+          </g>
+          <g id="path730">
+            <use xlink:href="#path361_fill" transform="matrix(0.133333 0 0 -0.133333 99.9364 111.681)" fill="#F68B1D"/>
+          </g>
+          <g id="path732">
+            <use xlink:href="#path362_fill" transform="matrix(0.133333 0 0 -0.133333 124.04 85.1442)" fill="#F7901C"/>
+          </g>
+          <g id="path734">
+            <use xlink:href="#path363_fill" transform="matrix(0.133333 0 0 -0.133333 352.701 88.1069)" fill="#F78F1D"/>
+          </g>
+          <g id="path736">
+            <use xlink:href="#path364_fill" transform="matrix(0.133333 0 0 -0.133333 338.414 70.5858)" fill="#F89A1B"/>
+          </g>
+          <g id="path738">
+            <use xlink:href="#path365_fill" transform="matrix(0.133333 0 0 -0.133333 260.28 93.0269)" fill="#F78E1D"/>
+          </g>
+          <g id="path740">
+            <use xlink:href="#path366_fill" transform="matrix(0.133333 0 0 -0.133333 280.676 70.738)" fill="#F89B1B"/>
+          </g>
+          <g id="path744">
+            <use xlink:href="#path367_fill" transform="matrix(0.133333 0 0 -0.133333 126.15 294.04)" fill="#EC661C"/>
+          </g>
+          <g id="path748">
+            <use xlink:href="#path368_fill" transform="matrix(0.133333 0 0 -0.133333 95.7537 291.941)" fill="#EE661D"/>
+          </g>
+          <g id="path750">
+            <use xlink:href="#path369_fill" transform="matrix(0.133333 0 0 -0.133333 236.715 96.3176)" fill="#F78F1D"/>
+          </g>
+          <g id="path752">
+            <use xlink:href="#path370_fill" transform="matrix(0.133333 0 0 -0.133333 241.748 65.3911)" fill="#F89B1B"/>
+          </g>
+          <g id="path754">
+            <use xlink:href="#path371_fill" transform="matrix(0.133333 0 0 -0.133333 166.127 152.25)" fill="#F6841F"/>
+          </g>
+          <g id="path756">
+            <use xlink:href="#path372_fill" transform="matrix(0.133333 0 0 -0.133333 169.742 121.754)" fill="#F78D1D"/>
+          </g>
+          <g id="path758">
+            <use xlink:href="#path373_fill" transform="matrix(0.133333 0 0 -0.133333 117.062 219.919)" fill="#F4721D"/>
+          </g>
+          <g id="path760">
+            <use xlink:href="#path374_fill" transform="matrix(0.133333 0 0 -0.133333 119.372 192.369)" fill="#F57F1E"/>
+          </g>
+          <g id="path762">
+            <use xlink:href="#path375_fill" transform="matrix(0.133333 0 0 -0.133333 99.6924 237.305)" fill="#F46F1C"/>
+          </g>
+          <g id="path764">
+            <use xlink:href="#path376_fill" transform="matrix(0.133333 0 0 -0.133333 354.799 118.007)" fill="#F6871F"/>
+          </g>
+          <g id="path766">
+            <use xlink:href="#path377_fill" transform="matrix(0.133333 0 0 -0.133333 254.607 128.894)" fill="#F68A1E"/>
+          </g>
+          <g id="path768">
+            <use xlink:href="#path378_fill" transform="matrix(0.133333 0 0 -0.133333 187.942 195.99)" fill="#F57A1D"/>
+          </g>
+          <g id="path770">
+            <use xlink:href="#path379_fill" transform="matrix(0.133333 0 0 -0.133333 231.53 133.106)" fill="#F6871F"/>
+          </g>
+          <g id="path774">
+            <use xlink:href="#path380_fill" transform="matrix(0.133333 0 0 -0.133333 136.808 305.402)" fill="#EE671C"/>
+          </g>
+          <g id="path776">
+            <use xlink:href="#path381_fill" transform="matrix(0.133333 0 0 -0.133333 160.93 203.75)" fill="#F4751D"/>
+          </g>
+          <g id="path778">
+            <use xlink:href="#path382_fill" transform="matrix(0.133333 0 0 -0.133333 253.127 100.172)" fill="#F68B1D"/>
+          </g>
+          <g id="path780">
+            <use xlink:href="#path383_fill" transform="matrix(0.133333 0 0 -0.133333 182.511 170.771)" fill="#F57E1D"/>
+          </g>
+          <g id="path782">
+            <use xlink:href="#path384_fill" transform="matrix(0.133333 0 0 -0.133333 213.006 127.184)" fill="#F6881E"/>
+          </g>
+          <g id="path784">
+            <use xlink:href="#path385_fill" transform="matrix(0.133333 0 0 -0.133333 153.786 199.523)" fill="#F4721D"/>
+          </g>
+          <g id="path786">
+            <use xlink:href="#path386_fill" transform="matrix(0.133333 0 0 -0.133333 157.075 193.85)" fill="#F5791C"/>
+          </g>
+          <g id="path788">
+            <use xlink:href="#path387_fill" transform="matrix(0.133333 0 0 -0.133333 266.354 157.027)" fill="#F57F1E"/>
+          </g>
+          <g id="path790">
+            <use xlink:href="#path388_fill" transform="matrix(0.133333 0 0 -0.133333 264.508 140.996)" fill="#F6851F"/>
+          </g>
+          <g id="path792">
+            <use xlink:href="#path389_fill" transform="matrix(0.133333 0 0 -0.133333 201.351 313.291)" fill="#D9611E"/>
+          </g>
+          <g id="path794">
+            <use xlink:href="#path390_fill" transform="matrix(0.133333 0 0 -0.133333 195.707 256.541)" fill="#F2671D"/>
+          </g>
+          <g id="path796">
+            <use xlink:href="#path391_fill" transform="matrix(0.133333 0 0 -0.133333 193.863 211.639)" fill="#F5791D"/>
+          </g>
+          <g id="path798">
+            <use xlink:href="#path392_fill" transform="matrix(0.133333 0 0 -0.133333 256.747 134.948)" fill="#F6841F"/>
+          </g>
+          <g id="path802">
+            <use xlink:href="#path393_fill" transform="matrix(0.133333 0 0 -0.133333 171.041 312.864)" fill="#F0681C"/>
+          </g>
+          <g id="path804">
+            <use xlink:href="#path394_fill" transform="matrix(0.133333 0 0 -0.133333 189.652 205.595)" fill="#F4711C"/>
+          </g>
+          <g id="path806">
+            <use xlink:href="#path395_fill" transform="matrix(0.133333 0 0 -0.133333 205.768 318.748)" fill="#DB611D"/>
+          </g>
+          <g id="path808">
+            <use xlink:href="#path396_fill" transform="matrix(0.133333 0 0 -0.133333 272.398 181.483)" fill="#F57A1C"/>
+          </g>
+          <g id="path810">
+            <use xlink:href="#path397_fill" transform="matrix(0.133333 0 0 -0.133333 317.299 141.721)" fill="#F5811F"/>
+          </g>
+          <g id="path812">
+            <use xlink:href="#path398_fill" transform="matrix(0.133333 0 0 -0.133333 201.754 313.883)" fill="#EB661C"/>
+          </g>
+          <g id="path814">
+            <use xlink:href="#path399_fill" transform="matrix(0.133333 0 0 -0.133333 217.784 217.119)" fill="#F5751D"/>
+          </g>
+          <g id="path816">
+            <use xlink:href="#path400_fill" transform="matrix(0.133333 0 0 -0.133333 199.574 306.386)" fill="#E1621D"/>
+          </g>
+          <g id="path818">
+            <use xlink:href="#path401_fill" transform="matrix(0.133333 0 0 -0.133333 345.804 191.303)" fill="#F5771D"/>
+          </g>
+          <g id="path820">
+            <use xlink:href="#path402_fill" transform="matrix(0.133333 0 0 -0.133333 224.755 322.547)" fill="#DE621D"/>
+          </g>
+          <g id="path822">
+            <use xlink:href="#path403_fill" transform="matrix(0.133333 0 0 -0.133333 277.878 203.068)" fill="#F5751C"/>
+          </g>
+          <g id="path824">
+            <use xlink:href="#path404_fill" transform="matrix(0.133333 0 0 -0.133333 223.349 299.751)" fill="#E9651C"/>
+          </g>
+          <g id="path826">
+            <use xlink:href="#path405_fill" transform="matrix(0.133333 0 0 -0.133333 242.24 220.928)" fill="#F4721D"/>
+          </g>
+          <g id="path828">
+            <use xlink:href="#path406_fill" transform="matrix(0.133333 0 0 -0.133333 331.25 211.443)" fill="#F4701C"/>
+          </g>
+          <g id="path830">
+            <use xlink:href="#path407_fill" transform="matrix(0.133333 0 0 -0.133333 243.24 325.184)" fill="#E0631D"/>
+          </g>
+          <g id="path832">
+            <use xlink:href="#path408_fill" transform="matrix(0.133333 0 0 -0.133333 281.687 222.636)" fill="#F46E1C"/>
+          </g>
+          <g id="path834">
+            <use xlink:href="#path409_fill" transform="matrix(0.133333 0 0 -0.133333 243.175 285.046)" fill="#EB651C"/>
+          </g>
+          <g id="path836">
+            <use xlink:href="#path410_fill" transform="matrix(0.133333 0 0 -0.133333 263.827 223.563)" fill="#F46F1C"/>
+          </g>
+          <g id="path838">
+            <use xlink:href="#path411_fill" transform="matrix(0.133333 0 0 -0.133333 313.987 225.391)" fill="#F46C1C"/>
+          </g>
+          <g id="path840">
+            <use xlink:href="#path412_fill" transform="matrix(0.133333 0 0 -0.133333 259.682 326.579)" fill="#E4631D"/>
+          </g>
+          <g id="path842">
+            <use xlink:href="#path413_fill" transform="matrix(0.133333 0 0 -0.133333 284.439 241.616)" fill="#F3681D"/>
+          </g>
+          <g id="path844">
+            <use xlink:href="#path414_fill" transform="matrix(0.133333 0 0 -0.133333 284.32 225.391)" fill="#F46E1C"/>
+          </g>
+          <g id="path846">
+            <use xlink:href="#path415_fill" transform="matrix(0.133333 0 0 -0.133333 260.41 270.492)" fill="#EF671D"/>
+          </g>
+          <g id="path848">
+            <use xlink:href="#path416_fill" transform="matrix(0.133333 0 0 -0.133333 283.395 223.68)" fill="#F46B1C"/>
+          </g>
+          <g id="path850">
+            <use xlink:href="#path417_fill" transform="matrix(0.133333 0 0 -0.133333 286.511 264.616)" fill="#EE661D"/>
+          </g>
+          <g id="path852">
+            <use xlink:href="#path418_fill" transform="matrix(0.133333 0 0 -0.133333 359.07 248.387)" fill="#EF601B"/>
+          </g>
+          <g id="path854">
+            <use xlink:href="#path419_fill" transform="matrix(0.133333 0 0 -0.133333 286.15 328.281)" fill="#DB611D"/>
+          </g>
+          <g id="path856">
+            <use xlink:href="#path420_fill" transform="matrix(0.133333 0 0 -0.133333 307.314 226.663)" fill="#F46C1C"/>
+          </g>
+          <g id="path858">
+            <use xlink:href="#path421_fill" transform="matrix(0.133333 0 0 -0.133333 273.44 321.314)" fill="#E5631C"/>
+          </g>
+          <g id="path860">
+            <use xlink:href="#path422_fill" transform="matrix(0.133333 0 0 -0.133333 286.15 246.556)" fill="#F1691C"/>
+          </g>
+          <g id="path862">
+            <use xlink:href="#path423_fill" transform="matrix(0.133333 0 0 -0.133333 302.372 225.752)" fill="#F46B1C"/>
+          </g>
+          <g id="path864">
+            <use xlink:href="#path424_fill" transform="matrix(0.133333 0 0 -0.133333 279.483 253.228)" fill="#EF601B"/>
+          </g>
+          <g id="path866">
+            <use xlink:href="#path425_fill" transform="matrix(0.133333 0 0 -0.133333 344.796 329.164)" fill="#D9611E"/>
+          </g>
+          <g id="path868">
+            <use xlink:href="#path426_fill" transform="matrix(0.133333 0 0 -0.133333 287.422 329.164)" fill="#E3631C"/>
+          </g>
+          <g id="path870">
+            <use xlink:href="#path427_fill" transform="matrix(0.133333 0 0 -0.133333 325.375 226.94)" fill="#F46B1C"/>
+          </g>
+          <g id="path872">
+            <use xlink:href="#path428_fill" transform="matrix(0.133333 0 0 -0.133333 284.902 298.312)" fill="#E1621D"/>
+          </g>
+          <g id="Group">
+            <g id="path874">
+              <use xlink:href="#path429_fill" transform="matrix(0.133333 0 0 -0.133333 294.446 329.17)" fill="#E9651C"/>
+            </g>
+            <g id="path876">
+              <use xlink:href="#path430_fill" transform="matrix(0.133333 0 0 -0.133333 302.409 321.277)" fill="#E6641C"/>
+            </g>
+            <g id="path878">
+              <use xlink:href="#path431_fill" transform="matrix(0.133333 0 0 -0.133333 309.044 314.642)" fill="#E5631C"/>
+            </g>
+            <g id="path880">
+              <use xlink:href="#path432_fill" transform="matrix(0.133333 0 0 -0.133333 314.573 309.111)" fill="#E3631D"/>
+            </g>
+            <g id="path882">
+              <use xlink:href="#path433_fill" transform="matrix(0.133333 0 0 -0.133333 319.182 304.504)" fill="#E1621D"/>
+            </g>
+            <g id="path884">
+              <use xlink:href="#path434_fill" transform="matrix(0.133333 0 0 -0.133333 323.022 300.664)" fill="#E1621D"/>
+            </g>
+            <g id="path886">
+              <use xlink:href="#path435_fill" transform="matrix(0.133333 0 0 -0.133333 326.222 297.464)" fill="#E1621D"/>
+            </g>
+            <g id="path888">
+              <use xlink:href="#path436_fill" transform="matrix(0.133333 0 0 -0.133333 328.889 294.796)" fill="#E1621D"/>
+            </g>
+          </g>
+        </g>
+    </g>
+  </g>
+  <defs>
+    <filter id="filter0_d" filterUnits="userSpaceOnUse" x="-407" y="-468" width="934" height="934" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur stdDeviation="4"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="filter1_d" filterUnits="userSpaceOnUse" x="-350" y="-347" width="818" height="692" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur stdDeviation="7.5"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <path
+      id="path0_fill"
+      d="M 2368.89 2368.89C 2846.72 1891.07 3055.19 1245.89 2994.3 622.031C 3126.36 426.567 3229.01 217.156 3302.22 0C 3608.39 908.367 3399.61 1952.09 2675.86 2675.86C 1952.09 3399.61 908.367 3608.39 0 3302.22C 217.156 3229.01 426.567 3126.36 622.035 2994.3C 1245.9 3055.19 1891.07 2846.72 2368.89 2368.89Z"/>
+    <path
+      id="path1_fill"
+      d="M 430.774 2007.63C 818.326 1960.69 1193.6 1788.5 1491.05 1491.05C 1788.5 1193.6 1960.69 818.326 2007.63 430.77C 2023.17 415.975 2038.57 400.963 2053.82 385.712C 2174.24 265.301 2280.37 136.024 2372.27 2.68774e-05C 2433.16 623.856 2224.68 1269.03 1746.86 1746.86C 1269.03 2224.68 623.856 2433.16 2.68774e-05 2372.26C 136.024 2280.36 265.305 2174.24 385.716 2053.82C 400.967 2038.57 415.975 2023.17 430.774 2007.63Z"/>
+    <path
+      id="path2_fill"
+      d="M 762.888 762.894C 1486.65 39.1361 2530.38 -169.641 3438.75 136.526C 3221.6 209.736 3012.18 312.395 2816.71 444.448C 2192.86 383.576 1547.68 592.035 1069.85 1069.86C 592.033 1547.68 383.574 2192.86 444.445 2816.72C 312.385 3012.18 209.742 3221.59 136.54 3438.75C -169.648 2530.39 39.1259 1486.66 762.888 762.894Z"/>
+    <path
+      id="path3_fill"
+      d="M 1951.82 374.953C 1564.26 421.894 1188.99 594.079 891.533 891.534C 594.086 1188.98 421.897 1564.26 374.952 1951.81C 359.417 1966.61 344.016 1981.62 328.761 1996.87C 208.35 2117.28 102.224 2246.56 10.3182 2382.58C -50.5536 1758.73 157.906 1113.55 635.727 635.724C 1113.55 157.903 1758.73 -50.5563 2382.59 10.3195C 2246.56 102.221 2117.29 208.351 1996.88 328.762C 1981.63 344.018 1966.61 359.418 1951.82 374.953Z"/>
+    <path
+      id="path4_fill"
+      d="M 1069.86 2368.89C 1547.68 2846.72 2192.86 3055.19 2816.72 2994.3C 3012.18 3126.36 3221.59 3229.01 3438.75 3302.22C 2530.38 3608.39 1486.65 3399.61 762.893 2675.86C 39.1263 1952.09 -169.651 908.367 136.544 0C 209.738 217.156 312.385 426.567 444.446 622.031C 383.57 1245.89 592.033 1891.07 1069.86 2368.89Z"/>
+    <path
+      id="path5_fill"
+      d="M 374.949 430.77C 421.894 818.326 594.079 1193.6 891.53 1491.05C 1188.98 1788.5 1564.26 1960.69 1951.82 2007.63C 1966.61 2023.17 1981.62 2038.57 1996.87 2053.82C 2117.28 2174.24 2246.56 2280.36 2382.58 2372.26C 1758.73 2433.16 1113.55 2224.68 635.724 1746.86C 157.903 1269.03 -50.5563 623.856 10.3195 2.68774e-05C 102.221 136.024 208.347 265.301 328.758 385.712C 344.018 400.963 359.414 415.975 374.949 430.77Z"/>
+    <path
+      id="path6_fill"
+      d="M 2368.89 1069.86C 1891.07 592.035 1245.9 383.576 622.035 444.448C 426.567 312.395 217.156 209.736 0 136.526C 908.367 -169.641 1952.09 39.1361 2675.86 762.894C 3399.61 1486.66 3608.39 2530.38 3302.22 3438.75C 3229.01 3221.59 3126.36 3012.18 2994.3 2816.72C 3055.19 2192.86 2846.72 1547.69 2368.89 1069.86Z"/>
+    <path
+      id="path7_fill"
+      d="M 2007.63 1951.81C 1960.69 1564.26 1788.5 1188.99 1491.05 891.534C 1193.6 594.083 818.326 421.894 430.774 374.953C 415.975 359.418 400.967 344.018 385.716 328.762C 265.305 208.351 136.024 102.221 2.68774e-05 10.3195C 623.856 -50.5563 1269.03 157.903 1746.86 635.728C 2224.68 1113.55 2433.16 1758.73 2372.27 2382.58C 2280.37 2246.56 2174.24 2117.28 2053.82 1996.87C 2038.57 1981.62 2023.17 1966.61 2007.63 1951.81Z"/>
+    <path id="path8_fill" d="M 87.54 542.36C 78.71 397.527 49.54 253.727 -1.46484e-05 115.567C 68.34 75.449 137.36 36.938 207.01 4.39453e-06C 162.05 183.317 136.92 370.469 131.41 558.098C 116.81 552.77 102.18 547.539 87.54 542.36Z"/>
+    <path id="path9_fill" d="M 45.4 341.578C 35.8 273.199 20.62 205.469 -1.46484e-05 139.039C 73.87 90.762 148.64 44.379 224.25 7.32422e-06C 273.79 138.149 302.96 281.949 311.79 426.782C 223.71 395.61 134.87 367.219 45.4 341.578Z"/>
+    <path id="path10_fill" d="M 2.78 113.34C 57.78 74.438 113.32 36.649 169.39 2.19727e-06C 190.02 66.41 205.18 134.148 214.79 202.527C 143.56 182.129 71.95 163.469 -2.92969e-05 146.57C 0.819971 135.488 1.85 124.418 2.78 113.34Z"/>
+    <path
+      id="path11_fill"
+      d="M 303.77 940.379C 244.78 911.442 185.31 883.852 125.4 857.59C 129.04 620.199 87.24 382.281 2.92969e-05 157.93C 110.34 101.332 222.19 48.68 335.34 -2.68555e-05C 358.94 58.66 379.84 118.141 398.22 178.238C 322.5 425.809 290.95 683.969 303.77 940.379Z"/>
+    <path
+      id="path12_fill"
+      d="M 272.82 857.59C 212.91 883.852 153.44 911.442 94.46 940.379C 107.27 683.969 75.72 425.809 0 178.238C 18.38 118.141 39.2799 58.66 62.8799 -2.68555e-05C 176.04 48.68 287.88 101.332 398.22 157.93C 310.98 382.281 269.18 620.199 272.82 857.59Z"/>
+    <path id="path13_fill" d="M 267.138 592.5C 177.288 625.308 88.2876 661.051 0.217595 699.66C -3.41241 462.269 38.3875 224.351 125.618 -3.66211e-06C 147.658 11.301 169.627 22.781 191.547 34.402C 236.487 217.711 261.628 404.871 267.138 592.5Z"/>
+    <path id="path14_fill" d="M 266.39 341.578C 176.92 367.219 88.0801 395.61 9.76563e-05 426.789C 8.8301 281.95 37.9999 138.149 87.5399 7.32422e-06C 163.15 44.379 237.92 90.762 311.79 139.039C 291.17 205.469 275.99 273.199 266.39 341.578Z"/>
+    <path id="path15_fill" d="M -9.76562e-06 202.539C 9.59999 134.16 24.7799 66.43 45.3999 -6.46973e-06C 101.47 36.661 157.01 74.442 212.01 113.352C 212.94 124.43 213.97 135.5 214.8 146.582C 142.84 163.493 71.22 182.141 -9.76562e-06 202.539Z"/>
+    <path id="path16_fill" d="M 266.91 699.66C 178.85 661.051 89.84 625.308 1.95312e-05 592.5C 5.51002 404.871 30.64 217.711 75.6 34.402C 97.51 22.781 119.49 11.301 141.51 -3.66211e-06C 228.75 224.351 270.55 462.269 266.91 699.66Z"/>
+    <path id="path17_fill" d="M 191.694 762.141C 160.064 777.661 128.574 793.59 97.2344 809.883C 65.8944 793.59 34.4145 777.661 2.77447 762.141C -10.0355 505.731 21.5244 247.571 97.2344 1.02539e-05C 172.954 247.571 204.504 505.731 191.694 762.141Z"/>
+    <path id="path18_fill" d="M 75.59 558.098C 70.08 370.469 44.9399 183.309 -0.000107422 4.39453e-06C 69.6399 36.949 138.66 75.449 207 115.567C 157.46 253.727 128.29 397.528 119.46 542.367C 104.82 547.539 90.19 552.778 75.59 558.098Z"/>
+    <path
+      id="path19_fill"
+      d="M 94.46 -3.90625e-05C 153.44 28.93 212.91 56.54 272.82 82.81C 269.18 320.18 310.98 558.1 398.22 782.45C 287.88 839.06 176.04 891.7 62.8799 940.38C 39.2799 881.72 18.38 822.24 0 762.14C 75.72 514.57 107.27 256.41 94.46 -3.90625e-05Z"/>
+    <path
+      id="path20_fill"
+      d="M 0.190957 1.71153e-05C 77.0603 33.8167 154.759 65.1272 233.182 93.8875C 228.372 258.309 206.436 422.318 167.189 582.953C 148.064 593.136 128.886 603.196 109.655 613.099C 33.5015 416.499 -2.98647 208.009 0.190957 1.71153e-05Z"/>
+    <path id="path21_fill" d="M 3.75096 48.6312C 46.4339 32.8215 88.9412 16.6045 131.246 0.000218855C 173.565 16.6045 216.045 32.8215 258.755 48.6312C 276.047 309.828 233.445 572.808 131.246 825C 29.034 572.808 -13.5544 309.828 3.75096 48.6312Z"/>
+    <path id="path22_fill" d="M 1.70492e-05 93.8875C 78.4319 65.1272 156.122 33.8167 233 1.71153e-05C 236.169 208.009 199.681 416.508 123.536 613.099C 104.297 603.196 85.1185 593.136 65.9928 582.953C 26.755 422.309 4.80981 258.309 1.70492e-05 93.8875Z"/>
+    <path
+      id="path23_fill"
+      d="M 125.4 82.81C 185.31 56.54 244.78 28.93 303.76 -3.90625e-05C 290.95 256.41 322.5 514.57 398.22 762.14C 379.84 822.24 358.94 881.72 335.34 940.38C 222.19 891.7 110.34 839.06 2.92969e-05 782.45C 87.24 558.1 129.04 320.18 125.4 82.81Z"/>
+    <path id="path24_fill" d="M 66.164 0.000175781C 111.926 37.6102 158.137 74.3802 204.797 110.29C 197.337 158.45 185.945 206.12 170.578 252.77C 113.867 263.34 57.004 272.84 -4.39453e-06 281.26C 40.683 191.96 62.707 96.2702 66.164 0.000175781Z"/>
+    <path id="path25_fill" d="M 281.257 138.64C 184.996 142.09 89.3043 164.11 5.7373e-06 204.8C 8.41801 147.79 17.925 90.93 28.496 34.22C 75.144 18.85 122.808 7.46007 170.972 6.83594e-05C 206.882 46.6601 243.652 92.8699 281.257 138.64Z"/>
+    <path id="path26_fill" d="M 88.426 3.90625e-05C 130.926 37.14 173.855 73.5202 217.207 109.16C 213.75 205.41 191.726 301.09 151.055 390.41C 100.789 397.84 50.43 404.42 2.68555e-05 410.18C 77.644 286.05 107.156 140.47 88.426 3.90625e-05Z"/>
+    <path id="path27_fill" d="M 5.85938e-06 217.2C 5.76201 166.77 12.344 116.41 19.778 66.1501C 109.082 25.4701 204.774 3.44996 301.035 -3.90625e-05C 336.653 43.34 373.035 86.27 410.196 128.77C 269.707 110.04 124.129 139.56 5.85938e-06 217.2Z"/>
+    <path
+      id="path28_fill"
+      d="M -1.95312e-05 510.63C 107.352 359.92 124.032 164.58 50 5.85938e-05C 97.11 44.1201 144.786 87.3 193.036 129.46C 211.778 269.94 182.254 415.53 104.61 539.66C 70.86 543.52 37.079 547 3.25798 550.12C 2.10998 536.96 1.01198 523.8 -1.95312e-05 510.63Z"/>
+    <path
+      id="path29_fill"
+      d="M 39.492 198.494C 26.321 197.484 13.164 196.384 7.32422e-06 195.234C 3.11701 161.414 6.60601 127.634 10.461 93.8839C 134.59 16.2439 280.176 -13.276 420.657 5.45398C 462.825 53.704 505.996 101.384 550.118 148.494C 385.539 74.464 190.199 91.144 39.492 198.494Z"/>
+    <path
+      id="path30_fill"
+      d="M 177.7 113.79C 126.262 62.37 65.024 26.7601 -7.20215e-06 6.83006C 45.188 5.36006 90.344 3.06998 135.453 -1.95312e-05C 160.891 26.47 186.555 52.7898 212.629 78.8598C 238.703 104.94 265.024 130.59 291.489 156.04C 288.411 201.15 286.133 246.31 284.653 291.49C 264.731 226.47 229.121 165.23 177.7 113.79Z"/>
+    <path
+      id="path31_fill"
+      d="M 47.09 116.49C 29.519 134.06 13.886 152.85 -5.12695e-06 172.46C 2.46899 126.29 5.56201 80.1401 9.42201 34.0301C 23.23 21.8201 37.539 10.49 52.261 2.92969e-05C 109.707 4.45003 167.215 7.65006 224.773 9.53006C 159.754 29.4601 98.511 65.07 47.09 116.49Z"/>
+    <path
+      id="path32_fill"
+      d="M -7.32422e-06 135.45C 1.47999 90.28 3.75799 45.1198 6.83599 -0.000234375C 24.324 16.8298 41.89 33.5098 59.55 50.0398C 133.582 214.62 116.902 409.97 9.53899 560.68C 5.08599 503.24 1.88999 445.72 -7.32422e-06 388.17C 25.203 305.94 25.203 217.69 -7.32422e-06 135.45Z"/>
+    <path
+      id="path33_fill"
+      d="M 425.227 104.865C 342.993 79.665 254.739 79.665 172.512 104.865C 114.954 102.975 57.446 99.7749 -3.54004e-06 95.3249C 150.708 -12.0351 346.055 -28.7151 510.637 45.3149C 527.168 62.9749 543.848 80.5449 560.676 98.0249C 515.559 101.105 470.403 103.385 425.227 104.865Z"/>
+    <path
+      id="path34_fill"
+      d="M 768.762 284.65C 766.008 368.87 766.008 453.16 768.762 537.37C 748.84 602.38 713.23 663.63 661.809 715.05C 644.238 732.63 625.449 748.25 605.828 762.14C 529.629 766.23 453.352 768.45 377.062 768.76C 462.227 764.2 546.074 729.44 611.133 664.38C 751.062 524.45 751.062 297.57 611.133 157.65C 471.199 17.71 244.324 17.71 104.394 157.65C 39.336 222.7 4.57 306.55 -7.32422e-07 391.7C 0.319999 315.41 2.527 239.13 6.621 162.93C 20.527 143.32 36.144 124.55 53.711 106.96C 105.156 55.54 166.398 19.9301 231.406 5.85937e-05C 315.625 2.76006 399.902 2.76006 484.109 5.85937e-05C 549.133 19.9301 610.371 55.54 661.809 106.96C 713.23 158.4 748.84 219.64 768.762 284.65Z"/>
+    <path
+      id="path35_fill"
+      d="M 104.394 234.07C 169.453 299.13 253.293 333.89 338.469 338.46C 262.168 338.14 185.887 335.93 109.687 331.84C 90.059 317.93 71.289 302.32 53.723 284.74C 36.144 267.17 20.527 248.4 6.621 228.77C 2.527 152.57 0.319999 76.2901 -7.32422e-07 0.000117188C 4.57 85.1701 39.348 169.01 104.394 234.07Z"/>
+    <path id="path36_fill" d="M 2.06549 -3.90625e-05C 27.2685 82.24 27.2685 170.49 2.06549 252.72C -0.688507 168.51 -0.688507 84.22 2.06549 -3.90625e-05Z"/>
+    <path id="path37_fill" d="M -5.79071e-08 18.9001C 82.2266 -6.29993 170.481 -6.29993 252.715 18.9001C 168.496 21.6501 84.211 21.6501 -5.79071e-08 18.9001Z"/>
+    <path
+      id="path38_fill"
+      d="M 568.944 147.178C 452.335 30.5577 263.273 30.5577 146.659 147.178C 30.0502 263.788 30.0502 452.847 146.659 569.457C 263.273 686.067 452.335 686.067 568.944 569.457C 685.546 452.847 685.546 263.788 568.944 147.178ZM 338.507 716.078C 253.331 711.508 169.491 676.747 104.432 611.687C 39.3742 546.627 4.60825 462.788 0.0382493 377.618C -0.0127507 364.748 -0.0127507 351.888 0.0382493 339.018C 4.60825 253.848 39.3742 170.008 104.432 104.948C 244.362 -34.9823 471.237 -34.9823 611.171 104.948C 751.1 244.878 751.1 471.757 611.171 611.687C 546.112 676.727 462.265 711.508 377.1 716.078C 364.225 716.128 351.366 716.128 338.507 716.078Z"/>
+    <path
+      id="path39_fill"
+      d="M 474.547 122.655C 377.379 25.4851 219.82 25.4851 122.652 122.655C 25.4647 219.835 25.4647 377.385 122.652 474.555C 219.82 571.735 377.367 571.735 474.547 474.555C 571.715 377.385 571.715 219.825 474.547 122.655ZM 87.4568 509.745C -29.1523 393.135 -29.1523 204.075 87.4568 87.4652C 204.07 -29.1548 393.133 -29.1548 509.742 87.4652C 626.344 204.075 626.344 393.135 509.742 509.745C 393.133 626.355 204.07 626.355 87.4568 509.745Z"/>
+    <path
+      id="path40_fill"
+      d="M 395.455 102.216C 314.474 21.2264 183.185 21.2264 102.201 102.216C 21.2243 183.196 21.2243 314.476 102.201 395.466C 183.185 476.446 314.474 476.446 395.455 395.466C 476.439 314.476 476.439 183.196 395.455 102.216ZM 72.8728 424.786C -24.2909 327.616 -24.2909 170.066 72.8728 72.8864C 170.052 -24.2936 327.599 -24.2939 424.791 72.8761C 521.959 170.066 521.959 327.616 424.779 424.786C 327.599 521.956 170.052 521.956 72.8728 424.786Z"/>
+    <path
+      id="path41_fill"
+      d="M 329.547 85.1749C 262.071 17.6949 152.652 17.6949 85.1641 85.1749C 17.6836 152.655 17.6836 262.075 85.1641 329.565C 152.652 397.045 262.071 397.045 329.547 329.565C 397.032 262.075 397.032 152.655 329.547 85.1749ZM 60.7383 353.985C -20.2461 273.005 -20.2461 141.725 60.7383 60.7349C 141.715 -20.2451 273.004 -20.2451 353.985 60.7349C 434.969 141.725 434.969 273.005 353.985 353.985C 273.004 434.975 141.715 434.975 60.7383 353.985Z"/>
+    <path
+      id="path42_fill"
+      d="M 274.623 70.9677C 218.385 14.7377 127.213 14.7377 70.9707 70.9677C 14.7402 127.208 14.7402 218.388 70.9707 274.618C 127.213 330.858 218.385 330.858 274.623 274.618C 330.853 218.388 330.853 127.208 274.623 70.9677ZM 50.6074 294.987C -16.8692 227.507 -16.8692 118.098 50.6074 50.6176C 118.088 -16.8724 227.494 -16.8724 294.974 50.6176C 362.467 118.098 362.467 227.507 294.974 294.987C 227.494 362.457 118.088 362.457 50.6074 294.987Z"/>
+    <path
+      id="path43_fill"
+      d="M 228.852 59.14C 181.989 12.29 106.013 12.29 59.1377 59.14C 12.2783 106.01 12.2783 181.99 59.1377 228.86C 106.013 275.72 181.989 275.72 228.852 228.86C 275.708 181.99 275.708 106.01 228.852 59.14ZM 42.1729 245.82C -14.0576 189.59 -14.0576 98.41 42.1729 42.18C 98.4151 -14.06 189.587 -14.06 245.813 42.18C 302.055 98.41 302.055 189.59 245.813 245.82C 189.587 302.06 98.4151 302.06 42.1729 245.82Z"/>
+    <path
+      id="path44_fill"
+      d="M 190.717 49.2899C 151.666 10.2399 88.3457 10.2399 49.2911 49.2899C 10.2364 88.3399 10.2364 151.66 49.2911 190.71C 88.3457 229.77 151.666 229.77 190.717 190.71C 229.76 151.66 229.76 88.3399 190.717 49.2899ZM 35.1504 204.85C -11.7168 157.99 -11.7168 82.01 35.1504 35.16C 82.0176 -11.72 157.994 -11.72 204.845 35.16C 251.713 82.01 251.713 157.99 204.845 204.85C 157.994 251.72 82.0176 251.72 35.1504 204.85Z"/>
+    <path id="path45_fill" d="M 29.291 170.705C -9.76367 131.655 -9.76367 68.3351 29.291 29.2951C 68.3456 -9.76488 131.666 -9.76488 170.709 29.2951C 209.76 68.3351 209.76 131.655 170.709 170.705C 131.666 209.765 68.3456 209.765 29.291 170.705Z"/>
+    <path id="path46_fill" d="M 558.098 131.41C 370.469 136.93 183.313 162.06 4.39453e-06 207.01C 36.934 137.37 75.449 68.34 115.567 -1.46484e-05C 253.731 49.54 397.528 78.71 542.352 87.54C 547.539 102.18 552.766 116.81 558.098 131.41Z"/>
+    <path id="path47_fill" d="M 341.593 45.4C 367.226 134.87 395.625 223.71 426.797 311.8C 281.961 302.96 138.164 273.79 -9.52148e-06 224.26C 44.394 148.64 90.761 73.88 139.05 -1.46484e-05C 205.476 20.63 273.211 35.8 341.593 45.4Z"/>
+    <path
+      id="path48_fill"
+      d="M 857.578 125.4C 883.84 185.3 911.438 244.77 940.383 303.76C 683.977 290.94 425.813 322.49 178.242 398.21C 118.137 379.83 58.664 358.93 5.85938e-06 335.33C 48.684 222.18 101.321 110.34 157.934 3.90625e-05C 382.278 87.23 620.207 129.03 857.578 125.4Z"/>
+    <path id="path49_fill" d="M 592.5 1.95312e-05C 625.32 89.85 661.055 178.86 699.644 266.92C 462.273 270.56 224.344 228.75 2.68555e-05 141.52C 11.297 119.48 22.781 97.52 34.402 75.6C 217.715 30.65 404.871 5.52002 592.5 1.95312e-05Z"/>
+    <path id="path50_fill" d="M 214.64 125.28C 211.73 156.76 209.47 188.28 207.89 219.83C 148.92 248.76 89.4501 276.37 29.5301 302.64C 27.9801 201.28 18.13 100.05 2.44141e-05 -0.000117187C 70.65 43.8499 142.23 85.6102 214.64 125.28Z"/>
+    <path id="path51_fill" d="M 94.46 46.82C 63.12 63.11 31.63 79.03 3.90625e-05 94.55C 1.58004 63 3.84004 31.4802 6.75004 0.00015625C 35.86 15.9402 65.09 31.54 94.46 46.82Z"/>
+    <path
+      id="path52_fill"
+      d="M 940.383 94.45C 911.438 153.44 883.84 212.91 857.578 272.82C 620.207 269.18 382.278 310.98 157.934 398.22C 101.321 287.88 48.684 176.03 5.85938e-06 62.8799C 58.664 39.2899 118.149 18.38 178.242 4.54747e-13C 425.813 75.72 683.977 107.27 940.383 94.45Z"/>
+    <path id="path53_fill" d="M 302.629 214.65C 202.59 196.53 101.352 186.67 -6.46973e-06 185.12C 26.262 125.21 53.86 65.74 82.805 6.75996C 114.36 5.17996 145.879 2.91995 177.356 -4.88281e-05C 217.024 72.42 258.774 144 302.629 214.65Z"/>
+    <path id="path54_fill" d="M 762.141 2.77875C 777.661 34.3988 793.586 65.8887 809.875 97.2287C 793.586 128.569 777.661 160.049 762.141 191.689C 505.735 204.499 247.571 172.939 1.02539e-05 97.2287C 247.571 21.5087 505.735 -10.0412 762.141 2.77875Z"/>
+    <path id="path55_fill" d="M 1.46484e-06 94.45C 15.52 62.8299 31.445 31.34 47.734 0C 62.996 29.37 78.613 58.59 94.551 87.7C 63.074 90.6199 31.555 92.88 1.46484e-06 94.45Z"/>
+    <path id="path56_fill" d="M -4.88281e-05 9.76562e-06C 67.98 53.15 137.09 104.17 207.27 152.97C 176.01 331.47 163.02 512.51 168.32 693.15C 153.72 698.49 139.09 703.71 124.46 708.9C 139.12 468.27 97.72 224.86 -4.88281e-05 9.76562e-06Z"/>
+    <path id="path57_fill" d="M 40.1113 -1.95312e-05C 105.351 45.36 171.531 88.8099 238.531 130.4C 256.651 230.45 266.511 331.68 268.071 433.04C 180.001 471.63 91.0014 507.37 1.15137 540.18C -4.14863 359.55 8.85133 178.5 40.1113 -1.95312e-05Z"/>
+    <path id="path58_fill" d="M 115.567 207.01C 75.449 138.67 36.934 69.6399 4.39453e-06 -0.000117187C 183.313 44.9499 370.469 70.09 558.106 75.6C 552.766 90.2 547.539 104.83 542.364 119.47C 397.528 128.3 253.731 157.47 115.567 207.01Z"/>
+    <path id="path59_fill" d="M 555.917 1.95312e-05C 604.707 70.2 655.734 139.3 708.886 207.28C 484.023 109.57 240.617 68.1701 -7.32422e-07 82.8301C 5.1758 68.1901 10.3906 53.56 15.7343 38.96C 196.367 44.25 377.414 31.26 555.917 1.95312e-05Z"/>
+    <path id="path60_fill" d="M 699.644 0.218757C 661.055 88.2788 625.312 177.289 592.5 267.129C 404.871 261.619 217.703 236.489 34.402 191.529C 22.781 169.619 11.297 147.639 2.68555e-05 125.619C 224.344 38.3787 462.273 -3.42124 699.644 0.218757Z"/>
+    <path id="path61_fill" d="M 540.183 227.96C 361.68 259.22 180.633 272.21 1.78833e-06 266.92C 32.8125 177.07 68.5552 88.0701 107.144 5.85937e-05C 208.504 1.56006 309.734 11.4201 409.781 29.5401C 451.375 96.5501 494.82 162.72 540.183 227.96Z"/>
+    <path
+      id="path62_fill"
+      d="M -4.88281e-05 74.26C 72.38 51.69 144.23 26.95 215.42 -3.90625e-05C 233.2 14.34 251.06 28.52 269 42.55C 366.72 267.41 408.12 510.81 393.46 751.45C 305.36 782.61 216.52 811 127.06 836.63C 163.3 578.52 120.93 311.53 -4.88281e-05 74.26Z"/>
+    <path
+      id="path63_fill"
+      d="M 516.053 326.91C 499.243 389.57 484.563 452.66 471.643 516.05C 416.613 420.67 348.393 330.81 266.823 249.23C 185.246 167.65 95.39 99.4499 -1.02539e-05 44.4199C 63.386 31.4899 126.484 16.8 189.14 -2.92969e-05C 240.613 56.82 293.723 112.7 348.543 167.51C 403.353 222.33 459.223 275.44 516.053 326.91Z"/>
+    <path id="path64_fill" d="M 44.41 -0.000117187C 110.64 59.9799 178.22 117.64 247 173.08C 175.8 200.03 103.96 224.77 31.59 247.33C 21.59 227.72 11.06 208.32 -4.88281e-06 189.14C 12.92 125.75 27.6 62.6599 44.41 -0.000117187Z"/>
+    <path id="path65_fill" d="M 341.593 266.39C 273.211 275.99 205.476 291.16 139.05 311.79C 90.761 237.92 44.394 163.15 -9.52148e-06 87.5399C 138.164 37.9999 281.961 8.8301 426.797 9.76563e-05C 395.625 88.0801 367.226 176.92 341.593 266.39Z"/>
+    <path
+      id="path66_fill"
+      d="M 762.383 396.334C 525.098 275.404 258.106 233.034 -1.78833e-06 269.274C 25.625 179.814 54.0234 90.9743 85.1836 2.87431C 325.82 -11.7857 569.219 29.6243 794.082 127.334C 808.106 145.274 822.293 163.134 836.633 180.914C 809.68 252.104 784.942 323.954 762.383 396.334Z"/>
+    <path id="path67_fill" d="M 58.191 247C 39.016 235.94 19.609 225.41 2.97852e-05 215.41C 22.559 143.05 47.285 71.1899 74.25 -0.000117187C 129.687 68.7799 187.344 136.37 247.324 202.6C 184.668 219.39 121.582 234.08 58.191 247Z"/>
+    <path id="path68_fill" d="M 165.58 5.85938e-05C 142.81 126.51 127.68 254.12 120.23 382.09C 99.6099 265.33 59.56 151.33 -3.90625e-05 45.3299C 55.45 31.4599 110.68 16.3701 165.58 5.85938e-05Z"/>
+    <path
+      id="path69_fill"
+      d="M -5.85937e-05 769.76C 21.7999 646.19 21.8099 519.53 -5.85937e-05 395.93C 7.45994 267.96 22.58 140.36 45.3601 13.8401C 60.5201 9.32006 75.64 4.70997 90.77 -2.92969e-05C 211.69 237.27 254.06 504.26 217.82 762.38C 146.6 782.79 74.98 801.43 3.02997 818.35C 1.83997 802.16 0.939941 785.96 -5.85937e-05 769.76Z"/>
+    <path id="path70_fill" d="M -8.05664e-06 45.3601C 127.976 37.9001 255.574 22.78 382.09 -4.88281e-05C 365.711 54.91 350.625 110.14 336.765 165.59C 230.757 106.04 116.765 65.9801 -8.05664e-06 45.3601Z"/>
+    <path
+      id="path71_fill"
+      d="M 384.177 204.83C 465.757 286.39 533.977 376.25 589.007 471.64C 584.107 495.61 579.517 519.62 575.187 543.68C 520.267 560.05 465.057 575.14 409.587 589.01C 362.737 505.59 303.848 427.11 232.871 356.14C 161.895 285.16 83.418 226.27 -2.39258e-05 179.42C 13.867 123.96 28.953 68.74 45.325 13.82C 69.383 9.48995 93.399 4.89988 117.371 -0.000117187C 212.754 55.0299 302.617 123.25 384.177 204.83Z"/>
+    <path id="path72_fill" d="M 45.41 58.2C 30.2999 62.91 15.17 67.5201 3.90625e-05 72.0401C 4.34004 47.9801 8.93999 23.97 13.83 1.95312e-05C 24.89 19.18 35.42 38.58 45.41 58.2Z"/>
+    <path
+      id="path73_fill"
+      d="M 818.359 139.591C 813.64 154.701 809.023 169.831 804.504 185.001C 678 207.771 550.39 222.901 422.414 230.351C 298.828 208.541 172.168 208.541 48.5855 230.351C 32.3824 229.411 16.1793 228.511 -1.89209e-06 227.321C 16.9058 155.361 35.566 83.7609 55.9762 12.5309C 314.082 -23.7091 581.074 18.6609 818.359 139.591Z"/>
+    <path id="path74_fill" d="M -1.17188e-05 45.41C 4.51899 30.24 9.13601 15.11 13.843 4.88281e-05C 33.457 9.99005 52.859 20.5199 72.046 31.5799C 48.066 36.4699 24.058 41.07 -1.17188e-05 45.41Z"/>
+    <path
+      id="path75_fill"
+      d="M -2.68555e-05 41.09C 61.406 28.9 122.565 15.1999 183.425 -0.000107422C 242.985 106 283.035 220 303.655 336.76C 296.395 461.27 296.395 586.09 303.655 710.59C 300.595 727.93 297.095 745.18 293.185 762.39C 286.645 763.9 280.095 765.34 273.545 766.82C 225.645 732.35 178.175 697.02 131.145 660.83C 163.955 448.93 120.235 227.53 -2.68555e-05 41.09Z"/>
+    <path id="path76_fill" d="M 5.44494 -9.76563e-05C 27.2549 123.59 27.2449 250.26 5.44494 373.83C -1.81506 249.34 -1.81506 124.51 5.44494 -9.76563e-05Z"/>
+    <path
+      id="path77_fill"
+      d="M 725.735 303.65C 539.301 183.42 317.895 139.7 105.996 172.51C 69.8087 125.48 34.4767 78.0099 3.66211e-06 30.1099C 1.485 23.5599 2.934 17.01 4.438 10.47C 21.633 6.56003 38.8986 3.06006 56.2345 5.85937e-05C 180.734 7.26006 305.559 7.26006 430.063 5.85937e-05C 546.82 20.6201 660.82 60.67 766.828 120.23C 751.621 181.08 737.922 242.25 725.735 303.65Z"/>
+    <path
+      id="path78_fill"
+      d="M 147.879 302.82C 102.019 256.96 52.383 217.19 2.39258e-05 183.42C 12.195 122.02 25.886 60.85 41.101 3.90625e-05C 124.519 46.86 203.008 105.75 273.972 176.73C 344.949 247.69 403.838 326.18 450.698 409.6C 389.838 424.81 328.679 438.5 267.285 450.7C 233.504 398.32 193.738 348.68 147.879 302.82Z"/>
+    <path id="path79_fill" d="M 7.32422e-07 16.3538C 123.574 -5.44619 250.234 -5.45619 373.828 16.3538C 249.324 23.6138 124.5 23.6138 7.32422e-07 16.3538Z"/>
+    <path id="path80_fill" d="M -8.78906e-06 28.56C 54.121 20.22 108.105 10.66 161.894 -9.76562e-06C 282.136 186.42 325.839 407.83 293.039 619.72C 246.379 583.82 200.168 547.05 154.406 509.46C 160.5 340.19 108.984 169.36 -8.78906e-06 28.56Z"/>
+    <path id="path81_fill" d="M 110.285 149.191C 72.6797 103.421 35.9101 57.2111 0 10.5511C 211.899 -22.2589 433.313 21.451 619.731 141.691C 609.067 195.481 599.516 249.461 591.164 303.581C 450.371 194.611 279.543 143.091 110.285 149.191Z"/>
+    <path
+      id="path82_fill"
+      d="M 295.847 267.27C 242.046 277.95 188.082 287.5 133.96 295.84C 114.8 271.11 94.082 247.18 71.382 224.48C 48.667 201.76 24.746 181.05 -1.17188e-05 161.9C 8.35899 107.78 17.898 53.79 28.582 -3.90625e-05C 80.957 33.77 130.593 73.5401 176.453 119.4C 222.312 165.26 262.07 214.9 295.847 267.27Z"/>
+    <path id="path83_fill" d="M -4.39453e-06 19.75C 49.023 14.1101 97.949 7.54005 146.758 4.88281e-05C 255.754 140.8 307.246 311.63 301.172 480.88C 257.82 445.27 214.89 408.87 172.39 371.74C 155.254 243.22 97.812 119.09 -4.39453e-06 19.75Z"/>
+    <path id="path84_fill" d="M 480.879 154.875C 473.329 203.695 466.778 252.635 461.122 301.645C 361.789 203.835 237.664 146.404 109.153 129.255C 72 86.7545 35.625 43.8245 1.89209e-06 0.484482C 169.258 -5.61552 340.086 45.8846 480.879 154.875Z"/>
+    <path
+      id="path85_fill"
+      d="M 3.56603 150.14C 2.40603 148.98 1.17099 147.91 -1.17188e-05 146.76C 5.65599 97.7501 12.218 48.8101 19.757 0.000107422C 44.496 19.1501 68.417 39.8699 91.125 62.5799C 113.832 85.2799 134.55 109.21 153.703 133.94C 104.894 141.5 55.957 148.05 6.945 153.7C 5.792 152.53 4.71803 151.3 3.56603 150.14Z"/>
+    <path id="path86_fill" d="M 65.996 68.51C 45.254 47.78 23.125 29.3 1.46484e-06 12.83C 44.902 9.34003 89.746 5.05995 134.512 -4.88281e-05C 129.453 44.7599 125.176 89.61 121.68 134.51C 105.215 111.39 86.731 89.26 65.996 68.51Z"/>
+    <path
+      id="path87_fill"
+      d="M -1.95312e-05 135.4C 3.48498 90.5202 7.76203 45.6599 12.821 0.889941C 15.438 0.609941 18.043 0.310049 20.653 4.88281e-05C 118.458 99.34 175.907 223.47 193.036 351.99C 144.786 309.81 97.11 266.63 50 222.5C 36.395 192.27 19.715 163.09 -1.95312e-05 135.4Z"/>
+    <path
+      id="path88_fill"
+      d="M 216.582 193.04C 188.886 173.32 159.715 156.65 129.48 143.04C 85.347 95.93 42.176 48.25 -5.85938e-06 -1.95312e-05C 128.511 17.13 252.636 74.5801 351.98 172.39C 351.676 175 351.375 177.6 351.082 180.22C 306.316 185.28 261.465 189.56 216.582 193.04Z"/>
+    <path id="path89_fill" d="M 7.832 6.93005C 5.222 7.24005 2.60503 7.53994 2.53906e-05 7.81994C 0.304025 5.20994 0.593988 2.61012 0.886988 0.000117187C 2.05799 1.15012 3.29303 2.22 4.45303 3.38C 5.61703 4.55 6.679 5.77005 7.832 6.93005Z"/>
+    <path
+      id="path90_fill"
+      d="M 158.742 121.68C 157.774 134.03 156.867 146.39 156.028 158.74C 129.571 133.3 103.235 107.65 77.168 81.5698C 51.094 55.4998 25.442 29.17 6.5918e-06 2.70998C 12.356 1.86998 24.707 0.97002 37.051 1.95312e-05C 60.176 16.48 82.305 34.95 103.047 55.69C 123.789 76.44 142.266 98.5702 158.742 121.68Z"/>
+    <path id="path91_fill" d="M 2.71398 0.000195313C 22.429 27.6902 39.109 56.8698 52.714 87.0998C 35.054 70.5698 17.488 53.8898 -8.78906e-06 37.0598C 0.838991 24.7098 1.74598 12.3502 2.71398 0.000195313Z"/>
+    <path id="path92_fill" d="M 5.12695e-06 1.95312e-05C 30.235 13.61 59.406 30.28 87.102 50C 74.746 50.96 62.395 51.87 50.039 52.71C 33.223 35.24 16.543 17.65 5.12695e-06 1.95312e-05Z"/>
+    <path
+      id="path93_fill"
+      d="M 113.79 113.79C 62.36 165.23 26.7601 226.47 6.83007 291.49C 5.35007 246.31 3.06999 201.15 -9.76562e-06 156.04C 26.46 130.59 52.7801 104.94 78.8601 78.8598C 104.93 52.7898 130.59 26.47 156.03 -1.95312e-05C 201.14 3.06998 246.3 5.36006 291.48 6.83006C 226.46 26.7601 165.22 62.37 113.79 113.79Z"/>
+    <path
+      id="path94_fill"
+      d="M 177.68 116.49C 126.26 65.07 65.0202 29.4601 0.000175781 9.53006C 57.5502 7.65006 115.06 4.45003 172.51 2.92969e-05C 187.23 10.49 201.55 21.8201 215.35 34.0301C 219.2 80.1401 222.31 126.29 224.77 172.46C 210.88 152.85 195.27 134.06 177.68 116.49Z"/>
+    <path
+      id="path95_fill"
+      d="M 234.06 234.07C 299.12 169.02 333.88 85.1701 338.45 0.000117187C 338.13 76.2901 335.92 152.57 331.83 228.77C 317.93 248.4 302.31 267.17 284.73 284.74C 267.16 302.32 248.39 317.93 228.77 331.84C 152.56 335.93 76.2799 338.14 -0.000117187 338.46C 85.1599 333.89 169.01 299.11 234.06 234.07Z"/>
+    <path
+      id="path96_fill"
+      d="M 284.66 6.83594e-05C 368.87 2.75007 453.16 2.75007 537.37 6.83594e-05C 602.38 19.9201 663.63 55.53 715.06 106.95C 732.63 124.52 748.25 143.31 762.15 162.93C 766.23 239.12 768.45 315.41 768.76 391.7C 764.2 306.54 729.44 222.69 664.39 157.63C 524.45 17.7002 297.58 17.7002 157.65 157.63C 17.71 297.57 17.71 524.44 157.65 664.37C 222.7 729.43 306.55 764.19 391.72 768.76C 315.42 768.44 239.13 766.23 162.93 762.14C 143.31 748.23 124.54 732.62 106.97 715.05C 55.54 663.61 19.9301 602.37 5.85937e-05 537.36C 2.77006 453.14 2.77006 368.86 5.85937e-05 284.65C 19.9301 219.63 55.54 158.39 106.97 106.95C 158.41 55.53 219.65 19.9201 284.66 6.83594e-05Z"/>
+    <path
+      id="path97_fill"
+      d="M 569.45 147.178C 452.84 30.5577 263.79 30.5577 147.18 147.178C 30.5599 263.788 30.5599 452.847 147.18 569.457C 263.79 686.067 452.84 686.067 569.45 569.457C 686.06 452.847 686.06 263.788 569.45 147.178ZM 716.07 377.618C 711.5 462.788 676.74 546.637 611.69 611.687C 546.62 676.727 462.78 711.508 377.62 716.078C 364.74 716.128 351.88 716.128 339.01 716.078C 253.85 711.508 170.01 676.747 104.94 611.687C -34.9798 471.757 -34.9798 244.878 104.94 104.948C 244.87 -34.9823 471.76 -34.9823 611.69 104.948C 676.74 170.008 711.5 253.848 716.07 339.018C 716.12 351.888 716.12 364.748 716.07 377.618Z"/>
+    <path
+      id="path98_fill"
+      d="M 474.555 122.655C 377.385 25.4851 219.815 25.4851 122.645 122.655C 25.4651 219.835 25.4651 377.385 122.645 474.555C 219.815 571.735 377.375 571.735 474.555 474.555C 571.715 377.385 571.715 219.825 474.555 122.655ZM 87.4649 509.745C -29.1551 393.135 -29.1551 204.075 87.4649 87.4652C 204.075 -29.1548 393.125 -29.1548 509.735 87.4652C 626.345 204.075 626.345 393.135 509.735 509.745C 393.125 626.355 204.075 626.355 87.4649 509.745Z"/>
+    <path
+      id="path99_fill"
+      d="M 395.458 102.216C 314.478 21.2264 183.178 21.2264 102.208 102.216C 21.2277 183.196 21.2277 314.476 102.208 395.466C 183.178 476.446 314.478 476.446 395.458 395.466C 476.438 314.476 476.438 183.196 395.458 102.216ZM 72.8776 424.786C -24.2924 327.616 -24.2924 170.066 72.8776 72.8864C 170.058 -24.2936 327.607 -24.2939 424.787 72.8761C 521.957 170.066 521.958 327.616 424.778 424.786C 327.608 521.956 170.058 521.956 72.8776 424.786Z"/>
+    <path
+      id="path100_fill"
+      d="M 329.545 85.1749C 262.075 17.6949 152.655 17.6949 85.1649 85.1749C 17.6849 152.655 17.6849 262.075 85.1649 329.565C 152.655 397.045 262.075 397.045 329.545 329.565C 397.025 262.075 397.025 152.655 329.545 85.1749ZM 60.7352 353.985C -20.2448 273.005 -20.2448 141.725 60.7352 60.7349C 141.715 -20.2451 273.005 -20.2451 353.985 60.7349C 434.965 141.725 434.965 273.005 353.985 353.985C 273.005 434.975 141.715 434.975 60.7352 353.985Z"/>
+    <path
+      id="path101_fill"
+      d="M 274.613 70.9677C 218.373 14.7377 127.203 14.7377 70.9627 70.9677C 14.7327 127.208 14.7327 218.388 70.9627 274.618C 127.203 330.858 218.373 330.858 274.613 274.618C 330.853 218.388 330.853 127.208 274.613 70.9677ZM 50.6024 294.987C -16.8676 227.507 -16.8676 118.098 50.6024 50.6176C 118.082 -16.8724 227.502 -16.8724 294.982 50.6176C 362.472 118.098 362.472 227.507 294.982 294.987C 227.502 362.457 118.082 362.457 50.6024 294.987Z"/>
+    <path
+      id="path102_fill"
+      d="M 228.852 59.14C 182.002 12.29 106.022 12.29 59.1425 59.14C 12.2925 106.01 12.2925 181.99 59.1425 228.86C 106.022 275.72 182.002 275.72 228.852 228.86C 275.722 181.99 275.722 106.01 228.852 59.14ZM 42.1727 245.82C -14.0573 189.59 -14.0573 98.41 42.1727 42.18C 98.4127 -14.06 189.593 -14.06 245.823 42.18C 302.063 98.41 302.063 189.59 245.823 245.82C 189.583 302.06 98.4127 302.06 42.1727 245.82Z"/>
+    <path
+      id="path103_fill"
+      d="M 190.712 49.2899C 151.662 10.2399 88.3426 10.2399 49.3026 49.2899C 10.2426 88.3399 10.2426 151.66 49.3026 190.71C 88.3426 229.77 151.662 229.77 190.712 190.71C 229.762 151.66 229.762 88.3399 190.712 49.2899ZM 35.1527 204.85C -11.7173 157.99 -11.7173 82.01 35.1527 35.16C 82.0127 -11.72 158.002 -11.72 204.852 35.16C 251.722 82.01 251.732 157.99 204.852 204.85C 158.002 251.72 82.0127 251.72 35.1527 204.85Z"/>
+    <path id="path104_fill" d="M 29.2951 170.705C -9.76488 131.655 -9.76488 68.3351 29.2951 29.2951C 68.3351 -9.76488 131.655 -9.76488 170.705 29.2951C 209.755 68.3351 209.755 131.655 170.705 170.705C 131.655 209.765 68.3351 209.765 29.2951 170.705Z"/>
+    <path id="path105_fill" d="M 68.52 68.51C 47.78 89.26 29.3 111.39 12.83 134.51C 9.34003 89.61 5.05995 44.7599 -4.88281e-05 -4.88281e-05C 44.77 5.05995 89.61 9.34003 134.51 12.83C 111.39 29.3 89.26 47.78 68.52 68.51Z"/>
+    <path
+      id="path106_fill"
+      d="M 121.68 1.95312e-05C 134.02 0.97002 146.38 1.86998 158.74 2.70998C 133.3 29.17 107.64 55.5098 81.5601 81.5698C 55.5001 107.65 29.17 133.3 2.70999 158.74C 1.86999 146.39 0.960029 134.03 2.92969e-05 121.68C 16.47 98.5702 34.94 76.44 55.68 55.69C 76.43 34.95 98.56 16.48 121.68 1.95312e-05Z"/>
+    <path id="path107_fill" d="M 65.996 66C 86.731 45.25 105.215 23.121 121.68 1.46484e-06C 125.176 44.902 129.453 89.75 134.512 134.512C 89.746 129.449 44.902 125.172 1.46484e-06 121.68C 23.125 105.211 45.254 86.742 65.996 66Z"/>
+    <path
+      id="path108_fill"
+      d="M 55.981 47.09C 38.399 29.508 19.621 13.89 2.19727e-06 -5.12695e-06C 46.184 2.46899 92.336 5.57 138.442 9.429C 150.656 23.23 161.984 37.539 172.473 52.258C 168.02 109.711 164.824 167.219 162.934 224.781C 143.012 159.75 107.402 98.5076 55.981 47.09Z"/>
+    <path
+      id="path109_fill"
+      d="M 177.7 177.68C 229.121 126.262 264.731 65.02 284.653 1.46484e-06C 286.133 45.172 288.411 90.332 291.489 135.453C 265.024 160.891 238.703 186.539 212.629 212.621C 186.555 238.699 160.891 265.02 135.453 291.473C 90.344 288.41 45.188 286.121 -7.20215e-06 284.652C 65.024 264.723 126.262 229.121 177.7 177.68Z"/>
+    <path
+      id="path110_fill"
+      d="M 47.09 55.957C 98.511 107.398 159.754 143 224.773 162.929C 167.215 164.808 109.707 168.008 52.261 172.468C 37.539 161.976 23.23 150.636 9.42201 138.429C 5.56201 92.316 2.46899 46.179 -5.12695e-06 -6.5918e-06C 13.886 19.617 29.519 38.398 47.09 55.957Z"/>
+    <path
+      id="path111_fill"
+      d="M 37.051 158.738C 24.707 157.778 12.356 156.86 6.5918e-06 156.02C 25.442 129.567 51.094 103.238 77.168 77.168C 103.235 51.098 129.571 25.438 156.028 4.39453e-06C 156.867 12.36 157.774 24.707 158.742 37.059C 142.266 60.168 123.789 82.297 103.047 103.047C 82.305 123.789 60.176 142.258 37.051 158.738Z"/>
+    <path
+      id="path112_fill"
+      d="M 484.109 768.761C 399.898 765.992 315.605 765.992 231.394 768.761C 166.375 748.84 105.132 713.218 53.711 661.789C 36.14 644.23 20.507 625.449 6.621 605.832C 2.527 529.629 0.307993 453.351 -7.32422e-06 377.062C 4.55799 462.211 39.324 546.062 104.375 611.121C 244.312 751.05 471.187 751.05 611.121 611.121C 751.043 471.191 751.043 244.308 611.121 104.379C 546.062 39.32 462.215 4.56999 377.05 -7.32422e-06C 453.34 0.307993 529.629 2.53099 605.828 6.621C 625.449 20.519 644.215 36.129 661.797 53.718C 713.23 105.14 748.828 166.379 768.758 231.39C 765.996 315.609 765.996 399.89 768.758 484.109C 748.828 549.129 713.23 610.371 661.797 661.789C 610.359 713.218 549.121 748.832 484.109 768.761Z"/>
+    <path
+      id="path113_fill"
+      d="M 104.394 104.379C 39.348 169.429 4.57 253.281 -7.32422e-07 338.449C 0.319999 262.172 2.527 185.89 6.621 109.679C 20.527 90.0622 36.144 71.2887 53.723 53.718C 71.289 36.129 90.059 20.519 109.687 6.609C 185.887 2.531 262.168 0.307993 338.469 -7.32422e-06C 253.293 4.56999 169.441 39.332 104.394 104.379Z"/>
+    <path
+      id="path114_fill"
+      d="M 146.659 568.936C 263.273 685.557 452.323 685.557 568.933 568.936C 685.546 452.327 685.546 263.264 568.933 146.655C 452.323 30.0462 263.273 30.0462 146.659 146.655C 30.0502 263.264 30.0502 452.327 146.659 568.936ZM 0.0382493 338.495C 4.60825 253.327 39.3742 169.487 104.432 104.425C 169.491 39.3783 253.339 4.60825 338.495 0.0382471C 351.366 -0.0127529 364.225 -0.0127529 377.1 0.0382471C 462.265 4.60825 546.124 39.3783 611.171 104.425C 751.1 244.355 751.1 471.237 611.171 611.167C 471.237 751.096 244.355 751.096 104.432 611.167C 39.3742 546.108 4.60825 462.257 0.0382493 377.096C -0.0127507 364.237 -0.0127507 351.378 0.0382493 338.495Z"/>
+    <path
+      id="path115_fill"
+      d="M 122.64 474.547C 219.828 571.727 377.379 571.727 474.547 474.547C 571.727 377.379 571.727 219.816 474.547 122.648C 377.379 25.4763 219.828 25.4763 122.64 122.648C 25.4767 219.816 25.4767 377.379 122.64 474.547ZM 509.731 87.4568C 626.344 204.066 626.344 393.129 509.731 509.738C 393.133 626.359 204.07 626.359 87.4568 509.738C -29.1523 393.129 -29.1523 204.066 87.4568 87.4568C 204.07 -29.1523 393.133 -29.1523 509.731 87.4568Z"/>
+    <path
+      id="path116_fill"
+      d="M 102.201 395.452C 183.185 476.44 314.474 476.44 395.455 395.452C 476.427 314.483 476.427 183.19 395.455 102.21C 314.474 21.2217 183.185 21.2217 102.201 102.21C 21.2243 183.19 21.2243 314.483 102.201 395.452ZM 424.791 72.8701C 521.959 170.061 521.959 327.612 424.791 424.792C 327.599 521.96 170.052 521.96 72.8728 424.792C -24.2909 327.612 -24.2909 170.061 72.8728 72.8701C 170.052 -24.2901 327.599 -24.2901 424.791 72.8701Z"/>
+    <path
+      id="path117_fill"
+      d="M 85.1738 329.545C 152.654 397.026 262.061 397.026 329.549 329.545C 397.034 262.065 397.034 152.654 329.549 85.1621C 262.061 17.6856 152.654 17.6856 85.1738 85.1621C 17.6973 152.654 17.6973 262.065 85.1738 329.545ZM 353.987 60.7325C 434.959 141.713 434.959 273.006 353.987 353.983C 273.018 434.963 141.709 434.963 60.7324 353.983C -20.2442 273.006 -20.2442 141.713 60.7324 60.7325C 141.709 -20.2441 273.018 -20.2441 353.987 60.7325Z"/>
+    <path
+      id="path118_fill"
+      d="M 70.9795 274.631C 127.222 330.869 218.394 330.869 274.632 274.631C 330.862 218.389 330.862 127.221 274.632 70.9785C 218.394 14.7402 127.222 14.7402 70.9795 70.9785C 14.7373 127.221 14.7373 218.389 70.9795 274.631ZM 294.991 50.6074C 362.476 118.088 362.476 227.51 294.991 294.99C 227.515 362.478 118.097 362.478 50.6162 294.99C -16.8721 227.51 -16.8721 118.088 50.6162 50.6074C 118.097 -16.8691 227.515 -16.8691 294.991 50.6074Z"/>
+    <path
+      id="path119_fill"
+      d="M 59.1542 228.858C 106.01 275.71 181.998 275.71 228.861 228.858C 275.724 181.991 275.724 106.01 228.861 59.1513C 181.998 12.2802 106.01 12.2802 59.1542 59.1513C 12.2871 106.01 12.2871 181.991 59.1542 228.858ZM 245.834 42.1787C 302.064 98.4213 302.064 189.6 245.834 245.831C 189.596 302.069 98.4238 302.069 42.1816 245.831C -14.0606 189.6 -14.0606 98.4213 42.1816 42.1787C 98.4238 -14.0596 189.596 -14.0596 245.834 42.1787Z"/>
+    <path
+      id="path120_fill"
+      d="M 49.2911 190.712C 88.3457 229.77 151.666 229.77 190.709 190.712C 229.76 151.661 229.76 88.3413 190.709 49.2903C 151.666 10.251 88.3457 10.251 49.2911 49.2903C 10.2364 88.3413 10.2364 151.661 49.2911 190.712ZM 204.845 35.1533C 251.72 82.0123 251.72 157.993 204.845 204.86C 157.994 251.712 82.0176 251.719 35.1504 204.86C -11.7168 157.993 -11.7168 82.0123 35.1504 35.1533C 82.0176 -11.7178 157.994 -11.7178 204.845 35.1533Z"/>
+    <path id="path121_fill" d="M 170.717 29.2795C 209.76 68.3305 209.76 131.65 170.717 170.701C 131.666 209.751 68.3456 209.751 29.291 170.701C -9.76367 131.65 -9.76367 68.3305 29.291 29.2795C 68.3456 -9.75982 131.666 -9.75982 170.717 29.2795Z"/>
+    <path id="path122_fill" d="M 138.64 0.000195313C 142.09 96.2502 164.11 191.93 204.8 281.25C 147.8 272.82 90.93 263.32 34.22 252.75C 18.85 206.1 7.46007 158.43 6.83594e-05 110.27C 46.6601 74.3602 92.8699 37.5902 138.64 0.000195313Z"/>
+    <path id="path123_fill" d="M 217.2 410.2C 166.77 404.44 116.41 397.86 66.1601 390.42C 25.4701 301.12 3.44996 205.43 -3.90625e-05 109.16C 43.34 73.5502 86.27 37.16 128.77 1.95312e-05C 110.04 140.49 139.56 286.07 217.2 410.2Z"/>
+    <path
+      id="path124_fill"
+      d="M 198.509 510.63C 197.489 523.8 196.399 536.96 195.239 550.12C 161.429 547 127.649 543.52 93.8985 539.66C 16.2385 415.53 -13.2814 269.94 5.4586 129.46C 53.7186 87.3 101.399 44.1201 148.509 5.85938e-05C 74.4787 164.58 91.1487 359.92 198.509 510.63Z"/>
+    <path
+      id="path125_fill"
+      d="M 104.865 135.45C 79.665 217.69 79.665 305.93 104.865 388.17C 102.975 445.72 99.7849 503.24 95.3249 560.68C -12.0351 409.98 -28.7151 214.63 45.3149 50.0398C 62.9749 33.5098 80.5449 16.8198 98.0349 -0.000234375C 101.105 45.1198 103.385 90.28 104.865 135.45Z"/>
+    <path id="path126_fill" d="M 18.9001 252.71C -6.29993 170.48 -6.29993 82.2302 18.9001 0.000214844C 21.6601 84.2102 21.6601 168.5 18.9001 252.71Z"/>
+    <path id="path127_fill" d="M 45.3501 382.09C 37.9101 254.12 22.77 126.52 -3.90625e-05 5.85938e-05C 54.9 16.3701 110.13 31.4599 165.58 45.3299C 106.02 151.33 65.9701 265.33 45.3501 382.09Z"/>
+    <path
+      id="path128_fill"
+      d="M 303.64 41.09C 183.41 227.53 139.69 448.93 172.5 660.83C 125.47 697.02 77.9999 732.35 30.0999 766.82C 23.5599 765.34 17 763.9 10.46 762.39C 6.56003 745.18 3.05007 727.93 6.83594e-05 710.59C 7.25007 586.09 7.25007 461.27 6.83594e-05 336.76C 20.6101 220 60.67 106 120.23 -0.000107422C 181.09 15.1999 242.24 28.9 303.64 41.09Z"/>
+    <path id="path129_fill" d="M 149.191 509.46C 103.421 547.05 57.2111 583.82 10.5511 619.73C -22.2589 407.83 21.451 186.42 141.691 -9.76562e-06C 195.481 10.66 249.471 20.21 303.581 28.56C 194.611 169.36 143.091 340.19 149.191 509.46Z"/>
+    <path id="path130_fill" d="M 154.883 4.88281e-05C 203.693 7.56005 252.623 14.1101 301.643 19.7601C 203.833 119.09 146.393 243.22 129.253 371.74C 86.753 408.88 43.823 445.27 0.482978 480.9C -5.60702 311.63 45.8931 140.8 154.883 4.88281e-05Z"/>
+    <path
+      id="path131_fill"
+      d="M 193.05 135.4C 173.32 163.09 156.65 192.27 143.05 222.5C 95.94 266.63 48.26 309.81 -1.95312e-05 351.99C 17.13 223.47 74.5801 99.34 172.39 4.88281e-05C 174.99 0.310049 177.61 0.609951 180.22 0.899951C 185.28 45.66 189.56 90.5202 193.05 135.4Z"/>
+    <path id="path132_fill" d="M 1.95312e-05 87.0998C 13.61 56.8598 30.28 27.6902 50 0.000195313C 50.97 12.3502 51.88 24.7098 52.72 37.0598C 35.24 53.8798 17.66 70.5598 1.95312e-05 87.0998Z"/>
+    <path id="path133_fill" d="M 382.09 165.59C 255.574 142.81 127.976 127.69 -8.05664e-06 120.23C 116.757 99.6099 230.757 59.56 336.765 -3.90625e-05C 350.632 55.45 365.718 110.68 382.09 165.59Z"/>
+    <path
+      id="path134_fill"
+      d="M 725.735 1.46484e-06C 737.922 61.401 751.621 122.561 766.828 183.421C 660.82 242.981 546.82 283.031 430.063 303.641C 305.559 296.391 180.734 296.391 56.2345 303.641C 38.8986 300.591 21.6408 297.091 4.438 293.181C 2.934 286.651 1.485 280.091 3.66211e-06 273.541C 34.4767 225.641 69.8087 178.161 105.996 131.141C 317.895 163.951 539.301 120.231 725.735 1.46484e-06Z"/>
+    <path id="path135_fill" d="M 281.262 66.148C 243.664 111.918 206.894 158.129 170.984 204.789C 122.82 197.329 75.156 185.939 28.508 170.569C 17.93 113.859 8.43 56.988 -2.92969e-06 -8.78906e-06C 89.3241 40.679 185 62.699 281.262 66.148Z"/>
+    <path id="path136_fill" d="M 591.164 1.02539e-05C 599.524 54.122 609.067 108.102 619.731 161.891C 433.313 282.132 211.899 325.842 0 293.032C 35.9101 246.372 72.6797 200.161 110.285 154.391C 279.543 160.493 450.371 108.981 591.164 1.02539e-05Z"/>
+    <path id="path137_fill" d="M 410.188 88.43C 373.035 130.93 336.66 173.871 301.028 217.211C 204.766 213.75 109.09 191.73 19.766 151.051C 12.332 100.789 5.76201 50.43 5.85938e-06 2.68555e-05C 124.129 77.648 269.715 107.16 410.188 88.43Z"/>
+    <path id="path138_fill" d="M 461.133 2.83203e-05C 466.778 49.031 473.34 97.949 480.879 146.762C 340.086 255.75 169.258 307.262 1.89209e-06 301.172C 35.618 257.832 72.012 214.891 109.153 172.402C 237.664 155.262 361.789 97.82 461.133 2.83203e-05Z"/>
+    <path
+      id="path139_fill"
+      d="M 39.492 -1.95312e-05C 190.199 107.348 385.539 124.02 550.129 50C 505.989 97.11 462.825 144.782 420.657 193.04C 280.176 211.782 134.59 182.258 10.461 104.61C 6.60601 70.86 3.11701 37.079 7.32422e-06 3.27C 13.164 2.11 26.321 1.00798 39.492 -1.95312e-05Z"/>
+    <path
+      id="path140_fill"
+      d="M 216.57 -1.95312e-05C 261.465 3.48098 306.316 7.75002 351.082 12.829C 351.375 15.442 351.676 18.051 351.969 20.649C 252.636 118.461 128.511 175.911 -5.85938e-06 193.04C 42.176 144.782 85.347 97.11 129.469 50C 159.715 36.391 188.886 19.719 216.57 -1.95312e-05Z"/>
+    <path
+      id="path141_fill"
+      d="M 425.227 -2.09961e-05C 470.403 1.46898 515.559 3.75802 560.676 6.82102C 543.848 24.309 527.168 41.879 510.637 59.551C 346.047 133.571 150.696 116.887 -3.54004e-06 9.53898C 57.446 5.07898 114.954 1.87898 172.512 -2.09961e-05C 254.747 25.188 342.993 25.188 425.227 -2.09961e-05Z"/>
+    <path id="path142_fill" d="M 87.101 2.71798C 59.417 22.437 30.246 39.109 -1.17188e-05 52.718C 16.542 35.066 33.222 17.488 50.05 2.39258e-05C 62.406 0.840024 74.757 1.75798 87.101 2.71798Z"/>
+    <path id="path143_fill" d="M 252.715 2.07673C 170.481 27.2647 82.2344 27.2647 -5.79071e-08 2.07673C 84.211 -0.692271 168.504 -0.692271 252.715 2.07673Z"/>
+    <path id="path144_fill" d="M 1.95312e-05 152.97C 70.2 104.18 139.3 53.15 207.28 9.76562e-06C 109.57 224.86 68.1701 468.27 82.8301 708.88C 68.1901 703.71 53.56 698.49 38.96 693.15C 44.26 512.52 31.26 331.47 1.95312e-05 152.97Z"/>
+    <path
+      id="path145_fill"
+      d="M 396.334 74.26C 275.414 311.53 233.034 578.52 269.274 836.63C 179.814 811 90.9743 782.61 2.87431 751.45C -11.7857 510.81 29.6243 267.41 127.334 42.55C 145.274 28.52 163.134 14.34 180.914 -3.90625e-05C 252.114 26.95 323.954 51.69 396.334 74.26Z"/>
+    <path
+      id="path146_fill"
+      d="M 139.59 -2.92969e-05C 154.7 4.70997 169.83 9.32006 185 13.8401C 207.77 140.35 222.9 267.96 230.36 395.93C 208.54 519.52 208.54 646.18 230.36 769.76C 229.42 785.96 228.51 802.16 227.32 818.35C 155.38 801.44 83.7596 782.78 12.5296 762.37C -23.7104 504.26 18.6697 237.27 139.59 -2.92969e-05Z"/>
+    <path id="path147_fill" d="M 16.3538 373.83C -5.44619 250.26 -5.45619 123.59 16.3538 -9.76563e-05C 23.6138 124.51 23.6138 249.33 16.3538 373.83Z"/>
+    <path id="path148_fill" d="M 16.7101 54.41C 11.3601 36.21 5.74991 18.0901 -8.78906e-05 0.000107422C 11.3199 5.62011 22.67 11.15 34.05 16.66C 28.1 29.19 22.3301 41.78 16.7101 54.41Z"/>
+    <path
+      id="path149_fill"
+      d="M 17.34 1.95312e-05C 110.25 45 204.59 86.0301 300.12 123.08C 291.56 140.86 283.27 158.72 275.44 176.74C 207.46 229.89 138.35 280.92 68.16 329.71C 50.95 231.44 28.3001 133.94 0.000107422 37.75C 5.64011 25.11 11.41 12.53 17.34 1.95312e-05Z"/>
+    <path id="path150_fill" d="M 53.5699 11.1C 35.7999 25.44 17.9401 39.62 5.85937e-05 53.65C 7.82006 35.63 16.11 17.7601 24.67 0.000107422C 34.29 3.74011 43.9199 7.44996 53.5699 11.1Z"/>
+    <path id="path151_fill" d="M 8.78906e-06 17.32C 12.629 11.7 25.215 5.93006 37.746 5.85937e-05C 43.254 11.3601 48.789 22.71 54.407 34.04C 36.321 28.29 18.188 22.67 8.78906e-06 17.32Z"/>
+    <path id="path152_fill" d="M 708.886 -4.88281e-05C 655.734 67.98 604.707 137.09 555.917 207.28C 377.414 176.02 196.367 163.02 15.7343 168.32C 10.3906 153.72 5.1758 139.09 -7.32422e-07 124.46C 240.617 139.12 484.023 97.72 708.886 -4.88281e-05Z"/>
+    <path
+      id="path153_fill"
+      d="M 329.707 282.77C 317.176 288.71 304.598 294.47 291.954 300.1C 195.75 271.81 98.262 249.17 1.02539e-05 231.95C 48.79 161.76 99.817 92.65 152.969 24.67C 170.989 16.84 188.848 8.55003 206.629 2.92969e-05C 243.672 95.52 284.707 189.86 329.707 282.77Z"/>
+    <path
+      id="path154_fill"
+      d="M 762.383 -3.90625e-05C 784.942 72.37 809.68 144.22 836.633 215.42C 822.293 233.19 808.106 251.05 794.082 268.99C 569.219 366.71 325.82 408.11 85.1836 393.45C 54.0234 305.35 25.625 216.51 -1.78833e-06 127.06C 258.106 163.3 525.098 120.92 762.383 -3.90625e-05Z"/>
+    <path id="path155_fill" d="M 53.665 28.9C 35.903 37.45 18.04 45.74 -1.95312e-05 53.57C 14.036 35.63 28.223 17.77 42.551 4.88281e-06C 46.211 9.65 49.934 19.27 53.665 28.9Z"/>
+    <path
+      id="path156_fill"
+      d="M 48.5855 -5.85937e-05C 172.16 21.7999 298.828 21.8099 422.414 -5.85937e-05C 550.39 7.44994 677.988 22.58 804.504 45.3601C 809.023 60.5201 813.64 75.65 818.347 90.77C 581.074 211.69 314.082 254.07 55.9762 217.83C 35.566 146.6 16.9137 74.98 -1.89209e-06 3.02997C 16.191 1.83997 32.3824 0.929941 48.5855 -5.85937e-05Z"/>
+    <path id="path157_fill" d="M 373.828 5.43744C 250.242 27.2474 123.574 27.2374 7.32422e-07 5.43744C 124.5 -1.81256 249.324 -1.81256 373.828 5.43744Z"/>
+    <path id="path158_fill" d="M 214.64 0.000136719C 196.52 100.04 186.67 201.28 185.11 302.63C 125.2 276.36 65.73 248.77 6.74996 219.82C 5.16996 188.27 2.91996 156.75 -3.90625e-05 125.27C 72.41 85.6002 143.99 43.8601 214.64 0.000136719Z"/>
+    <path id="path159_fill" d="M 227.96 -1.95312e-05C 259.22 178.5 272.22 359.55 266.92 540.18C 177.07 507.37 88.0701 471.63 5.85937e-05 433.04C 1.57006 331.68 11.4201 230.45 29.5401 130.4C 96.5401 88.8099 162.72 45.36 227.96 -1.95312e-05Z"/>
+    <path id="path160_fill" d="M 124.87 -0.000117187C 166.09 27.4399 207.72 54.0101 249.74 79.6901C 199.64 182.94 158.02 289.28 124.87 397.66C 91.72 289.28 50.0999 182.94 -0.000117187 79.6901C 42.0199 54.0101 83.65 27.4399 124.87 -0.000117187Z"/>
+    <path
+      id="path161_fill"
+      d="M 415.91 160.78C 421.66 178.89 427.27 197 432.62 215.2C 371.92 351.27 328.52 493.14 302.34 637.56C 231.71 681.43 160.12 723.17 87.71 762.84C 73.78 612.55 44.49 463.45 4.54747e-13 317.97C 33.14 209.59 74.7601 103.26 124.86 6.83594e-05C 220.01 58.1101 317.12 111.71 415.91 160.78Z"/>
+    <path id="path162_fill" d="M 198.42 291.96C 133.18 337.32 67.0001 380.77 9.76563e-05 422.36C 26.1701 277.95 69.5701 136.07 130.27 1.95312e-05C 158.56 96.19 181.21 193.69 198.42 291.96Z"/>
+    <path id="path163_fill" d="M 48.76 72.56C 33.01 48.13 16.8099 23.92 -5.37109e-05 -4.88281e-05C 20.1599 16.51 40.47 32.74 60.88 48.78C 56.78 56.68 52.76 64.61 48.76 72.56Z"/>
+    <path id="path164_fill" d="M 12.12 -1.95312e-05C 91.41 62.28 172.57 121.01 255.42 176.15C 214.2 203.59 172.57 230.16 130.55 255.83C 92.0499 176.5 48.52 99 -4.39453e-05 23.77C 3.99996 15.84 8.02995 7.89998 12.12 -1.95312e-05Z"/>
+    <path id="path165_fill" d="M -9.76562e-06 12.1199C 7.93999 8.11992 15.87 4.10005 23.77 4.88281e-05C 39.82 20.41 56.05 40.7199 72.5601 60.8799C 48.6401 44.0699 24.43 27.8699 -9.76562e-06 12.1199Z"/>
+    <path id="path166_fill" d="M 397.655 124.86C 370.215 166.08 343.645 207.71 317.965 249.73C 214.715 199.62 108.379 158.01 2.68555e-05 124.86C 108.379 91.72 214.715 50.0999 317.965 -0.000107422C 343.645 42.0099 370.215 83.64 397.655 124.86Z"/>
+    <path id="path167_fill" d="M 232.06 255.42C 156.84 206.9 79.3501 163.37 5.37109e-05 124.87C 25.6801 82.8501 52.25 41.22 79.69 0C 134.84 82.85 193.56 164.01 255.83 243.3C 247.93 247.4 240 251.42 232.06 255.42Z"/>
+    <path id="path168_fill" d="M 177.344 214.65C 145.867 211.73 114.348 209.47 82.793 207.89C 53.859 148.92 26.262 89.4501 2.19727e-06 29.5301C 101.348 27.9801 202.578 18.13 302.625 2.44141e-05C 258.77 70.65 217.012 142.23 177.344 214.65Z"/>
+    <path
+      id="path169_fill"
+      d="M 602.058 16.72C 651.133 115.51 704.73 212.62 762.84 307.75C 659.582 357.86 553.254 399.48 444.863 432.62C 299.394 388.13 150.293 358.85 -3.66211e-06 344.91C 39.668 272.5 81.418 200.92 125.273 130.28C 269.695 104.1 411.57 60.7 547.644 4.88281e-06C 565.84 5.35 583.965 10.97 602.058 16.72Z"/>
+    <path id="path170_fill" d="M 540.183 40.1019C 494.82 105.352 451.375 171.522 409.781 238.522C 309.734 256.652 208.504 266.492 107.144 268.062C 68.5552 180.002 32.8125 90.9919 1.78833e-06 1.15195C 180.633 -4.14805 361.68 8.8419 540.183 40.1019Z"/>
+    <path id="path171_fill" d="M 6.5918e-06 198.42C 41.602 131.41 85.047 65.23 130.403 -9.76562e-06C 228.672 17.21 326.16 39.85 422.371 68.14C 286.297 128.84 144.422 172.25 6.5918e-06 198.42Z"/>
+    <path id="path172_fill" d="M 94.46 94.55C 62.83 79.03 31.34 63.1102 0 46.8102C 29.38 31.5502 58.6 15.9402 87.71 0.00015625C 90.63 31.4802 92.88 63 94.46 94.55Z"/>
+    <path id="path173_fill" d="M 17.32 54.41C 11.7 41.78 5.93006 29.19 5.85937e-05 16.66C 11.3601 11.15 22.71 5.62011 34.03 0.000107422C 28.29 18.0901 22.67 36.21 17.32 54.41Z"/>
+    <path
+      id="path174_fill"
+      d="M 16.71 160.79C 115.5 111.72 212.61 58.1201 307.76 5.85937e-05C 357.86 103.27 399.48 209.6 432.62 317.98C 388.14 463.46 358.84 612.56 344.91 762.85C 272.5 723.18 200.91 681.44 130.28 637.57C 104.1 493.15 60.7 351.28 4.88281e-06 215.21C 5.35 197.01 10.96 178.9 16.71 160.79Z"/>
+    <path id="path175_fill" d="M 87.71 3.90625e-05C 132.2 145.47 161.49 294.58 175.42 444.87C 146.31 460.81 117.09 476.41 87.71 491.68C 58.34 476.41 29.11 460.81 3.90625e-05 444.87C 13.93 294.58 43.22 145.47 87.71 3.90625e-05Z"/>
+    <path id="path176_fill" d="M 13.73 35.5C 9.19001 30.97 4.57003 26.5901 2.92969e-05 22.1201C 16.44 14.8301 32.89 7.56999 49.22 -9.76562e-06C 41.66 16.34 34.4 32.79 27.11 49.23C 22.64 44.66 18.26 40.04 13.73 35.5Z"/>
+    <path
+      id="path177_fill"
+      d="M 22.12 129.58C 106.83 90.36 190.09 47.0399 271.8 -8.78906e-05C 344.67 69.7699 419.61 136.13 496.43 199.04C 513.24 222.96 529.44 247.17 545.19 271.59C 480.82 398.92 427.3 530.31 384.7 664.44C 373.38 670.07 362.03 675.6 350.66 681.11C 264.89 499.93 148 329.85 1.46484e-05 178.81C 7.28001 162.37 14.55 145.92 22.12 129.58Z"/>
+    <path id="path178_fill" d="M 291.04 232.06C 195.91 290.17 98.8 343.78 -3.41797e-05 392.85C 42.6 258.71 96.12 127.32 160.49 9.76562e-06C 209.01 75.22 252.54 152.71 291.04 232.06Z"/>
+    <path id="path179_fill" d="M 8.78906e-06 16.7101C 18.188 11.3601 36.321 5.74991 54.407 -8.78906e-05C 48.789 11.3199 43.254 22.67 37.746 34.04C 25.215 28.1 12.629 22.3301 8.78906e-06 16.7101Z"/>
+    <path
+      id="path180_fill"
+      d="M 482.07 48.7599C 544.98 125.58 611.34 200.52 681.1 273.39C 634.07 355.1 590.75 438.36 551.52 523.07C 535.19 530.63 518.74 537.91 502.3 545.18C 351.26 397.2 181.18 280.29 -1.95312e-05 194.53C 5.50798 183.16 11.043 171.81 16.668 160.49C 150.8 117.9 282.19 64.3599 409.52 -7.8125e-05C 433.94 15.7499 458.15 31.9499 482.07 48.7599Z"/>
+    <path id="path181_fill" d="M 249.68 120.1C 167.97 167.14 84.71 210.46 9.76562e-06 249.68C 39.22 164.97 82.54 81.7101 129.58 5.85937e-05C 149.12 20.4001 168.86 40.6701 188.93 60.7501C 209 80.8201 229.28 100.57 249.68 120.1Z"/>
+    <path
+      id="path182_fill"
+      d="M 602.058 415.91C 583.965 421.66 565.84 427.27 547.644 432.62C 411.57 371.92 269.695 328.52 125.273 302.34C 81.418 231.71 39.668 160.12 -3.66211e-06 87.71C 150.293 73.78 299.394 44.48 444.863 4.54747e-13C 553.254 33.14 659.582 74.7601 762.85 124.86C 704.73 220.01 651.133 317.12 602.058 415.91Z"/>
+    <path id="path183_fill" d="M 1.02539e-05 291.05C 49.075 192.26 102.672 95.1501 160.792 0.000107422C 240.122 38.5201 317.622 82.0399 392.852 130.57C 265.522 194.92 134.132 248.46 1.02539e-05 291.05Z"/>
+    <path id="path184_fill" d="M 47.734 94.45C 31.445 63.11 15.52 31.6201 1.46484e-06 4.88281e-05C 31.555 1.57005 63.074 3.83005 94.551 6.75005C 78.606 35.8601 63.008 65.07 47.734 94.45Z"/>
+    <path id="path185_fill" d="M 491.684 87.7C 346.211 132.19 197.102 161.48 46.809 175.4C 30.871 146.3 15.266 117.07 5.85938e-06 87.7C 15.266 58.32 30.871 29.1101 46.809 4.88281e-05C 197.102 13.92 346.211 43.21 491.684 87.7Z"/>
+    <path
+      id="path186_fill"
+      d="M 282.78 1.95312e-05C 288.71 12.53 294.48 25.11 300.11 37.75C 271.82 133.94 249.17 231.44 231.96 329.71C 161.77 280.92 92.66 229.89 24.68 176.74C 16.85 158.72 8.56002 140.86 1.95312e-05 123.08C 95.53 86.0301 189.87 45 282.78 1.95312e-05Z"/>
+    <path id="path187_fill" d="M 198.42 422.37C 131.42 380.77 65.24 337.32 -1.95312e-05 291.96C 17.22 193.69 39.86 96.21 68.15 1.95312e-05C 128.84 136.07 172.26 277.94 198.42 422.37Z"/>
+    <path
+      id="path188_fill"
+      d="M 351.59 27.11C 304.57 133.41 263.58 241.73 228.71 351.59C 195.05 310.08 158.95 269.9 120.32 231.26C 81.7 192.64 41.51 156.55 4.88281e-05 122.88C 109.86 88.01 218.17 47.0301 324.48 0.000107422C 329.05 4.47011 333.67 8.83999 338.21 13.38C 342.74 17.92 347.12 22.54 351.59 27.11Z"/>
+    <path id="path189_fill" d="M 122.88 -2.92969e-05C 270.88 151.03 387.77 321.12 473.54 502.29C 380.63 547.29 286.3 588.33 190.76 625.39C 139.91 519.71 76.37 418.64 9.76562e-06 324.48C 34.87 214.62 75.86 106.3 122.88 -2.92969e-05Z"/>
+    <path
+      id="path190_fill"
+      d="M 329.707 17.34C 284.707 110.25 243.672 204.59 206.629 300.12C 188.848 291.56 170.989 283.27 152.969 275.44C 99.817 207.46 48.79 138.35 1.02539e-05 68.16C 98.262 50.95 195.75 28.3001 291.954 0.000107422C 304.598 5.64011 317.176 11.41 329.707 17.34Z"/>
+    <path id="path191_fill" d="M 300.898 473.54C 206.738 397.17 105.657 333.62 -2.24609e-05 282.77C 37.043 187.25 78.086 92.91 123.078 -4.88281e-05C 304.258 85.76 474.338 202.67 625.388 350.65C 519.068 397.69 410.758 438.66 300.898 473.54Z"/>
+    <path id="path192_fill" d="M 130.402 198.42C 85.039 133.18 41.594 67.0101 2.19727e-06 9.76563e-05C 144.406 26.1701 286.289 69.5801 422.356 130.27C 326.164 158.56 228.676 181.21 130.402 198.42Z"/>
+    <path id="path193_fill" d="M 28.91 0.000107422C 37.45 17.7601 45.75 35.63 53.58 53.66C 35.64 39.62 17.78 25.44 -4.88281e-06 11.1C 9.66 7.44996 19.28 3.73011 28.91 0.000107422Z"/>
+    <path
+      id="path194_fill"
+      d="M 367.631 228.71C 353.011 274.77 339.381 321.08 326.901 367.64C 270.081 316.17 214.211 263.06 159.381 208.24C 104.581 153.42 51.461 97.55 2.83203e-05 40.73C 46.551 28.25 92.8511 14.62 138.921 -9.76562e-06C 180.441 33.66 220.611 69.7701 259.251 108.38C 297.861 147.01 333.961 187.2 367.631 228.71Z"/>
+    <path id="path195_fill" d="M 40.73 -4.88281e-05C 117.1 94.16 180.65 195.24 231.5 300.9C 221.87 304.64 212.24 308.36 202.59 312.01C 133.81 256.57 66.22 198.91 2.92969e-05 138.93C 12.48 92.3699 26.11 46.06 40.73 -4.88281e-05Z"/>
+    <path id="path196_fill" d="M 42.551 53.5799C 28.211 35.7999 14.024 17.9401 4.39453e-06 4.88281e-05C 18.02 7.83005 35.891 16.12 53.653 24.68C 49.922 34.3 46.199 43.9299 42.551 53.5799Z"/>
+    <path id="path197_fill" d="M 173.074 231.49C 113.094 165.26 55.437 97.6799 2.97852e-05 28.8999C 3.64803 19.2499 7.37098 9.61998 11.109 -1.95312e-05C 116.766 50.85 217.847 114.39 312.007 190.76C 265.947 205.39 219.637 219.01 173.074 231.49Z"/>
+    <path id="path198_fill" d="M -5.85937e-05 138.64C 37.5999 92.8699 74.3702 46.6601 110.28 6.83594e-05C 158.44 7.46007 206.11 18.85 252.76 34.22C 263.33 90.93 272.85 147.79 281.26 204.8C 191.94 164.11 96.2599 142.09 -5.85937e-05 138.64Z"/>
+    <path id="path199_fill" d="M -0.000214844 128.77C 37.1498 86.27 73.5299 43.34 109.16 -3.90625e-05C 205.42 3.44996 301.11 25.4701 390.42 66.1501C 397.85 116.41 404.44 166.77 410.19 217.2C 286.05 139.56 140.47 110.04 -0.000214844 128.77Z"/>
+    <path
+      id="path200_fill"
+      d="M 510.63 198.495C 359.93 91.1449 164.58 74.4649 5.85938e-05 148.495C 44.1301 101.385 87.2998 53.7049 129.47 5.45489C 269.95 -13.2751 415.53 16.2348 539.66 93.8848C 543.52 127.635 547.01 161.415 550.12 195.235C 536.95 196.385 523.8 197.485 510.63 198.495Z"/>
+    <path
+      id="path201_fill"
+      d="M 135.46 104.865C 90.2802 103.385 45.1198 101.105 -0.000234375 98.0249C 16.8298 80.5449 33.5101 62.9749 50.0501 45.3149C 214.63 -28.7151 409.98 -12.0351 560.68 95.3249C 503.23 99.7749 445.72 102.975 388.17 104.865C 305.94 79.665 217.69 79.665 135.46 104.865Z"/>
+    <path id="path202_fill" d="M 0.000214844 18.9001C 82.2302 -6.29993 170.48 -6.29993 252.71 18.9001C 168.5 21.6501 84.2102 21.6501 0.000214844 18.9001Z"/>
+    <path id="path203_fill" d="M 5.85938e-05 -3.90625e-05C 126.52 22.77 254.12 37.9001 382.09 45.3501C 265.34 65.9701 151.33 106.02 45.3299 165.58C 31.4699 110.13 16.3701 54.9 5.85938e-05 -3.90625e-05Z"/>
+    <path
+      id="path204_fill"
+      d="M 41.1 303.64C 28.9 242.24 15.2099 181.07 -0.000107422 120.22C 106.01 60.66 220.01 20.6101 336.76 6.83594e-05C 461.27 7.25007 586.1 7.25007 710.6 6.83594e-05C 727.93 3.05007 745.19 6.55003 762.39 10.46C 763.89 17 765.34 23.5599 766.82 30.0999C 732.36 77.9999 697.02 125.48 660.83 172.5C 448.94 139.7 227.53 183.41 41.1 303.64Z"/>
+    <path id="path205_fill" d="M 28.5701 303.581C 20.2201 249.471 10.67 195.481 -9.76562e-06 141.691C 186.42 21.451 407.83 -22.2589 619.73 10.5511C 583.82 57.2111 547.05 103.421 509.45 149.191C 340.19 143.091 169.36 194.591 28.5701 303.581Z"/>
+    <path id="path206_fill" d="M 19.7601 301.652C 14.1101 252.622 7.54005 203.702 4.88281e-05 154.892C 140.8 45.8917 311.63 -5.59846 480.88 0.481544C 445.27 43.8315 408.87 86.7616 371.73 129.262C 243.22 146.392 119.1 203.832 19.7601 301.652Z"/>
+    <path
+      id="path207_fill"
+      d="M 135.4 193.04C 90.51 189.56 45.6499 185.28 0.889951 180.22C 0.599951 177.6 0.290059 175 5.85937e-05 172.39C 99.3401 74.5801 223.46 17.13 351.97 -1.95312e-05C 309.8 48.25 266.63 95.93 222.5 143.04C 192.26 156.65 163.09 173.32 135.4 193.04Z"/>
+    <path id="path208_fill" d="M -3.90625e-05 50C 27.69 30.28 56.8601 13.61 87.1001 1.95312e-05C 70.5601 17.66 53.88 35.23 37.06 52.71C 24.7 51.87 12.34 50.97 -3.90625e-05 50Z"/>
+    <path id="path209_fill" d="M 13.5 3.2109C 12.31 19.3906 11.4101 35.6015 10.4601 51.789C 7.40005 34.4609 3.90997 17.1914 -2.92969e-05 -7.32422e-07C 4.49997 1.0507 8.99997 2.1484 13.5 3.2109Z"/>
+    <path id="path210_fill" d="M 120.23 -1.02539e-05C 127.68 127.968 142.81 255.57 165.59 382.089C 110.68 365.718 55.45 350.628 -3.90625e-05 336.757C 59.56 230.757 99.6099 116.75 120.23 -1.02539e-05Z"/>
+    <path id="path211_fill" d="M -1.46484e-06 -3.49121e-06C 59.049 11 117.949 23.1601 176.629 36.4883C 128.719 70.9609 81.249 106.301 34.219 142.488C 26.759 94.3203 15.367 46.6601 -1.46484e-06 -3.49121e-06Z"/>
+    <path
+      id="path212_fill"
+      d="M -2.68555e-05 725.731C 120.235 539.293 163.945 317.891 131.145 105.992C 178.165 69.8125 225.645 34.4726 273.545 6.46973e-07C 280.085 1.4921 286.645 2.9296 293.185 4.4414C 297.095 21.6406 300.595 38.8906 303.645 56.2304C 296.395 180.731 296.395 305.551 303.645 430.063C 283.035 546.813 242.985 660.82 183.425 766.82C 122.565 751.621 61.406 737.922 -2.68555e-05 725.731Z"/>
+    <path id="path213_fill" d="M 66.164 281.261C 62.707 185 40.683 89.3121 -4.39453e-06 -1.89209e-06C 57.004 8.41 113.867 17.9332 170.578 28.4918C 185.945 75.1402 197.337 122.82 204.797 170.972C 158.137 206.882 111.926 243.66 66.164 281.261Z"/>
+    <path
+      id="path214_fill"
+      d="M 154.399 110.289C 200.161 72.6877 246.372 35.9101 293.032 -4.08936e-07C 325.842 211.91 282.129 433.309 161.887 619.731C 108.098 609.071 54.122 599.508 1.02539e-05 591.168C 108.977 450.367 160.493 279.539 154.399 110.289Z"/>
+    <path
+      id="path215_fill"
+      d="M 2.68555e-05 5.85938e-06C 50.43 5.75801 100.789 12.34 151.055 19.778C 191.726 109.078 213.75 204.778 217.207 301.039C 173.855 336.649 130.926 373.051 88.426 410.199C 107.156 269.719 77.644 124.129 2.68555e-05 5.85938e-06Z"/>
+    <path id="path216_fill" d="M 146.758 480.879C 97.949 473.34 49.012 466.77 -4.39453e-06 461.129C 97.805 361.782 155.246 237.66 172.383 109.16C 214.883 72.012 257.812 35.61 301.164 7.32422e-06C 307.258 169.25 255.742 340.078 146.758 480.879Z"/>
+    <path
+      id="path217_fill"
+      d="M -1.95312e-05 39.489C 1.01198 26.328 2.10998 13.172 3.25798 7.32422e-06C 37.079 3.12101 70.86 6.602 104.61 10.469C 182.262 134.59 211.778 280.18 193.036 420.66C 144.786 462.821 97.11 506 50 550.129C 124.032 385.551 107.352 190.199 -1.95312e-05 39.489Z"/>
+    <path
+      id="path218_fill"
+      d="M -1.95312e-05 216.582C 19.715 188.883 36.395 159.711 50 129.48C 97.11 85.351 144.786 42.172 193.036 -5.85938e-06C 175.907 128.511 118.458 252.633 20.653 351.98C 18.043 351.679 15.438 351.371 12.821 351.09C 7.76203 306.32 3.48498 261.472 -1.95312e-05 216.582Z"/>
+    <path
+      id="path219_fill"
+      d="M -7.32422e-06 425.23C 25.203 342.992 25.203 254.75 -7.32422e-06 172.511C 1.88999 114.96 5.08599 57.4527 9.53899 -1.89209e-06C 116.902 150.703 133.582 346.05 59.55 510.64C 41.89 527.179 24.324 543.863 6.83599 560.683C 3.75799 515.57 1.47999 470.402 -7.32422e-06 425.23Z"/>
+    <path id="path220_fill" d="M 52.714 5.12695e-06C 39.109 30.242 22.429 59.41 2.71398 87.102C 1.75398 74.762 0.838991 62.391 -8.78906e-06 50.043C 17.476 33.223 35.066 16.539 52.714 5.12695e-06Z"/>
+    <path id="path221_fill" d="M 2.06549 -2.75879e-06C 27.2685 82.2387 27.2685 170.481 2.06549 252.719C -0.688507 168.512 -0.688507 84.2107 2.06549 -2.75879e-06Z"/>
+    <path
+      id="path222_fill"
+      d="M 326.91 -2.92969e-05C 389.57 16.81 452.66 31.4899 516.05 44.4099C 420.67 99.4399 330.81 167.66 249.23 249.23C 167.66 330.81 99.4499 420.66 44.4199 516.05C 31.4899 452.67 16.8 389.57 -2.92969e-05 326.91C 56.83 275.44 112.7 222.33 167.51 167.51C 222.33 112.7 275.44 56.83 326.91 -2.92969e-05Z"/>
+    <path
+      id="path223_fill"
+      d="M 204.83 204.83C 286.4 123.25 376.25 55.0299 471.63 -0.000117187C 495.62 4.89988 519.62 9.48995 543.68 13.82C 560.05 68.74 575.15 123.96 589.01 179.42C 505.6 226.27 427.11 285.16 356.14 356.14C 285.17 427.11 226.27 505.59 179.42 589.01C 123.96 575.14 68.74 560.05 13.82 543.68C 9.49995 519.62 4.89988 495.61 -0.000117187 471.64C 55.0299 376.25 123.25 286.39 204.83 204.83Z"/>
+    <path
+      id="path224_fill"
+      d="M 302.82 302.82C 256.96 348.68 217.19 398.32 183.42 450.7C 122.02 438.5 60.86 424.81 3.90625e-05 409.6C 46.87 326.18 105.75 247.69 176.73 176.73C 247.7 105.75 326.18 46.86 409.6 3.90625e-05C 424.81 60.85 438.51 122.02 450.7 183.42C 398.32 217.19 348.68 256.96 302.82 302.82Z"/>
+    <path
+      id="path225_fill"
+      d="M 267.28 -3.90625e-05C 277.95 53.81 287.5 107.77 295.84 161.89C 271.11 181.05 247.19 201.77 224.48 224.47C 201.76 247.18 181.05 271.11 161.9 295.85C 107.77 287.49 53.79 277.95 -3.90625e-05 267.28C 33.77 214.9 73.5401 165.26 119.4 119.4C 165.26 73.5401 214.9 33.79 267.28 -3.90625e-05Z"/>
+    <path
+      id="path226_fill"
+      d="M 150.14 150.14C 148.98 151.3 147.91 152.53 146.76 153.7C 97.7401 148.05 48.8101 141.5 0.000107422 133.94C 19.1501 109.21 39.8699 85.2799 62.5799 62.5799C 85.2799 39.8699 109.21 19.1501 133.95 0.000107422C 141.49 48.8101 148.05 97.7501 153.7 146.76C 152.53 147.91 151.3 148.98 150.14 150.14Z"/>
+    <path id="path227_fill" d="M 6.94006 0.000117187C 7.23006 2.61012 7.53995 5.21995 7.82995 7.82995C 5.20995 7.51995 2.60012 7.24006 0.000117187 6.94006C 1.16012 5.77006 2.21 4.54 3.38 3.38C 4.55 2.22 5.77006 1.15012 6.94006 0.000117187Z"/>
+    <path id="path228_fill" d="M 35.49 35.5C 30.96 40.04 26.5901 44.66 22.1101 49.23C 14.8201 32.79 7.56 16.34 4.54747e-13 -9.76562e-06C 16.33 7.56999 32.78 14.8301 49.22 22.1201C 44.65 26.5901 40.03 30.97 35.49 35.5Z"/>
+    <path
+      id="path229_fill"
+      d="M 27.11 0.000107422C 133.41 47.0201 241.73 88.01 351.6 122.88C 310.08 156.54 269.9 192.64 231.27 231.27C 192.64 269.89 156.55 310.08 122.88 351.59C 88.01 241.73 47.0301 133.42 0.000107422 27.11C 4.47011 22.54 8.83999 17.92 13.38 13.38C 17.92 8.84999 22.54 4.47011 27.11 0.000107422Z"/>
+    <path
+      id="path230_fill"
+      d="M 228.7 -9.76562e-06C 274.76 14.62 321.07 28.25 367.63 40.73C 316.16 97.55 263.05 153.42 208.23 208.25C 153.42 263.05 97.55 316.17 40.72 367.64C 28.24 321.08 14.62 274.78 4.54747e-13 228.71C 33.65 187.19 69.7599 147.02 108.38 108.38C 147 69.7701 187.19 33.67 228.7 -9.76562e-06Z"/>
+    <path id="path231_fill" d="M 27.11 2.92969e-05C 34.4 16.44 41.66 32.89 49.23 49.22C 32.89 41.67 16.44 34.4 2.92969e-05 27.11C 4.57003 22.65 9.19001 18.27 13.73 13.73C 18.26 9.19001 22.64 4.57003 27.11 2.92969e-05Z"/>
+    <path
+      id="path232_fill"
+      d="M 338.21 338.22C 333.67 342.74 329.05 347.12 324.48 351.6C 218.17 304.57 109.86 263.58 4.88281e-05 228.71C 41.51 195.05 81.7 158.95 120.32 120.32C 158.95 81.7 195.05 41.51 228.7 4.88281e-05C 263.58 109.87 304.56 218.17 351.59 324.49C 347.12 329.06 342.74 333.68 338.21 338.22Z"/>
+    <path
+      id="path233_fill"
+      d="M 189.14 516.05C 126.484 499.25 63.398 484.56 -1.02539e-05 471.64C 95.378 416.61 185.246 348.39 266.823 266.82C 348.403 185.24 416.603 95.391 471.633 -1.95312e-05C 484.563 63.391 499.253 126.481 516.053 189.14C 459.233 240.61 403.363 293.73 348.543 348.54C 293.723 403.35 240.613 459.23 189.14 516.05Z"/>
+    <path
+      id="path234_fill"
+      d="M 138.933 367.63C 92.873 353.01 46.563 339.38 4.39453e-06 326.9C 51.473 270.08 104.583 214.21 159.403 159.39C 214.213 104.58 270.083 51.46 326.913 4.88281e-06C 339.393 46.55 353.023 92.86 367.643 138.92C 333.983 180.44 297.873 220.61 259.263 259.24C 220.633 297.87 180.443 333.96 138.933 367.63Z"/>
+    <path
+      id="path235_fill"
+      d="M 384.177 384.179C 302.617 465.749 212.754 533.969 117.371 588.999C 93.399 584.099 69.383 579.499 45.325 575.179C 28.953 520.259 13.867 465.049 -2.39258e-05 409.589C 83.418 362.729 161.895 303.839 232.871 232.867C 303.848 161.891 362.737 83.41 409.587 -2.83203e-05C 465.057 13.859 520.267 28.949 575.187 45.32C 579.517 69.379 584.107 93.391 589.007 117.367C 533.977 212.75 465.757 302.609 384.177 384.179Z"/>
+    <path
+      id="path236_fill"
+      d="M 147.879 147.871C 193.738 102.011 233.504 52.371 267.285 1.95312e-05C 328.679 12.191 389.838 25.89 450.698 41.089C 403.838 124.511 344.949 203 273.972 273.96C 203.008 344.94 124.519 403.83 41.101 450.69C 25.886 389.83 12.195 328.67 2.39258e-05 267.269C 52.383 233.5 102.019 193.742 147.879 147.871Z"/>
+    <path
+      id="path237_fill"
+      d="M 28.575 295.84C 17.891 242.051 8.35201 188.071 7.32422e-06 133.949C 24.739 114.789 48.66 94.082 71.368 71.371C 94.082 48.672 114.805 24.731 133.946 -2.53906e-05C 188.075 8.35197 242.051 17.903 295.852 28.563C 262.071 80.942 222.317 130.582 176.446 176.442C 130.586 222.301 80.95 262.071 28.575 295.84Z"/>
+    <path
+      id="path238_fill"
+      d="M 3.56603 3.559C 4.71803 2.399 5.792 1.16798 6.945 -2.09961e-05C 55.957 5.64898 104.894 12.219 153.703 19.758C 134.55 44.489 113.832 68.43 91.125 91.118C 68.417 113.84 44.496 134.547 19.757 153.7C 12.218 104.887 5.65599 55.969 -1.17188e-05 6.93803C 1.17099 5.78903 2.40603 4.731 3.56603 3.559Z"/>
+    <path id="path239_fill" d="M 0.897975 7.82803C 0.593975 5.23003 0.293025 2.62103 2.53906e-05 2.53906e-05C 2.61703 0.301025 5.222 0.596975 7.832 0.897975C 6.672 2.05797 5.61703 3.289 4.45303 4.449C 3.28103 5.621 2.05797 6.67903 0.897975 7.82803Z"/>
+    <path id="path240_fill" d="M 246.99 189.14C 235.93 208.31 225.41 227.73 215.41 247.34C 143.04 224.77 71.1799 200.04 -0.000107422 173.08C 68.7799 117.64 136.36 59.9799 202.59 -0.000117187C 219.38 62.6599 234.07 125.75 246.99 189.14Z"/>
+    <path id="path241_fill" d="M 45.41 72.0401C 30.24 67.5201 15.11 62.91 4.88281e-05 58.2C 9.99005 38.59 20.5199 19.17 31.5899 1.95312e-05C 36.4699 23.98 41.08 47.9801 45.41 72.0401Z"/>
+    <path id="path242_fill" d="M 12.1199 72.56C 8.11992 64.61 4.10005 56.68 4.88281e-05 48.78C 20.41 32.74 40.7199 16.5 60.8799 -4.88281e-05C 44.0699 23.92 27.8699 48.13 12.1199 72.56Z"/>
+    <path
+      id="path243_fill"
+      d="M 48.7599 199.04C 125.59 136.13 200.52 69.7699 273.39 -8.78906e-05C 355.1 47.0399 438.36 90.36 523.08 129.58C 530.64 145.92 537.91 162.37 545.19 178.81C 397.19 329.85 280.3 499.93 194.53 681.11C 183.16 675.6 171.82 670.07 160.49 664.44C 117.9 530.31 64.3699 398.93 -7.8125e-05 271.59C 15.7499 247.17 31.9499 222.96 48.7599 199.04Z"/>
+    <path id="path244_fill" d="M 473.54 324.49C 397.17 418.65 333.63 519.73 282.78 625.39C 187.25 588.34 92.91 547.31 -4.88281e-05 502.31C 85.77 321.13 202.66 151.05 350.65 -3.90625e-05C 397.69 106.32 438.67 214.63 473.54 324.49Z"/>
+    <path id="path245_fill" d="M 231.49 138.93C 165.27 198.91 97.6799 256.57 28.8999 312.01C 19.2499 308.36 9.61998 304.64 -1.95312e-05 300.91C 50.85 195.24 114.39 94.16 190.77 -4.88281e-05C 205.39 46.07 219.02 92.3699 231.49 138.93Z"/>
+    <path id="path246_fill" d="M 118.27 -9.76563e-05C 157.08 34.5199 196.5 67.9799 236.54 100.29C 195.17 147.44 155.74 195.7 118.27 244.98C 80.8 195.7 41.37 147.44 -1.95312e-05 100.29C 40.04 67.9799 79.46 34.5199 118.27 -9.76563e-05Z"/>
+    <path
+      id="path247_fill"
+      d="M 484.96 255.61C 419.14 327.41 358.84 402.45 304.18 480.26C 284.01 496.77 263.72 513.01 243.31 529.04C 174.24 395.76 93.12 267.13 0 144.69C 37.48 95.4099 76.9 47.1599 118.28 -5.85938e-05C 235.7 94.7399 358.27 179.95 484.96 255.61Z"/>
+    <path id="path248_fill" d="M 224.63 25.6099C 151.76 95.3799 76.8299 161.74 -6.83594e-05 224.65C 54.6599 146.84 114.95 71.8 180.78 4.88281e-05C 195.33 8.69005 209.97 17.1699 224.63 25.6099Z"/>
+    <path id="path249_fill" d="M 244.98 118.27C 210.45 157.08 177 196.5 144.69 236.54C 97.5301 195.17 49.28 155.74 -4.88281e-06 118.27C 49.28 80.8 97.5301 41.37 144.69 -1.95312e-05C 177 40.04 210.45 79.46 244.98 118.27Z"/>
+    <path
+      id="path250_fill"
+      d="M 367.7 267.4C 328.89 301.92 289.47 335.38 249.43 367.69C 210.89 323.76 170.84 280.68 128.93 238.77C 87.02 196.85 43.94 156.81 4.88281e-05 118.27C 32.32 78.23 65.78 38.81 100.3 0C 141.97 46.84 185.06 92.85 229.96 137.74C 274.85 182.64 320.87 225.73 367.7 267.4Z"/>
+    <path id="path251_fill" d="M -9.76562e-06 48.7601C 24.43 33.0101 48.6401 16.8099 72.5601 -5.37109e-05C 56.0601 20.1599 39.82 40.47 23.77 60.88C 15.87 56.78 7.93999 52.7701 -9.76562e-06 48.7601Z"/>
+    <path
+      id="path252_fill"
+      d="M 529.04 366.68C 481.88 408.05 433.63 447.48 384.35 484.95C 261.91 391.84 133.28 310.72 1.95312e-05 241.65C 16.03 221.24 32.2701 200.94 48.78 180.77C 126.59 126.11 201.63 65.82 273.43 4.88281e-05C 349.09 126.69 434.3 249.25 529.04 366.68Z"/>
+    <path
+      id="path253_fill"
+      d="M 551.53 22.11C 590.75 106.82 634.07 190.08 681.11 271.79C 611.34 344.66 544.98 419.6 482.07 496.42C 458.15 513.23 433.94 529.43 409.52 545.18C 282.19 480.82 150.8 427.29 16.668 384.7C 11.043 373.37 5.50798 362.03 -1.95312e-05 350.65C 181.18 264.88 351.26 147.99 502.3 2.44141e-05C 518.74 7.28002 535.19 14.55 551.53 22.11Z"/>
+    <path id="path254_fill" d="M 4.88281e-05 224.63C 62.91 147.81 129.27 72.8699 199.04 -5.85937e-05C 207.48 14.6599 215.96 29.31 224.65 43.85C 152.85 109.68 77.81 169.97 4.88281e-05 224.63Z"/>
+    <path id="path255_fill" d="M 625.385 122.89C 474.355 270.88 304.265 387.77 123.085 473.54C 78.093 380.63 37.05 286.3 1.95312e-05 190.77C 105.671 139.92 206.745 76.37 300.895 9.76562e-06C 410.765 34.87 519.085 75.86 625.385 122.89Z"/>
+    <path id="path256_fill" d="M 247.324 44.41C 187.344 110.64 129.687 178.22 74.25 247C 47.297 175.8 22.559 103.96 2.97852e-05 31.59C 19.609 21.59 39.004 11.06 58.184 -4.88281e-06C 121.582 12.92 184.668 27.61 247.324 44.41Z"/>
+    <path id="path257_fill" d="M 312.007 40.73C 217.847 117.1 116.766 180.65 11.109 231.5C 7.37098 221.88 3.64803 212.25 2.97852e-05 202.6C 55.437 133.81 113.094 66.23 173.074 2.92969e-05C 219.637 12.48 265.947 26.11 312.007 40.73Z"/>
+    <path id="path258_fill" d="M 13.855 45.41C 9.13603 30.29 4.51899 15.16 -1.17188e-05 4.88281e-05C 24.058 4.32005 48.074 8.92999 72.046 13.82C 52.859 24.88 33.464 35.42 13.855 45.41Z"/>
+    <path id="path259_fill" d="M 255.42 23.78C 206.9 99 163.37 176.49 124.87 255.83C 82.8501 230.16 41.22 203.59 0 176.15C 82.85 121 164.01 62.28 243.3 -1.95312e-05C 247.4 7.89998 251.42 15.83 255.42 23.78Z"/>
+    <path id="path260_fill" d="M 291.05 392.85C 192.26 343.78 95.1501 290.18 0.000107422 232.07C 38.5201 152.73 82.0399 75.23 130.57 4.54747e-13C 194.93 127.33 248.46 258.72 291.05 392.85Z"/>
+    <path
+      id="path261_fill"
+      d="M 366.68 -5.85937e-05C 408.05 47.1599 447.48 95.4099 484.95 144.69C 391.83 267.12 310.71 395.76 241.65 529.04C 221.24 513.01 200.93 496.77 180.77 480.26C 126.11 402.45 65.82 327.41 4.88281e-05 255.61C 126.69 179.95 249.25 94.7399 366.68 -5.85937e-05Z"/>
+    <path id="path262_fill" d="M 243.3 -0.000117187C 336.42 122.43 417.54 251.07 486.6 384.35C 407.32 446.62 326.15 505.35 243.3 560.51C 160.45 505.35 79.28 446.62 -4.88281e-05 384.35C 69.06 251.07 150.18 122.43 243.3 -0.000117187Z"/>
+    <path
+      id="path263_fill"
+      d="M 273.43 484.94C 201.63 419.11 126.59 358.83 48.78 304.17C 32.2701 284 16.03 263.7 1.95312e-05 243.29C 133.28 174.23 261.91 93.11 384.35 9.76562e-06C 433.63 37.46 481.88 76.89 529.04 118.26C 434.3 235.69 349.09 358.25 273.43 484.94Z"/>
+    <path
+      id="path264_fill"
+      d="M 505.03 249.42C 387.6 344.16 265.04 429.37 138.35 505.03C 116.4 481.09 93.96 457.44 70.78 434.26C 47.59 411.07 23.93 388.62 -4.88281e-05 366.69C 75.66 239.99 160.87 117.44 255.6 1.95312e-05C 299.54 38.54 342.62 78.58 384.53 120.5C 426.44 162.41 466.49 205.49 505.03 249.42Z"/>
+    <path id="path265_fill" d="M 255.83 12.12C 193.55 91.41 134.82 172.57 79.68 255.42C 52.24 214.2 25.6699 172.57 -5.85937e-05 130.55C 79.3299 92.0499 156.83 48.5201 232.06 7.8125e-05C 239.99 4.01008 247.93 8.02995 255.83 12.12Z"/>
+    <path id="path266_fill" d="M 560.51 243.3C 438.08 336.41 309.44 417.54 176.16 486.6C 113.88 407.32 55.16 326.15 -1.46484e-05 243.3C 55.16 160.45 113.88 79.29 176.16 -4.88281e-05C 309.44 69.06 438.08 150.19 560.51 243.3Z"/>
+    <path id="path267_fill" d="M 160.782 291.03C 102.672 195.9 49.067 98.79 1.02539e-05 -2.44141e-05C 134.132 42.59 265.522 96.1201 392.842 160.48C 317.622 209.01 240.132 252.53 160.782 291.03Z"/>
+    <path id="path268_fill" d="M 224.63 224.65C 147.81 161.74 72.8699 95.3799 -5.85937e-05 25.6099C 14.6599 17.1699 29.3 8.69005 43.85 4.88281e-05C 109.68 71.8 169.97 146.84 224.63 224.65Z"/>
+    <path id="path269_fill" d="M 199.03 224.63C 129.27 151.76 62.91 76.8199 4.88281e-05 -6.83594e-05C 77.8 54.6599 152.85 114.95 224.65 180.78C 215.96 195.33 207.48 209.97 199.03 224.63Z"/>
+    <path
+      id="path270_fill"
+      d="M 96.39 67.58C 119.58 90.76 142.02 114.42 163.97 138.34C 149.42 147.04 134.77 155.53 120.11 163.97C 99.6999 144.42 79.4399 124.68 59.3699 104.6C 39.2899 84.5301 19.55 64.2701 -4.39453e-05 43.8601C 8.43996 29.1901 16.93 14.55 25.62 -4.88281e-05C 49.5499 21.95 73.21 44.39 96.39 67.58Z"/>
+    <path id="path271_fill" d="M 0.00015625 75.6C 187.63 70.09 374.79 44.9499 558.11 -0.000117187C 521.16 69.6499 482.65 138.67 442.53 207.01C 304.38 157.47 160.57 128.29 15.7399 119.46C 10.5599 104.83 5.33016 90.2 0.00015625 75.6Z"/>
+    <path id="path272_fill" d="M 85.2101 266.39C 59.5701 176.92 31.1801 88.0801 0.000136719 9.76563e-05C 144.84 8.8301 288.64 37.9999 426.8 87.5399C 382.41 163.15 336.04 237.92 287.75 311.79C 221.34 291.16 153.59 275.99 85.2101 266.39Z"/>
+    <path id="path273_fill" d="M 9.76562e-06 207.27C 53.15 139.29 104.18 70.18 152.98 2.92969e-05C 331.47 31.26 512.52 44.25 693.15 38.95C 698.49 53.55 703.71 68.1801 708.89 82.8101C 468.27 68.1501 224.86 109.56 9.76562e-06 207.27Z"/>
+    <path
+      id="path274_fill"
+      d="M 74.25 396.335C 51.69 323.955 26.94 252.105 -2.92969e-05 180.915C 14.32 163.135 28.51 145.275 42.55 127.335C 267.4 29.6147 510.81 -11.7852 751.43 2.87476C 782.6 90.9748 810.99 179.815 836.62 269.275C 578.51 233.035 311.52 275.405 74.25 396.335Z"/>
+    <path
+      id="path275_fill"
+      d="M 769.76 230.36C 646.19 208.55 519.52 208.56 395.93 230.36C 267.96 222.91 140.36 207.78 13.8401 185C 9.32006 169.84 4.69997 154.72 -2.92969e-05 139.59C 237.27 18.6697 504.26 -23.7104 762.38 12.5296C 782.79 83.7596 801.43 155.38 818.35 227.33C 802.16 228.52 785.96 229.42 769.76 230.36Z"/>
+    <path id="path276_fill" d="M -9.76563e-05 16.3538C 123.59 -5.44619 250.25 -5.45619 373.84 16.3538C 249.34 23.6138 124.51 23.6138 -9.76563e-05 16.3538Z"/>
+    <path id="path277_fill" d="M 54.4 16.7101C 41.78 22.3301 29.19 28.1 16.66 34.04C 11.16 22.67 5.61011 11.3199 0.000107422 -8.78906e-05C 18.0901 5.74991 36.22 11.3601 54.4 16.7101Z"/>
+    <path
+      id="path278_fill"
+      d="M 1.95312e-05 17.34C 12.53 11.41 25.11 5.64011 37.75 0.000107422C 133.95 28.3001 231.44 50.95 329.71 68.16C 280.92 138.35 229.89 207.46 176.74 275.44C 158.72 283.27 140.86 291.57 123.08 300.12C 86.0301 204.59 45 110.25 1.95312e-05 17.34Z"/>
+    <path id="path279_fill" d="M 0.000107422 24.67C 17.7701 16.13 35.64 7.83005 53.66 4.88281e-05C 39.62 17.9401 25.43 35.7999 11.11 53.5799C 7.44997 43.9199 3.73011 34.3 0.000107422 24.67Z"/>
+    <path id="path280_fill" d="M 17.32 -2.39258e-05C 22.67 18.192 28.29 36.313 34.03 54.412C 22.71 48.792 11.3601 43.254 5.85937e-05 37.75C 5.93006 25.223 11.7 12.621 17.32 -2.39258e-05Z"/>
+    <path id="path281_fill" d="M 207.28 555.911C 137.08 604.7 67.98 655.743 -4.88281e-05 708.879C 97.71 484.02 139.12 240.61 124.45 1.15967e-06C 139.09 5.172 153.72 10.403 168.32 15.743C 163.02 196.36 176.02 377.422 207.28 555.911Z"/>
+    <path
+      id="path282_fill"
+      d="M 282.78 329.71C 189.87 284.71 95.53 243.691 1.95312e-05 206.628C 8.55002 188.851 16.85 170.992 24.68 152.968C 92.66 99.832 161.77 48.789 231.96 1.95312e-05C 249.17 98.269 271.82 195.769 300.11 291.968C 294.48 304.601 288.71 317.179 282.78 329.71Z"/>
+    <path
+      id="path283_fill"
+      d="M 269 794.09C 251.06 808.133 233.2 822.313 215.42 836.641C 144.22 809.704 72.38 784.954 -4.88281e-05 762.391C 120.94 525.114 163.31 258.122 127.06 -6.46973e-07C 216.53 25.6407 305.36 54.043 393.46 85.2106C 408.12 325.821 366.71 569.231 269 794.09Z"/>
+    <path id="path284_fill" d="M -4.88281e-06 42.551C 17.78 28.223 35.64 14.043 53.58 -2.39258e-05C 45.75 18.024 37.46 35.891 28.9 53.66C 19.28 49.922 9.64999 46.203 -4.88281e-06 42.551Z"/>
+    <path
+      id="path285_fill"
+      d="M 90.7599 818.348C 75.6499 813.641 60.52 809.02 45.35 804.508C 22.58 677.989 7.44994 550.391 -5.85937e-05 422.411C 21.8099 298.821 21.8099 172.161 -5.85937e-05 48.5781C 0.939941 32.3789 1.83997 16.1875 3.02997 -1.37939e-06C 74.98 16.8984 146.59 35.5586 217.82 55.9688C 254.06 314.09 211.69 581.071 90.7599 818.348Z"/>
+    <path id="path286_fill" d="M 5.44494 -2.21252e-07C 27.2549 123.582 27.2449 250.25 5.44494 373.832C -1.81506 249.32 -1.81506 124.501 5.44494 -2.21252e-07Z"/>
+    <path id="path287_fill" d="M -0.000117187 202.59C 59.9799 136.36 117.64 68.7799 173.08 -0.000117187C 200.03 71.1999 224.77 143.04 247.33 215.41C 227.72 225.41 208.32 235.94 189.14 247C 125.75 234.08 62.6599 219.4 -0.000117187 202.59Z"/>
+    <path id="path288_fill" d="M 58.21 4.88281e-05C 62.91 15.11 67.5301 30.24 72.0501 45.41C 47.9901 41.07 23.99 36.4699 9.76562e-06 31.5799C 19.19 20.5199 38.6 9.98005 58.21 4.88281e-05Z"/>
+    <path id="path289_fill" d="M 72.55 12.1199C 48.12 27.8699 23.92 44.0699 -3.90625e-05 60.8799C 16.49 40.7199 32.73 20.41 48.78 4.88281e-05C 56.68 4.10005 64.61 8.11992 72.55 12.1199Z"/>
+    <path
+      id="path290_fill"
+      d="M 129.58 523.07C 90.36 438.36 47.0399 355.1 -7.8125e-05 273.39C 69.7599 200.52 136.12 125.58 199.03 48.7599C 222.96 31.9499 247.16 15.7499 271.59 -7.8125e-05C 398.91 64.3699 530.3 117.89 664.43 160.49C 670.05 171.81 675.59 183.16 681.1 194.53C 499.93 280.3 329.84 397.19 178.8 545.18C 162.36 537.91 145.91 530.64 129.58 523.07Z"/>
+    <path id="path291_fill" d="M -2.92969e-05 350.66C 151.04 202.66 321.12 85.77 502.3 -4.88281e-05C 547.3 92.91 588.33 187.24 625.39 282.78C 519.71 333.63 418.64 397.17 324.49 473.54C 214.62 438.67 106.3 397.68 -2.92969e-05 350.66Z"/>
+    <path id="path292_fill" d="M -4.88281e-05 190.77C 94.16 114.4 195.24 50.85 300.91 -2.92969e-05C 304.65 9.62997 308.36 19.2499 312.01 28.9099C 256.57 97.6899 198.91 165.27 138.93 231.5C 92.3699 219.02 46.06 205.39 -4.88281e-05 190.77Z"/>
+    <path id="path293_fill" d="M -9.76563e-05 118.27C 34.5299 79.46 67.9799 40.04 100.3 -1.95312e-05C 147.45 41.37 195.7 80.8 244.98 118.27C 195.7 155.74 147.45 195.17 100.3 236.54C 67.9799 196.5 34.5299 157.08 -9.76563e-05 118.27Z"/>
+    <path
+      id="path294_fill"
+      d="M -4.88281e-05 118.27C 47.15 76.9 95.4099 37.47 144.68 0C 267.12 93.11 395.75 174.24 529.03 243.3C 513 263.72 496.76 284.02 480.25 304.18C 402.44 358.84 327.4 419.13 255.6 484.95C 179.94 358.26 94.73 235.7 -4.88281e-05 118.27Z"/>
+    <path id="path295_fill" d="M 224.65 -6.83594e-05C 161.74 76.8199 95.3799 151.76 25.6199 224.63C 17.1699 209.97 8.69005 195.33 4.88281e-05 180.78C 71.8 114.95 146.84 54.6599 224.65 -6.83594e-05Z"/>
+    <path id="path296_fill" d="M 118.27 244.98C 79.46 210.45 40.04 177 -1.95312e-05 144.68C 41.37 97.5301 80.8 49.27 118.27 4.88281e-06C 155.74 49.27 195.17 97.5301 236.54 144.68C 196.49 177 157.08 210.45 118.27 244.98Z"/>
+    <path
+      id="path297_fill"
+      d="M 0 100.3C 38.81 65.7701 78.22 32.3201 118.27 5.85937e-05C 156.82 43.9301 196.86 87.01 238.77 128.92C 280.68 170.84 323.76 210.88 367.7 249.43C 335.38 289.46 301.92 328.88 267.4 367.69C 225.73 320.85 182.65 274.85 137.74 229.95C 92.85 185.05 46.84 141.97 0 100.3Z"/>
+    <path id="path298_fill" d="M 48.76 0C 52.76 7.93 56.78 15.87 60.88 23.77C 40.47 39.81 20.1599 56.05 -5.37109e-05 72.55C 16.8099 48.62 33.01 24.42 48.76 0Z"/>
+    <path
+      id="path299_fill"
+      d="M 3.90625e-05 273.43C 65.82 201.63 126.12 126.59 180.78 48.78C 200.95 32.28 221.25 16.04 241.65 1.95312e-05C 310.72 133.28 391.84 261.92 484.96 384.36C 447.48 433.63 408.06 481.89 366.69 529.04C 249.26 434.3 126.7 349.09 3.90625e-05 273.43Z"/>
+    <path
+      id="path300_fill"
+      d="M 496.42 482.07C 419.6 544.98 344.66 611.34 271.79 681.11C 190.08 634.07 106.82 590.75 22.11 551.53C 14.54 535.19 7.27002 518.74 2.44141e-05 502.31C 147.99 351.26 264.88 181.18 350.65 -1.95312e-05C 362.02 5.51198 373.37 11.05 384.69 16.67C 427.28 150.8 480.82 282.18 545.18 409.52C 529.43 433.95 513.23 458.15 496.42 482.07Z"/>
+    <path id="path301_fill" d="M -5.85937e-05 199.04C 72.8699 129.27 147.81 62.91 224.63 4.88281e-05C 169.97 77.81 109.68 152.85 43.85 224.65C 29.3 215.96 14.6599 207.48 -5.85937e-05 199.04Z"/>
+    <path id="path302_fill" d="M 9.76562e-06 300.902C 76.37 206.742 139.92 105.661 190.77 1.02539e-05C 286.29 37.063 380.63 78.09 473.54 123.082C 387.77 304.262 270.87 474.342 122.89 625.392C 75.85 519.082 34.88 410.772 9.76562e-06 300.902Z"/>
+    <path id="path303_fill" d="M -4.88281e-06 58.207C 11.06 39.028 21.59 19.61 31.59 5.85938e-06C 103.95 22.571 175.81 47.309 247 74.258C 178.22 129.707 110.63 187.36 44.4 247.349C 27.61 184.68 12.92 121.59 -4.88281e-06 58.207Z"/>
+    <path id="path304_fill" d="M 40.73 312.011C 26.11 265.951 12.48 219.641 2.92969e-05 173.091C 66.23 113.109 133.81 55.441 202.59 1.46484e-06C 212.24 3.652 221.87 7.37101 231.5 11.109C 180.65 116.77 117.1 217.851 40.73 312.011Z"/>
+    <path id="path305_fill" d="M 3.90625e-05 -2.09961e-05C 15.17 4.51998 30.2999 9.141 45.41 13.848C 35.42 33.457 24.89 52.86 13.83 72.047C 8.93999 48.071 4.34004 24.059 3.90625e-05 -2.09961e-05Z"/>
+    <path id="path306_fill" d="M 120.11 5.85937e-05C 167.15 81.7101 210.47 164.97 249.69 249.68C 164.97 210.46 81.7201 167.14 5.85937e-05 120.1C 20.4001 100.56 40.6701 80.8201 60.7501 60.7501C 80.8201 40.6801 100.57 20.4001 120.11 5.85937e-05Z"/>
+    <path
+      id="path307_fill"
+      d="M 267.4 0C 301.93 38.81 335.38 78.23 367.7 118.27C 323.76 156.81 280.68 196.85 238.77 238.77C 196.85 280.68 156.81 323.76 118.27 367.69C 78.23 335.38 38.81 301.92 -4.54747e-13 267.4C 46.84 225.73 92.85 182.64 137.75 137.74C 182.64 92.85 225.73 46.83 267.4 0Z"/>
+    <path
+      id="path308_fill"
+      d="M 249.43 1.95312e-05C 344.16 117.43 429.37 239.99 505.03 366.68C 481.1 388.63 457.44 411.07 434.26 434.26C 411.08 457.44 388.63 481.09 366.69 505.03C 240 429.37 117.43 344.16 1.95312e-05 249.42C 38.54 205.49 78.59 162.41 120.5 120.5C 162.41 78.58 205.49 38.54 249.43 1.95312e-05Z"/>
+    <path
+      id="path309_fill"
+      d="M 67.57 67.57C 90.75 44.38 114.41 21.94 138.34 -3.90625e-05C 147.04 14.54 155.52 29.1901 163.96 43.8501C 144.42 64.2601 124.67 84.5201 104.6 104.6C 84.5301 124.67 64.2601 144.41 43.8501 163.96C 29.1901 155.52 14.55 147.03 -3.90625e-05 138.34C 21.94 114.41 44.38 90.75 67.57 67.57Z"/>
+    <path
+      id="path310_fill"
+      d="M 249.43 5.85937e-05C 289.48 32.3101 328.89 65.7801 367.7 100.29C 320.87 141.96 274.85 185.05 229.96 229.96C 185.06 274.84 141.97 320.85 100.3 367.69C 65.78 328.88 32.32 289.46 4.88281e-05 249.42C 43.94 210.88 87.02 170.84 128.93 128.92C 170.84 87.02 210.89 43.9301 249.43 5.85937e-05Z"/>
+    <path
+      id="path311_fill"
+      d="M 267.4 0.000107422C 314.24 41.6701 360.25 84.75 405.14 129.65C 450.05 174.55 493.13 220.55 534.8 267.39C 493.13 314.23 450.05 360.23 405.14 405.13C 360.25 450.04 314.24 493.12 267.4 534.79C 220.57 493.12 174.55 450.04 129.66 405.13C 84.76 360.23 41.67 314.23 -2.44141e-05 267.39C 41.67 220.55 84.76 174.55 129.66 129.65C 174.55 84.75 220.57 41.6701 267.4 0.000107422Z"/>
+    <path
+      id="path312_fill"
+      d="M 384.53 384.53C 342.62 426.44 299.54 466.48 255.61 505.03C 160.87 387.59 75.66 265.03 -4.88281e-05 138.34C 23.93 116.39 47.59 93.95 70.77 70.77C 93.96 47.58 116.4 23.92 138.34 -3.90625e-05C 265.03 75.65 387.6 160.87 505.03 255.6C 466.49 299.54 426.45 342.61 384.53 384.53Z"/>
+    <path id="path313_fill" d="M 188.93 188.94C 168.86 209.01 149.12 229.28 129.58 249.68C 82.54 167.97 39.21 84.71 9.76562e-06 9.76562e-06C 84.71 39.21 167.97 82.54 249.68 129.58C 229.28 149.11 209 168.86 188.93 188.94Z"/>
+    <path
+      id="path314_fill"
+      d="M 120.1 -3.41797e-05C 134.76 8.43997 149.4 16.92 163.95 25.61C 142.02 49.5499 119.57 73.2 96.38 96.39C 73.2 119.57 49.5499 142.02 25.61 163.96C 16.92 149.4 8.43997 134.76 -3.41797e-05 120.1C 19.54 99.6999 39.2799 79.4299 59.3499 59.3499C 79.4199 39.2799 99.6999 19.53 120.1 -3.41797e-05Z"/>
+    <path
+      id="path315_fill"
+      d="M 82.7998 272.82C 56.5398 212.91 28.95 153.44 -3.90625e-05 94.45C 256.42 107.27 514.57 75.72 762.14 -4.54747e-13C 822.25 18.38 881.72 39.2799 940.38 62.8799C 891.7 176.03 839.06 287.88 782.45 398.22C 558.11 310.98 320.19 269.18 82.7998 272.82Z"/>
+    <path id="path316_fill" d="M 107.15 267.138C 74.3302 177.288 38.6098 88.2876 -0.000234375 0.217595C 237.39 -3.41241 475.31 38.3875 699.65 125.618C 688.35 147.658 676.87 169.627 665.26 191.537C 481.94 236.487 294.78 261.628 107.15 267.138Z"/>
+    <path id="path317_fill" d="M 125.28 -3.90625e-05C 156.76 2.90996 188.28 5.16996 219.83 6.74996C 248.77 65.72 276.37 125.19 302.63 185.11C 201.28 186.66 100.05 196.51 -0.000117187 214.64C 43.8599 143.99 85.6102 72.41 125.28 -3.90625e-05Z"/>
+    <path id="path318_fill" d="M -1.95312e-05 227.96C 45.36 162.72 88.8099 96.5501 130.4 29.5401C 230.46 11.4201 331.69 1.56006 433.03 5.85937e-05C 471.63 88.0701 507.37 177.07 540.18 266.92C 359.55 272.21 178.5 259.22 -1.95312e-05 227.96Z"/>
+    <path id="path319_fill" d="M -0.000107422 124.86C 27.4299 83.64 54.0001 42.0099 79.6801 -0.000107422C 182.94 50.0999 289.27 91.72 397.65 124.86C 289.27 158.01 182.94 199.62 79.6801 249.73C 54.0001 207.71 27.4299 166.08 -0.000107422 124.86Z"/>
+    <path
+      id="path320_fill"
+      d="M 160.79 415.91C 111.73 317.12 58.1201 220.01 5.85937e-05 124.86C 103.27 74.7601 209.61 33.14 317.99 4.54747e-13C 463.46 44.48 612.57 73.78 762.85 87.71C 723.18 160.12 681.43 231.71 637.58 302.34C 493.15 328.52 351.29 371.92 215.2 432.62C 197.01 427.27 178.9 421.66 160.79 415.91Z"/>
+    <path id="path321_fill" d="M 422.38 9.76563e-05C 380.78 67.0001 337.34 133.18 291.98 198.42C 193.7 181.2 96.21 158.56 9.76562e-06 130.27C 136.09 69.5801 277.95 26.1601 422.38 9.76563e-05Z"/>
+    <path id="path322_fill" d="M 72.55 48.7601C 64.62 52.7701 56.68 56.78 48.78 60.88C 32.73 40.47 16.5 20.1599 -3.90625e-05 -5.37109e-05C 23.92 16.8099 48.12 33.0101 72.55 48.7601Z"/>
+    <path id="path323_fill" d="M 23.77 7.8125e-05C 98.99 48.5301 176.49 92.0499 255.83 130.55C 230.15 172.57 203.58 214.2 176.14 255.42C 120.99 172.57 62.27 91.42 -9.76562e-06 12.12C 7.89999 8.01995 15.84 4.01008 23.77 7.8125e-05Z"/>
+    <path id="path324_fill" d="M 12.1199 0C 27.8699 24.42 44.0699 48.62 60.8799 72.55C 40.7199 56.04 20.41 39.81 4.88281e-05 23.77C 4.10005 15.87 8.11992 7.93 12.1199 0Z"/>
+    <path id="path325_fill" d="M 124.87 397.651C 83.65 370.211 42.0199 343.641 -0.000117187 317.971C 50.0999 214.711 91.72 108.383 124.87 -5.85938e-06C 158.02 108.383 199.64 214.711 249.74 317.971C 207.72 343.641 166.09 370.211 124.87 397.651Z"/>
+    <path id="path326_fill" d="M 243.3 255.83C 164.01 193.55 82.85 134.82 0 79.68C 41.22 52.24 82.8501 25.6799 124.87 -5.85937e-05C 163.38 79.3299 206.9 156.83 255.42 232.06C 251.42 239.99 247.4 247.93 243.3 255.83Z"/>
+    <path id="path327_fill" d="M 2.44141e-05 302.629C 18.12 202.59 27.9801 101.348 29.5301 4.39453e-06C 89.4401 26.258 148.91 53.86 207.89 82.797C 209.47 114.348 211.73 145.879 214.65 177.348C 142.23 217.028 70.65 258.77 2.44141e-05 302.629Z"/>
+    <path
+      id="path328_fill"
+      d="M 16.71 602.06C 10.96 583.969 5.35 565.84 4.88281e-06 547.648C 60.7 411.57 104.1 269.699 130.28 125.281C 200.91 81.422 272.5 39.68 344.91 -3.66211e-06C 358.84 150.289 388.14 299.398 432.62 444.871C 399.48 553.25 357.86 659.58 307.76 762.85C 212.61 704.73 115.5 651.13 16.71 602.06Z"/>
+    <path id="path329_fill" d="M 40.1113 540.168C 8.85133 361.679 -4.14863 180.617 1.15137 -2.62451e-06C 91.0014 32.796 180.001 68.539 268.071 107.148C 266.511 208.488 256.651 309.718 238.531 409.769C 171.531 451.359 105.351 494.808 40.1113 540.168Z"/>
+    <path id="path330_fill" d="M -1.95312e-05 130.399C 65.24 85.039 131.42 41.59 198.42 -2.83203e-05C 172.25 144.418 128.85 286.289 68.15 422.367C 39.86 326.168 17.21 228.668 -1.95312e-05 130.399Z"/>
+    <path id="path331_fill" d="M -1.95312e-05 243.3C 62.28 164.01 121.01 82.85 176.15 0C 203.59 41.22 230.16 82.8501 255.85 124.87C 176.5 163.37 99 206.9 23.78 255.42C 15.85 251.42 7.89998 247.39 -1.95312e-05 243.3Z"/>
+    <path id="path332_fill" d="M 232.06 0.000117187C 290.18 95.1301 343.78 192.24 392.85 291.04C 258.71 248.44 127.33 194.92 9.76562e-06 130.55C 75.23 82.0299 152.72 38.5001 232.06 0.000117187Z"/>
+    <path
+      id="path333_fill"
+      d="M 255.6 4.88281e-05C 327.4 65.83 402.44 126.12 480.25 180.78C 496.76 200.94 513 221.24 529.03 241.65C 395.75 310.72 267.12 391.83 144.68 484.95C 95.4099 447.47 47.15 408.05 -4.88281e-05 366.68C 94.73 249.25 179.94 126.69 255.6 4.88281e-05Z"/>
+    <path id="path334_fill" d="M -0.000117187 243.3C 122.44 150.19 251.07 69.06 384.35 -4.88281e-05C 446.63 79.29 505.36 160.45 560.51 243.3C 505.36 326.15 446.63 407.32 384.35 486.6C 251.07 417.54 122.44 336.41 -0.000117187 243.3Z"/>
+    <path
+      id="path335_fill"
+      d="M 118.27 529.04C 76.9 481.89 37.47 433.63 0 384.36C 93.12 261.92 174.24 133.28 243.3 1.95312e-05C 263.71 16.04 284.02 32.28 304.18 48.78C 358.84 126.59 419.13 201.63 484.95 273.43C 358.26 349.09 235.7 434.31 118.27 529.04Z"/>
+    <path
+      id="path336_fill"
+      d="M 1.95312e-05 255.61C 117.43 160.88 239.99 75.66 366.68 -4.88281e-05C 388.63 23.94 411.08 47.6 434.25 70.77C 457.44 93.96 481.1 116.41 505.03 138.34C 429.38 265.04 344.16 387.6 249.43 505.04C 205.49 466.49 162.41 426.45 120.5 384.53C 78.59 342.63 38.55 299.54 1.95312e-05 255.61Z"/>
+    <path id="path337_fill" d="M -4.39453e-05 232.06C 48.52 156.83 92.0499 79.3399 130.55 -5.85937e-05C 172.57 25.6699 214.2 52.24 255.42 79.68C 172.57 134.83 91.41 193.55 12.12 255.83C 8.01995 247.93 3.99996 239.99 -4.39453e-05 232.06Z"/>
+    <path id="path338_fill" d="M 243.3 560.51C 150.18 438.07 69.06 309.43 -4.88281e-05 176.15C 79.28 113.88 160.45 55.15 243.3 -4.88281e-06C 326.15 55.15 407.32 113.88 486.6 176.15C 417.54 309.43 336.42 438.07 243.3 560.51Z"/>
+    <path id="path339_fill" d="M -3.41797e-05 2.44141e-05C 98.79 49.07 195.9 102.67 291.05 160.79C 252.53 240.12 209.01 317.62 160.48 392.85C 96.1199 265.52 42.59 134.13 -3.41797e-05 2.44141e-05Z"/>
+    <path
+      id="path340_fill"
+      d="M -3.90625e-05 303.76C 28.95 244.77 56.5398 185.3 82.7998 125.4C 320.19 129.03 558.11 87.23 782.45 3.90625e-05C 839.06 110.34 891.7 222.18 940.38 335.33C 881.72 358.92 822.25 379.83 762.14 398.21C 514.57 322.49 256.42 290.94 -3.90625e-05 303.76Z"/>
+    <path id="path341_fill" d="M 47.73 191.681C 32.21 160.061 16.29 128.571 -1.95312e-05 97.2313C 16.29 65.8813 32.21 34.4113 47.73 2.7713C 304.15 -10.0287 562.3 21.5213 809.87 97.2313C 562.3 172.951 304.15 204.501 47.73 191.681Z"/>
+    <path id="path342_fill" d="M -0.000107422 3.41797e-05C 100.04 18.11 201.28 27.9701 302.62 29.5201C 276.36 89.4301 248.77 148.9 219.82 207.89C 188.28 209.46 156.74 211.72 125.27 214.64C 85.6002 142.22 43.8499 70.64 -0.000107422 3.41797e-05Z"/>
+    <path id="path343_fill" d="M 94.55 4.88281e-05C 79.03 31.6201 63.11 63.11 46.82 94.45C 31.55 65.07 15.9502 35.8601 0.00015625 6.75005C 31.4702 3.83005 63.01 1.58005 94.55 4.88281e-05Z"/>
+    <path id="path344_fill" d="M -3.90625e-05 177.34C 2.91996 145.871 5.16996 114.34 6.74996 82.789C 65.73 53.852 125.19 26.262 185.11 0C 186.67 101.34 196.51 202.57 214.64 302.621C 143.99 258.77 72.42 217.02 -3.90625e-05 177.34Z"/>
+    <path id="path345_fill" d="M 0 47.742C 31.34 31.449 62.83 15.52 94.46 1.46484e-06C 92.88 31.551 90.63 63.082 87.71 94.551C 58.6 78.609 29.38 63.012 0 47.742Z"/>
+    <path id="path346_fill" d="M 46.82 0C 63.11 31.34 79.03 62.83 94.55 94.46C 63.01 92.88 31.4702 90.6199 0.00015625 87.7C 15.9502 58.6 31.54 29.37 46.82 0Z"/>
+    <path id="path347_fill" d="M 54.4 17.33C 36.22 22.68 18.0901 28.3 0.000107422 34.05C 5.61011 22.72 11.16 11.37 16.66 4.88281e-05C 29.19 5.94005 41.78 11.71 54.4 17.33Z"/>
+    <path
+      id="path348_fill"
+      d="M 160.77 16.72C 178.87 10.97 196.99 5.35 215.18 4.88281e-06C 351.27 60.7 493.14 104.1 637.56 130.28C 681.41 200.92 723.16 272.5 762.83 344.91C 612.55 358.85 463.44 388.13 317.97 432.62C 209.59 399.48 103.25 357.86 7.8125e-05 307.75C 58.1001 212.62 111.71 115.51 160.77 16.72Z"/>
+    <path id="path349_fill" d="M 3.90625e-05 87.7C 145.47 43.21 294.58 13.92 444.87 4.88281e-05C 460.81 29.1101 476.42 58.32 491.68 87.7C 476.42 117.07 460.81 146.3 444.87 175.4C 294.58 161.48 145.47 132.19 3.90625e-05 87.7Z"/>
+    <path id="path350_fill" d="M 35.49 13.73C 40.03 18.25 44.65 22.63 49.22 27.11C 32.78 34.39 16.33 41.66 0 49.22C 7.56 32.89 14.8201 16.43 22.1101 3.90625e-05C 26.5901 4.57004 30.96 9.19002 35.49 13.73Z"/>
+    <path
+      id="path351_fill"
+      d="M 199.03 496.42C 136.12 419.6 69.7599 344.66 -7.8125e-05 271.79C 47.0399 190.08 90.36 106.82 129.58 22.11C 145.91 14.55 162.36 7.27002 178.8 2.44141e-05C 329.84 147.98 499.93 264.89 681.1 350.66C 675.59 362.02 670.05 373.37 664.43 384.69C 530.3 427.29 398.91 480.82 271.59 545.18C 247.16 529.44 222.96 513.23 199.03 496.42Z"/>
+    <path id="path352_fill" d="M 392.84 -2.44141e-05C 343.78 98.79 290.17 195.9 232.07 291.03C 152.72 252.53 75.22 209 9.76562e-06 160.48C 127.32 96.1101 258.71 42.59 392.84 -2.44141e-05Z"/>
+    <path id="path353_fill" d="M 16.7101 -2.39258e-05C 22.3301 12.621 28.1 25.223 34.05 37.75C 22.67 43.254 11.3199 48.792 -8.78906e-05 54.412C 5.74991 36.313 11.3601 18.192 16.7101 -2.39258e-05Z"/>
+    <path
+      id="path354_fill"
+      d="M 523.08 551.53C 438.36 590.75 355.1 634.07 273.39 681.11C 200.53 611.34 125.59 544.98 48.7599 482.07C 31.9499 458.15 15.7499 433.95 -7.8125e-05 409.52C 64.3699 282.19 117.89 150.8 160.49 16.67C 171.82 11.06 183.16 5.51198 194.53 -1.95312e-05C 280.3 181.18 397.2 351.26 545.19 502.31C 537.91 518.74 530.64 535.2 523.08 551.53Z"/>
+    <path id="path355_fill" d="M 5.85937e-05 129.58C 81.7101 82.54 164.97 39.22 249.69 9.76562e-06C 210.46 84.71 167.14 167.97 120.11 249.68C 100.57 229.28 80.8201 209.01 60.7501 188.93C 40.6801 168.86 20.4001 149.11 5.85937e-05 129.58Z"/>
+    <path
+      id="path356_fill"
+      d="M 415.91 602.06C 317.12 651.13 220.01 704.74 124.86 762.84C 74.7601 659.58 33.14 553.25 4.54747e-13 444.871C 44.49 299.398 73.78 150.289 87.71 -3.66211e-06C 160.12 39.672 231.71 81.43 302.34 125.281C 328.52 269.691 371.92 411.57 432.62 547.66C 427.27 565.84 421.66 583.961 415.91 602.06Z"/>
+    <path id="path357_fill" d="M 0.000117187 160.77C 95.1301 102.66 192.24 49.05 291.04 -2.68555e-05C 248.44 134.13 194.92 265.51 130.55 392.83C 82.0299 317.61 38.5001 240.12 0.000117187 160.77Z"/>
+    <path id="path358_fill" d="M 4.88281e-05 1.46484e-06C 31.6201 15.52 63.11 31.449 94.45 47.742C 65.08 63 35.8601 78.609 6.75005 94.551C 3.83005 63.082 1.57005 31.551 4.88281e-05 1.46484e-06Z"/>
+    <path id="path359_fill" d="M 87.71 491.68C 43.22 346.207 13.93 197.098 3.90625e-05 46.809C 29.11 30.867 58.34 15.27 87.71 5.85938e-06C 117.09 15.27 146.31 30.867 175.42 46.809C 161.49 197.098 132.2 346.207 87.71 491.68Z"/>
+    <path id="path360_fill" d="M 25.6199 -5.85937e-05C 95.3799 72.8699 161.74 147.81 224.65 224.63C 146.85 169.97 71.81 109.68 4.88281e-05 43.85C 8.69005 29.3 17.1699 14.6599 25.6199 -5.85937e-05Z"/>
+    <path id="path361_fill" d="M -6.83594e-05 4.88281e-05C 76.8199 62.91 151.76 129.27 224.63 199.04C 209.97 207.48 195.33 215.96 180.78 224.65C 114.95 152.85 54.6599 77.81 -6.83594e-05 4.88281e-05Z"/>
+    <path
+      id="path362_fill"
+      d="M 67.57 96.4C 44.38 73.21 21.94 49.55 -3.90625e-05 25.63C 14.55 16.93 29.1901 8.44996 43.8501 -4.39453e-05C 64.2601 19.54 84.5301 39.2999 104.6 59.3699C 124.67 79.4399 144.42 99.7099 163.96 120.12C 155.52 134.78 147.04 149.42 138.34 163.97C 114.41 142.02 90.75 119.58 67.57 96.4Z"/>
+    <path id="path363_fill" d="M 442.53 -1.46484e-05C 482.65 68.34 521.17 137.37 558.1 207.01C 374.79 162.06 187.63 136.93 0.00015625 131.42C 5.34016 116.81 10.5601 102.18 15.7301 87.54C 160.57 78.71 304.37 49.54 442.53 -1.46484e-05Z"/>
+    <path id="path364_fill" d="M -0.000234375 266.92C 38.6098 178.85 74.3401 89.85 107.15 1.95312e-05C 294.78 5.51002 481.95 30.65 665.26 75.61C 676.87 97.51 688.35 119.49 699.65 141.52C 475.31 228.75 237.39 270.55 -0.000234375 266.92Z"/>
+    <path id="path365_fill" d="M 152.97 207.27C 104.18 137.08 53.15 67.98 9.76562e-06 -3.90625e-05C 224.86 97.7 468.27 139.1 708.89 124.44C 703.71 139.08 698.49 153.71 693.15 168.32C 512.52 163.02 331.47 176.01 152.97 207.27Z"/>
+    <path id="path366_fill" d="M -1.95312e-05 40.1019C 178.5 8.8419 359.55 -4.14805 540.18 1.15195C 507.37 90.9919 471.63 180.002 433.03 268.062C 331.69 266.492 230.46 256.652 130.4 238.522C 88.8099 171.522 45.36 105.352 -1.95312e-05 40.1019Z"/>
+    <path id="path367_fill" d="M 207.27 708.879C 139.29 655.743 70.18 604.7 2.92969e-05 555.911C 31.26 377.422 44.25 196.36 38.95 15.743C 53.55 10.403 68.1801 5.172 82.8201 1.15967e-06C 68.1501 240.61 109.56 484.02 207.27 708.879Z"/>
+    <path id="path368_fill" d="M 227.96 540.168C 162.72 494.808 96.5401 451.359 29.5401 409.769C 11.4201 309.718 1.57006 208.488 5.85937e-05 107.148C 88.0701 68.539 177.07 32.796 266.92 -2.62451e-06C 272.22 180.617 259.22 361.679 227.96 540.168Z"/>
+    <path
+      id="path369_fill"
+      d="M 1.95312e-05 282.77C 45 189.86 86.0301 95.53 123.08 2.92969e-05C 140.86 8.55003 158.72 16.84 176.74 24.67C 229.89 92.66 280.92 161.76 329.71 231.95C 231.44 249.17 133.95 271.81 37.75 300.11C 25.11 294.47 12.53 288.71 1.95312e-05 282.77Z"/>
+    <path id="path370_fill" d="M 291.96 -1.95312e-05C 337.32 65.25 380.77 131.42 422.36 198.42C 277.95 172.25 136.07 128.84 1.95312e-05 68.16C 96.2 39.87 193.69 17.21 291.96 -1.95312e-05Z"/>
+    <path
+      id="path371_fill"
+      d="M 0.000107422 324.49C 47.0301 218.19 88.01 109.87 122.89 3.90625e-05C 156.55 41.52 192.64 81.71 231.27 120.33C 269.9 158.96 310.08 195.06 351.6 228.72C 241.73 263.59 133.42 304.57 27.11 351.6C 22.54 347.14 17.92 342.76 13.38 338.22C 8.84999 333.68 4.48011 329.06 0.000107422 324.49Z"/>
+    <path id="path372_fill" d="M 324.48 9.76562e-06C 418.64 76.37 519.72 139.92 625.39 190.77C 588.33 286.29 547.3 380.64 502.3 473.55C 321.12 387.78 151.04 270.87 -2.92969e-05 122.89C 106.31 75.85 214.62 34.88 324.48 9.76562e-06Z"/>
+    <path
+      id="path373_fill"
+      d="M 17.33 329.71C 11.4 317.179 5.63012 304.601 0.000117187 291.968C 28.2901 195.769 50.94 98.269 68.15 1.95312e-05C 138.35 48.789 207.44 99.832 275.44 152.968C 283.26 170.992 291.55 188.851 300.11 206.628C 204.58 243.691 110.24 284.71 17.33 329.71Z"/>
+    <path id="path374_fill" d="M 350.66 625.389C 202.67 474.359 85.77 304.279 -4.88281e-05 123.097C 92.91 78.097 187.25 37.058 282.78 -8.78906e-06C 333.63 105.679 397.17 206.759 473.55 300.899C 438.67 410.769 397.69 519.089 350.66 625.389Z"/>
+    <path id="path375_fill" d="M 9.76563e-05 -2.83203e-05C 67.0101 41.598 133.17 85.039 198.42 130.399C 181.21 228.668 158.56 326.168 130.27 422.367C 69.5801 286.289 26.1701 144.418 9.76563e-05 -2.83203e-05Z"/>
+    <path id="path376_fill" d="M 85.2001 45.4C 153.58 35.8 221.32 20.63 287.74 -1.46484e-05C 336.03 73.88 382.4 148.64 426.79 224.26C 288.63 273.79 144.83 302.96 -9.76563e-05 311.8C 31.1699 223.71 59.5601 134.87 85.2001 45.4Z"/>
+    <path
+      id="path377_fill"
+      d="M 74.26 -3.90625e-05C 311.53 120.92 578.52 163.3 836.64 127.06C 811 216.51 782.61 305.35 751.44 393.45C 510.81 408.11 267.41 366.71 42.56 268.99C 28.52 251.05 14.33 233.19 -3.90625e-05 215.42C 26.95 144.22 51.7 72.37 74.26 -3.90625e-05Z"/>
+    <path
+      id="path378_fill"
+      d="M -2.92969e-05 189.142C 16.81 126.473 31.4899 63.383 44.4099 -2.39258e-05C 99.4399 95.383 167.66 185.232 249.24 266.812C 330.81 348.382 420.66 416.602 516.05 471.642C 452.66 484.562 389.57 499.242 326.91 516.042C 275.45 459.222 222.33 403.352 167.52 348.532C 112.7 293.722 56.83 240.602 -2.92969e-05 189.142Z"/>
+    <path id="path379_fill" d="M 189.13 -4.88281e-06C 208.32 11.07 227.73 21.59 247.34 31.59C 224.77 103.96 200.04 175.81 173.08 247C 117.64 178.22 59.9899 110.64 -0.000117187 44.41C 62.6599 27.61 125.75 12.92 189.13 -4.88281e-06Z"/>
+    <path
+      id="path380_fill"
+      d="M 396.334 762.391C 323.954 784.954 252.114 809.692 180.914 836.641C 163.134 822.313 145.274 808.133 127.334 794.09C 29.6243 569.231 -11.7857 325.832 2.87431 85.2036C 90.9743 54.043 179.814 25.6407 269.274 -6.46973e-07C 233.034 258.133 275.414 525.114 396.334 762.391Z"/>
+    <path id="path381_fill" d="M 202.59 247.341C 136.37 187.359 68.7799 129.691 -0.000117187 74.25C 71.1999 47.313 143.05 22.563 215.41 1.46484e-06C 225.41 19.609 235.95 39.02 247 58.199C 234.08 121.582 219.4 184.672 202.59 247.341Z"/>
+    <path id="path382_fill" d="M 11.1 -4.88281e-06C 25.43 17.78 39.62 35.64 53.65 53.58C 35.63 45.75 17.7601 37.46 0.000107422 28.91C 3.74011 19.29 7.45996 9.64999 11.1 -4.88281e-06Z"/>
+    <path
+      id="path383_fill"
+      d="M -9.76562e-06 138.92C 14.62 92.86 28.25 46.55 40.73 4.88281e-06C 97.55 51.46 153.43 104.58 208.25 159.39C 263.06 214.21 316.17 270.08 367.64 326.9C 321.08 339.38 274.78 353.01 228.71 367.63C 187.21 333.97 147.02 297.86 108.39 259.24C 69.7699 220.62 33.67 180.44 -9.76562e-06 138.92Z"/>
+    <path id="path384_fill" d="M 138.93 2.92969e-05C 198.91 66.23 256.57 133.81 312.01 202.59C 308.36 212.24 304.64 221.88 300.9 231.5C 195.24 180.65 94.16 117.1 -4.88281e-05 40.73C 46.07 26.11 92.3699 12.48 138.93 2.92969e-05Z"/>
+    <path id="path385_fill" d="M 24.67 53.653C 16.13 35.891 7.83005 18.032 4.88281e-05 -2.39258e-05C 17.9401 14.032 35.7999 28.223 53.5799 42.551C 43.9299 46.211 34.31 49.922 24.67 53.653Z"/>
+    <path id="path386_fill" d="M 190.77 312.011C 114.4 217.851 50.86 116.77 -2.92969e-05 11.109C 9.63997 7.37101 19.2599 3.652 28.9099 1.46484e-06C 97.6899 55.441 165.28 113.109 231.5 173.091C 219.02 219.641 205.39 265.951 190.77 312.011Z"/>
+    <path id="path387_fill" d="M 382.09 120.23C 254.12 127.68 126.52 142.81 5.85938e-05 165.59C 16.3801 110.67 31.4699 55.46 45.3299 -3.90625e-05C 151.34 59.55 265.33 99.6199 382.09 120.23Z"/>
+    <path
+      id="path388_fill"
+      d="M -2.92969e-05 90.77C 4.69997 75.65 9.32006 60.5201 13.8401 45.3601C 140.36 22.58 267.96 7.45994 395.94 -5.85937e-05C 519.53 21.8099 646.19 21.8099 769.76 -5.85937e-05C 785.96 0.939941 802.16 1.83997 818.35 3.02997C 801.44 74.99 782.78 146.6 762.38 217.83C 504.26 254.07 237.27 211.69 -2.92969e-05 90.77Z"/>
+    <path id="path389_fill" d="M 3.90625e-05 3.2109C 4.49004 2.1484 8.99004 1.0507 13.5 -7.32422e-07C 9.59004 17.1914 6.09007 34.4609 3.03007 51.789C 2.09007 35.6015 1.18004 19.3906 3.90625e-05 3.2109Z"/>
+    <path id="path390_fill" d="M -3.90625e-05 382.089C 22.78 255.578 37.9001 127.968 45.3601 -1.02539e-05C 65.9701 116.75 106.02 230.757 165.58 336.769C 110.13 350.628 54.91 365.718 -3.90625e-05 382.089Z"/>
+    <path
+      id="path391_fill"
+      d="M 204.83 384.179C 123.25 302.609 55.0299 212.75 -0.000117187 117.367C 4.89988 93.391 9.49995 69.379 13.82 45.32C 68.74 28.949 123.96 13.859 179.42 -2.83203e-05C 226.27 83.41 285.17 161.891 356.14 232.867C 427.11 303.839 505.6 362.729 589.01 409.589C 575.15 465.049 560.05 520.259 543.68 575.179C 519.62 579.499 495.62 584.099 471.63 588.999C 376.25 533.969 286.4 465.749 204.83 384.179Z"/>
+    <path id="path392_fill" d="M 72.0501 4.88281e-05C 67.5301 15.16 62.91 30.29 58.21 45.41C 38.6 35.42 19.18 24.88 9.76562e-06 13.82C 23.99 8.92999 47.9901 4.32005 72.0501 4.88281e-05Z"/>
+    <path
+      id="path393_fill"
+      d="M 230.346 48.5898C 208.546 172.172 208.546 298.832 230.346 422.422C 222.906 550.39 207.776 678 184.996 804.511C 169.826 809.031 154.706 813.652 139.586 818.359C 18.6564 581.082 -23.7137 314.09 12.5363 55.9805C 83.7563 35.5703 155.366 16.9219 227.316 -1.05591e-06C 228.506 16.1914 229.416 32.3906 230.346 48.5898Z"/>
+    <path id="path394_fill" d="M 4.88281e-05 13.84C 15.11 9.133 30.24 4.51197 45.41 -2.53906e-05C 41.08 24.051 36.4699 48.063 31.5899 72.039C 20.5199 52.852 9.99005 33.449 4.88281e-05 13.84Z"/>
+    <path id="path395_fill" d="M -7.8125e-05 36.5C 58.6799 23.1679 117.56 11 176.63 -3.49121e-06C 161.26 46.6484 149.86 94.3203 142.4 142.488C 95.3801 106.301 47.9099 70.9609 -7.8125e-05 36.5Z"/>
+    <path
+      id="path396_fill"
+      d="M 41.1 1.46484e-06C 227.53 120.231 448.93 163.951 660.83 131.141C 697.02 178.161 732.36 225.641 766.82 273.541C 765.34 280.091 763.89 286.651 762.39 293.181C 745.18 297.091 727.93 300.591 710.59 303.661C 586.1 296.391 461.27 296.391 336.76 303.641C 220.01 283.031 106 242.981 -0.000107422 183.421C 15.1999 122.561 28.9 61.401 41.1 1.46484e-06Z"/>
+    <path id="path397_fill" d="M 373.83 5.43744C 250.26 27.2374 123.6 27.2374 -9.76563e-05 5.43744C 124.51 -1.81256 249.34 -1.81256 373.83 5.43744Z"/>
+    <path
+      id="path398_fill"
+      d="M 303.65 725.731C 242.25 737.922 181.1 751.621 120.24 766.82C 60.68 660.82 20.6201 546.813 0.0100684 430.063C 7.26007 305.551 7.26006 180.731 5.85937e-05 56.2304C 3.06006 38.8906 6.57003 21.6406 10.47 4.4414C 17.01 2.9296 23.5699 1.4921 30.1099 6.46973e-07C 78.0099 34.4726 125.48 69.8125 172.51 105.992C 139.7 317.891 183.42 539.293 303.65 725.731Z"/>
+    <path
+      id="path399_fill"
+      d="M 302.82 147.871C 348.68 193.742 398.32 233.5 450.7 267.269C 438.51 328.67 424.81 389.83 409.6 450.69C 326.18 403.83 247.7 344.94 176.73 273.96C 105.75 203 46.87 124.511 3.90625e-05 41.089C 60.86 25.89 122.02 12.191 183.42 1.95312e-05C 217.19 52.371 256.96 102.011 302.82 147.871Z"/>
+    <path id="path400_fill" d="M 16.3501 373.832C -5.44994 250.242 -5.44994 123.582 16.3501 -2.21252e-07C 23.6101 124.511 23.6101 249.32 16.3501 373.832Z"/>
+    <path id="path401_fill" d="M -5.85937e-05 66.148C 96.2599 62.699 191.94 40.679 281.26 -8.78906e-06C 272.85 56.988 263.33 113.859 252.76 170.569C 206.11 185.939 158.44 197.329 110.28 204.789C 74.3702 158.129 37.5999 111.918 -5.85937e-05 66.148Z"/>
+    <path id="path402_fill" d="M 138.64 281.261C 92.8699 243.66 46.6601 206.882 6.83594e-05 170.972C 7.46007 122.82 18.85 75.1402 34.22 28.4918C 90.93 17.9332 147.8 8.41 204.8 -1.89209e-06C 164.11 89.3121 142.09 185 138.64 281.261Z"/>
+    <path id="path403_fill" d="M 509.45 154.391C 547.05 200.161 583.82 246.372 619.73 293.032C 407.83 325.842 186.42 282.132 -9.76562e-06 161.891C 10.67 108.102 20.2201 54.122 28.5701 1.02539e-05C 169.36 108.973 340.19 160.493 509.45 154.391Z"/>
+    <path id="path404_fill" d="M 303.586 591.168C 249.466 599.508 195.476 609.071 141.686 619.731C 21.4559 433.309 -22.254 211.91 10.546 -4.08936e-07C 57.206 35.9101 103.416 72.6877 149.186 110.289C 143.096 279.539 194.596 450.367 303.586 591.168Z"/>
+    <path
+      id="path405_fill"
+      d="M -3.90625e-05 28.571C 53.8 17.891 107.77 8.33997 161.89 -2.53906e-05C 181.05 24.742 201.77 48.66 224.47 71.371C 247.18 94.082 271.1 114.801 295.85 133.949C 287.5 188.082 277.95 242.051 267.27 295.84C 214.91 262.071 165.26 222.313 119.4 176.449C 73.5401 130.59 33.78 80.942 -3.90625e-05 28.571Z"/>
+    <path id="path406_fill" d="M 410.19 2.68555e-05C 404.43 50.43 397.85 100.789 390.42 151.051C 301.11 191.73 205.42 213.75 109.16 217.211C 73.5399 173.871 37.1498 130.93 -0.000214844 88.43C 140.48 107.16 286.06 77.648 410.19 2.68555e-05Z"/>
+    <path id="path407_fill" d="M 128.77 410.199C 86.27 373.039 43.34 336.66 -3.90625e-05 301.039C 3.44996 204.778 25.4701 109.09 66.1601 19.778C 116.41 12.34 166.77 5.75801 217.2 5.85938e-06C 139.56 124.129 110.04 269.719 128.77 410.199Z"/>
+    <path id="path408_fill" d="M 5.85938e-05 146.757C 7.53006 97.949 14.1001 49.007 19.7501 -8.78906e-06C 119.09 97.8 243.21 155.238 371.72 172.379C 408.87 214.879 445.26 257.808 480.88 301.148C 311.62 307.25 140.79 255.738 5.85938e-05 146.757Z"/>
+    <path id="path409_fill" d="M 301.652 461.129C 252.632 466.77 203.702 473.34 154.892 480.879C 45.9016 340.078 -5.59854 169.25 0.481465 7.32422e-06C 43.8215 35.621 86.7515 72.012 129.251 109.149C 146.401 237.668 203.832 361.782 301.652 461.129Z"/>
+    <path
+      id="path410_fill"
+      d="M 150.14 3.559C 151.3 4.731 152.53 5.78903 153.7 6.93803C 148.05 55.969 141.49 104.887 133.95 153.7C 109.21 134.547 85.2799 113.84 62.5799 91.118C 39.8699 68.43 19.1501 44.489 0.000107422 19.758C 48.8101 12.231 97.7401 5.64898 146.76 -2.09961e-05C 147.91 1.16798 148.98 2.399 150.14 3.559Z"/>
+    <path
+      id="path411_fill"
+      d="M 510.63 -1.95312e-05C 523.8 1.00798 536.95 2.11 550.12 3.27C 547.01 37.079 543.52 70.86 539.66 104.61C 415.53 182.25 269.95 211.782 129.46 193.04C 87.3 144.782 44.1301 97.11 5.85938e-05 50C 164.58 124.04 359.93 107.36 510.63 -1.95312e-05Z"/>
+    <path
+      id="path412_fill"
+      d="M 198.508 39.489C 91.1477 190.199 74.4677 385.551 148.508 550.129C 101.398 506 53.7177 462.821 5.45769 420.66C -13.2823 280.18 16.2476 134.59 93.8976 10.469C 127.648 6.602 161.428 3.12101 195.238 7.32422e-06C 196.398 13.172 197.488 26.328 198.508 39.489Z"/>
+    <path id="path413_fill" d="M 68.52 66C 89.26 86.742 111.39 105.211 134.51 121.68C 89.61 125.172 44.77 129.449 -4.88281e-05 134.512C 5.05995 89.75 9.34003 44.902 12.83 1.46484e-06C 29.3 23.121 47.78 45.25 68.52 66Z"/>
+    <path
+      id="path414_fill"
+      d="M 135.4 -1.95312e-05C 163.09 19.719 192.26 36.391 222.5 50C 266.63 97.11 309.8 144.782 351.97 193.04C 223.46 175.911 99.3401 118.461 5.85937e-05 20.649C 0.290059 18.051 0.599951 15.442 0.889951 12.829C 45.6499 7.75002 90.51 3.48098 135.4 -1.95312e-05Z"/>
+    <path
+      id="path415_fill"
+      d="M 193.05 216.582C 189.56 261.472 185.28 306.32 180.22 351.09C 177.61 351.371 174.99 351.679 172.39 351.98C 74.5801 252.633 17.13 128.511 -1.95312e-05 -5.85938e-06C 48.26 42.172 95.94 85.351 143.05 129.48C 156.65 159.711 173.32 188.883 193.05 216.582Z"/>
+    <path id="path416_fill" d="M 0.000117187 0.889975C 2.60012 0.588975 5.21995 0.281021 7.82995 2.09961e-05C 7.52995 2.61302 7.24006 5.22199 6.94006 7.83199C 5.77006 6.67099 4.54 5.613 3.38 4.441C 2.22 3.281 1.15012 2.06197 0.000117187 0.889975Z"/>
+    <path
+      id="path417_fill"
+      d="M 113.79 177.68C 165.22 229.121 226.46 264.723 291.48 284.652C 246.3 286.121 201.14 288.41 156.03 291.473C 130.59 265.02 104.93 238.699 78.8601 212.621C 52.7801 186.539 26.46 160.891 -9.76562e-06 135.453C 3.06999 90.332 5.35007 45.172 6.83007 1.46484e-06C 26.7601 65.02 62.36 126.262 113.79 177.68Z"/>
+    <path
+      id="path418_fill"
+      d="M 177.68 55.957C 195.27 38.386 210.88 19.617 224.77 -6.5918e-06C 222.31 46.179 219.2 92.316 215.35 138.429C 201.55 150.636 187.23 161.976 172.51 172.468C 115.06 168.008 57.5502 164.808 0.000175781 162.929C 65.0202 143 126.26 107.398 177.68 55.957Z"/>
+    <path
+      id="path419_fill"
+      d="M 116.5 47.09C 65.07 98.5076 29.4701 159.75 9.54007 224.781C 7.65007 167.219 4.46003 109.711 2.92969e-05 52.258C 10.49 37.539 21.8201 23.23 34.0401 9.429C 80.1401 5.57 126.29 2.46899 172.47 -5.12695e-06C 152.85 13.89 134.08 29.508 116.5 47.09Z"/>
+    <path
+      id="path420_fill"
+      d="M 135.46 -2.09961e-05C 217.69 25.188 305.94 25.188 388.17 -2.09961e-05C 445.72 1.87898 503.23 5.07898 560.68 9.53898C 409.97 116.887 214.63 133.571 50.0501 59.551C 33.5101 41.879 16.8298 24.309 -0.000234375 6.82102C 45.1198 3.75802 90.2802 1.46898 135.46 -2.09961e-05Z"/>
+    <path
+      id="path421_fill"
+      d="M 104.865 425.23C 103.385 470.402 101.105 515.57 98.0349 560.683C 80.5449 543.863 62.9749 527.179 45.3149 510.64C -28.7151 346.05 -12.0351 150.703 95.3249 -1.89209e-06C 99.7849 57.4527 102.975 114.96 104.865 172.511C 79.665 254.75 79.665 342.992 104.865 425.23Z"/>
+    <path
+      id="path422_fill"
+      d="M 2.92969e-05 37.059C 0.960029 24.707 1.86999 12.36 2.70999 4.39453e-06C 29.17 25.438 55.5001 51.098 81.5601 77.168C 107.64 103.238 133.3 129.567 158.74 156.02C 146.38 156.86 134.02 157.778 121.68 158.738C 98.56 142.258 76.43 123.789 55.68 103.047C 34.94 82.297 16.47 60.168 2.92969e-05 37.059Z"/>
+    <path id="path423_fill" d="M 87.0998 52.71C 56.8698 39.109 27.7 22.441 -4.88281e-05 2.70998C 12.35 1.74998 24.7198 0.83902 37.0598 1.95312e-05C 53.8898 17.48 70.5698 35.058 87.0998 52.71Z"/>
+    <path id="path424_fill" d="M 50 87.102C 30.27 59.403 13.6 30.231 2.92969e-05 5.12695e-06C 17.65 16.531 35.22 33.223 52.71 50.043C 51.87 62.403 50.96 74.75 50 87.102Z"/>
+    <path
+      id="path425_fill"
+      d="M 234.06 104.379C 169 39.32 85.1499 4.56999 -0.000117187 -7.32422e-06C 76.2799 0.307993 152.56 2.531 228.77 6.609C 248.39 20.519 267.16 36.129 284.73 53.718C 302.31 71.2887 317.93 90.0622 331.83 109.679C 335.92 185.89 338.13 262.172 338.45 338.449C 333.88 253.301 299.13 169.441 234.06 104.379Z"/>
+    <path
+      id="path426_fill"
+      d="M 6.83594e-05 484.109C 2.76007 399.902 2.76007 315.601 6.83594e-05 231.39C 19.9301 166.379 55.53 105.129 106.96 53.711C 124.53 36.14 143.31 20.511 162.93 6.621C 239.13 2.53099 315.41 0.319993 391.71 -7.32422e-06C 306.54 4.56199 222.69 39.32 157.63 104.39C 17.7002 244.308 17.7002 471.191 157.63 611.121C 297.57 751.058 524.44 751.058 664.37 611.121C 729.43 546.07 764.19 462.211 768.76 377.05C 768.44 453.34 766.23 529.629 762.14 605.832C 748.23 625.449 732.62 644.218 715.05 661.789C 663.61 713.23 602.37 748.832 537.36 768.761C 453.14 765.992 368.86 765.992 284.65 768.761C 219.63 748.832 158.39 713.23 106.96 661.789C 55.53 610.359 19.9301 549.121 6.83594e-05 484.109Z"/>
+    <path id="path427_fill" d="M 252.71 2.07673C 170.48 27.2647 82.2302 27.2647 0.000214844 2.07673C 84.2102 -0.692271 168.5 -0.692271 252.71 2.07673Z"/>
+    <path id="path428_fill" d="M 18.9001 252.719C -6.29993 170.481 -6.29993 82.2387 18.9001 -2.75879e-06C 21.6601 84.2107 21.6601 168.512 18.9001 252.719Z"/>
+    <path
+      id="path429_fill"
+      d="M 147.187 568.936C 263.787 685.557 452.847 685.557 569.457 568.936C 686.067 452.327 686.067 263.264 569.457 146.655C 452.847 30.0462 263.787 30.0462 147.187 146.655C 30.5674 263.264 30.5674 452.327 147.187 568.936ZM 377.627 0.0382471C 462.777 4.60825 546.627 39.3662 611.687 104.425C 676.757 169.487 711.508 253.335 716.078 338.495C 716.128 351.378 716.128 364.237 716.078 377.085C 711.508 462.257 676.757 546.108 611.687 611.167C 471.767 751.096 244.878 751.096 104.948 611.167C -34.9823 471.237 -34.9823 244.355 104.948 104.425C 170.008 39.3662 253.867 4.60825 339.027 0.0382471C 351.887 -0.0127529 364.747 -0.0127529 377.627 0.0382471Z"/>
+    <path
+      id="path430_fill"
+      d="M 122.645 474.547C 219.815 571.727 377.375 571.727 474.555 474.547C 571.725 377.379 571.725 219.816 474.555 122.648C 377.375 25.4763 219.815 25.4763 122.645 122.648C 25.4751 219.816 25.4751 377.379 122.645 474.547ZM 509.735 87.4568C 626.345 204.066 626.345 393.129 509.735 509.738C 393.125 626.359 204.065 626.359 87.4649 509.738C -29.1551 393.129 -29.1551 204.066 87.4649 87.4568C 204.065 -29.1523 393.125 -29.1523 509.735 87.4568Z"/>
+    <path
+      id="path431_fill"
+      d="M 102.215 395.452C 183.185 476.44 314.475 476.44 395.465 395.452C 476.445 314.483 476.445 183.19 395.465 102.21C 314.475 21.2217 183.185 21.2217 102.215 102.21C 21.2352 183.19 21.2352 314.483 102.215 395.452ZM 424.795 72.8701C 521.955 170.061 521.955 327.612 424.795 424.792C 327.615 521.96 170.065 521.96 72.8851 424.792C -24.2949 327.612 -24.2949 170.061 72.8851 72.8701C 170.065 -24.2901 327.615 -24.2901 424.795 72.8701Z"/>
+    <path
+      id="path432_fill"
+      d="M 85.1724 329.545C 152.652 397.026 262.073 397.026 329.563 329.545C 397.043 262.065 397.043 152.654 329.563 85.1621C 262.073 17.6856 152.652 17.6856 85.1724 85.1621C 17.6924 152.654 17.6924 262.065 85.1724 329.545ZM 353.993 60.7325C 434.973 141.713 434.973 273.006 353.993 353.983C 273.003 434.963 141.713 434.963 60.7427 353.983C -20.2473 273.006 -20.2473 141.713 60.7427 60.7325C 141.713 -20.2441 273.003 -20.2441 353.993 60.7325Z"/>
+    <path
+      id="path433_fill"
+      d="M 70.9788 274.631C 127.219 330.869 218.389 330.869 274.629 274.631C 330.859 218.389 330.859 127.221 274.629 70.9785C 218.389 14.7402 127.219 14.7402 70.9788 70.9785C 14.7388 127.221 14.7388 218.389 70.9788 274.631ZM 294.989 50.6074C 362.469 118.088 362.469 227.51 294.989 294.99C 227.509 362.478 118.099 362.478 50.6189 294.99C -16.8711 227.51 -16.8714 118.088 50.6086 50.6074C 118.099 -16.8691 227.509 -16.8691 294.989 50.6074Z"/>
+    <path
+      id="path434_fill"
+      d="M 59.14 228.858C 106.01 275.71 181.99 275.71 228.86 228.858C 275.72 181.991 275.72 106.01 228.86 59.1513C 181.99 12.2802 106.01 12.2802 59.14 59.1513C 12.29 106.01 12.29 181.991 59.14 228.858ZM 245.82 42.1787C 302.06 98.4213 302.06 189.6 245.82 245.831C 189.59 302.069 98.41 302.069 42.18 245.831C -14.06 189.6 -14.06 98.4213 42.18 42.1787C 98.41 -14.0596 189.59 -14.0596 245.82 42.1787Z"/>
+    <path
+      id="path435_fill"
+      d="M 49.2989 190.712C 88.3389 229.77 151.659 229.77 190.709 190.712C 229.759 151.661 229.759 88.3413 190.709 49.2903C 151.659 10.251 88.3389 10.251 49.2989 49.2903C 10.2389 88.3413 10.2389 151.661 49.2989 190.712ZM 204.849 35.1533C 251.719 82.0123 251.719 157.993 204.849 204.86C 157.989 251.712 82.009 251.719 35.149 204.86C -11.721 157.993 -11.711 82.0123 35.149 35.1533C 82.009 -11.7178 157.989 -11.7178 204.849 35.1533Z"/>
+    <path id="path436_fill" d="M 170.705 29.2795C 209.755 68.3305 209.755 131.65 170.705 170.701C 131.655 209.751 68.3351 209.751 29.2951 170.701C -9.76488 131.65 -9.76488 68.3305 29.2951 29.2795C 68.3351 -9.75982 131.655 -9.75982 170.705 29.2795Z"/>
+  </defs>
+</svg>

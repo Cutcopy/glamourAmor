@@ -38,3 +38,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+socials:
+  github: #
+  twitter: #
+  linkedin: #
