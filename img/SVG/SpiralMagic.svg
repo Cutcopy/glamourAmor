@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 477 477">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+      .cls-2{
+        fill: #00ffc2;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        opacity: 0.42;
+        mix-blend-mode: screen;
+      }
+    </style>
+  </defs>
+  <title>SpiralMagic</title>
+  <g class="cls-1">
+      <g id="SpiralMagic"><circle class="cls-2 sitecolor1" cx="238.5" cy="119.5" r="119"/><circle class="cls-2 sitecolor1" cx="207.7" cy="123.55" r="119"/><circle class="cls-2 sitecolor1" cx="179" cy="135.44" r="119"/><circle class="cls-2 sitecolor1" cx="154.35" cy="154.35" r="119"/><circle class="cls-2 sitecolor1" cx="135.44" cy="179" r="119"/><circle class="cls-2 sitecolor1" cx="123.55" cy="207.7" r="119"/><circle class="cls-2 sitecolor1" cx="119.5" cy="238.5" r="119"/><circle class="cls-2 sitecolor1" cx="123.55" cy="269.3" r="119"/><circle class="cls-2 sitecolor1" cx="135.44" cy="298" r="119"/><circle class="cls-2 sitecolor1" cx="154.35" cy="322.65" r="119"/><circle class="cls-2 sitecolor1" cx="179" cy="341.56" r="119"/><circle class="cls-2 sitecolor1" cx="207.7" cy="353.45" r="119"/><circle class="cls-2 sitecolor1" cx="238.5" cy="357.5" r="119"/><circle class="cls-2 sitecolor1" cx="269.3" cy="353.45" r="119"/><circle class="cls-2 sitecolor1" cx="298" cy="341.56" r="119"/><circle class="cls-2 sitecolor1" cx="322.65" cy="322.65" r="119"/><circle class="cls-2 sitecolor1" cx="341.56" cy="298" r="119"/><circle class="cls-2 sitecolor1" cx="353.45" cy="269.3" r="119"/><circle class="cls-2 sitecolor1" cx="357.5" cy="238.5" r="119"/><circle class="cls-2 sitecolor1" cx="353.45" cy="207.7" r="119"/><circle class="cls-2 sitecolor1" cx="341.56" cy="179" r="119"/><circle class="cls-2 sitecolor1" cx="322.65" cy="154.35" r="119"/><circle class="cls-2 sitecolor1" cx="298" cy="135.44" r="119"/><circle class="cls-2 sitecolor1" cx="269.3" cy="123.55" r="119"/></g>
+    </g>
+</svg>

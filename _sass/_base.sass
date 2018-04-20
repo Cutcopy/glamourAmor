@@ -12,7 +12,15 @@ body
 p
   color: white
 
+main
+  display: flex
+  align-items: center
+  padding: 5rem
 
+h1
+  padding: 1rem
+  color: #333333
+  background: #f90094
 
 //.wrapper-dk
   padding-top: $nav-width
@@ -28,4 +36,3 @@ p
 @each $header, $size in (h1: 8rem, h2: 6rem, h3: 4rem, h4: 3rem, h5: 2rem, h6: 1.5rem)
   #{$header}
     font-size: $size
-    color: white

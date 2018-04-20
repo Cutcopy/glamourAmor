@@ -14,6 +14,7 @@ colorInput1.addEventListener('input', function(){
   var elems = byClass('sitecolor1');
   for (var i=0;i<elems.length;i+=1){
     elems[i].style.background = bg;
+    elems[i].style.fill = bg
   }
 });
 
@@ -22,7 +23,8 @@ colorInput2.addEventListener('input', function(){
   var fg = colorInput2.value
   var elems = byClass('sitecolor2');
   for (var i=0;i<elems.length;i+=1){
-    elems[i].style.color = fg;
+    elems[i].style.background = fg;
+    elems[i].style.fill = fg;
   }
 });
 
@@ -39,9 +41,11 @@ function swapColor(){
   var elems = byClass('sitecolor1');
   for (var i=0;i<elems.length;i+=1){
     elems[i].style.background = fg;
+    elems[i].style.fill = fg;
     }
     var elems = byClass('sitecolor2');
     for (var i=0;i<elems.length;i+=1){
-      elems[i].style.color = bg;
+      elems[i].style.background = bg;
+      elems[i].style.fill = bg
     }
 };
